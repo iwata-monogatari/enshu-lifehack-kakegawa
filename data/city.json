@@ -1,0 +1,35 @@
+{
+ "city_id": "kakegawa",
+ "city_name": "掛川市",
+ "site_name": "掛川ライフハック",
+ "site_url": "https://kakegawa.enshu-lifehack.com",
+ "official": {
+  "domain": "www.city.kakegawa.shizuoka.jp",
+  "top": "https://www.city.kakegawa.shizuoka.jp/",
+  "hall_name": "掛川市役所",
+  "hall_address": "〒436-8650 静岡県掛川市長谷一丁目1番地1",
+  "hall_tel": "0537-21-1111",
+  "branches": [
+   {
+    "name": "大東支所",
+    "note": "静岡県掛川市三俣620／各種届出・証明書は本庁・大東支所・大須賀支所のいずれでも受付可能な業務がある（要個別確認）"
+   },
+   {
+    "name": "大須賀支所",
+    "note": "静岡県掛川市西大渕100"
+   }
+  ],
+  "tetsuduki_navi": "https://navi.city.kakegawa.shizuoka.jp/",
+  "fire_emergency": "掛川市消防本部（中央消防署・南消防署の2署体制。大東・大須賀地区は2005年合併で掛川市消防本部に統合済み）"
+ },
+ "cv": {
+  "kaigo_lead": true,
+  "fudosan_link": true,
+  "monogatari_link": true,
+  "context_links": true
+ },
+ "notes": [
+  "2005年に旧掛川市・大東町・大須賀町が合併して現在の掛川市。手続きによっては本庁・大東支所・大須賀支所で受付窓口が分かれるため、窓口確認は支所単位で行う必要がある",
+  "磐田・袋井に隣接し不動産商圏内。介護CVリード対象（磐田・袋井・森町と同様）"
+ ]
+}
