@@ -211,6 +211,16 @@ def render_page(item, city, category_items, content_map):
     verified = status in PUBLISHABLE_STATUSES
     verified_date = item.get("verified_date") or item.get("ai_checked_date") or "確認中"
 
+    hub_href = min((i["href"] for i in category_items), key=len)
+    is_hub = item["href"] == hub_href
+    if is_hub:
+        breadcrumb = f'<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ {esc(icon)} {esc(category)}</p>'
+    else:
+        breadcrumb = (
+            f'<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ '
+            f'<a href="{esc(hub_href)}">{esc(icon)} {esc(category)}</a> ／ {esc(title)}</p>'
+        )
+
     content = content_map.get(item["href"])
 
     if content and content.get("lead"):
@@ -243,7 +253,7 @@ def render_page(item, city, category_items, content_map):
 <!-- PART:header:START --><header class="site"><div class="wrap"><a class="logo" href="/">{esc(site_name)}</a></div></header><!-- PART:header:END -->
 <!-- PART:disclaimer:START --><div class="disclaimer"><div class="wrap">{esc(site_name)}は{esc(city_name)}公式サイトではありません。最新・正確な情報は必ず公式ページで確認してください。</div></div><!-- PART:disclaimer:END -->
 <main><div class="wrap">
-<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ <a href="{esc(item['href'].rsplit('/', 2)[0])}/">{esc(icon)} {esc(category)}</a> ／ {esc(title)}</p>
+{breadcrumb}
 <section class="hero"><div class="hero-visual"><h1>{esc(title)}</h1></div><div class="hero-body"><p class="lead">{lead}</p></div></section>
 {note_html}
 {rich_html}

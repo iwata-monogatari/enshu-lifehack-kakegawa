@@ -50,7 +50,7 @@ def check_internal_links():
     existing.add("/terms/")
     for path in LIFE_DIR.rglob("index.html"):
         html = path.read_text(encoding="utf-8")
-        for href in re.findall(r'href="(/life/[^"#?]+/)"', html):
+        for href in re.findall(r'href="(/life/[^"#?]*/)"', html):
             if href not in existing:
                 problems.append(f"内部リンク切れ: {path} -> {href}")
     return problems
