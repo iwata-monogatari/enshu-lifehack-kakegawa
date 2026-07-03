@@ -5099,37 +5099,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
-    "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/soudanshitai/hokatsu-shien/",
-    "label": "子育て世代包括支援センター - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9157.html",
     "label": "成年後見制度について教えてください。 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "city_window": "健康福祉部福祉課 0537-21-1215",
+   "court": "静岡家庭裁判所掛川支部 0537-22-3036（申立て手続き）",
+   "legal_support": "リーガルサポート静岡 054-289-3700／県社会福祉士会「ぱあとなあ静岡」054-252-9877"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の判断能力が心配になったら、成年後見制度の相談先を先に確認する"
  },
  {
   "href": "/life/parents-care/care-certification-support-center/",
@@ -5164,37 +5149,28 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/556135.html",
-    "label": "介護認定を受けている方の障害者控除認定 - 掛川市",
-    "match_score": 10,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/131772.html",
+    "label": "介護保険サービスを受けるには(要介護認定) - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/960920.html",
-    "label": "マイナ保険証への移行に伴う第2号被保険者の要介護認定申請の医療保険資格情報の確認について - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/953553.html",
-    "label": "【介護保険料】納付済額の確認方法について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/867160.html",
-    "label": "刑法等の一部を改正する法律の施行等に伴う介護保険被保険者証等の字句の読み替えについて - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
+    "label": "地域包括支援センター業務 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "長寿推進課 介護認定係（本庁1階／大東支所・南部大東ふくしあ／大須賀支所・南部大須賀ふくしあでも申請可）",
+   "tel": "0537-21-1142",
+   "duration": "申請から原則30日以内に認定結果を通知。遅れる場合は遅延通知が届く",
+   "agent": "地域包括支援センター・居宅介護支援事業者・介護保険施設による申請代行も可能"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の介護認定は、申請窓口と原則30日の通知期間を先に知っておく"
  },
  {
   "href": "/life/parents-care/care-started/",
@@ -5231,35 +5207,31 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
     "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379788.html",
-    "label": "介護保険サービス事業所一覧 - オープンデータサイト",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/soudanshitai/hokatsu-shien/",
-    "label": "子育て世代包括支援センター - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/service/",
-    "label": "介護保険で受けられるサービス - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/131772.html",
+    "label": "介護保険サービスを受けるには(要介護認定) - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "地域包括支援センター（5か所・地区別）": {
+    "東部": "0537-61-5050（薗ヶ谷881-1）",
+    "西部": "0537-23-8669（下垂木1270-2）",
+    "中部": "0537-21-1338（杉谷南一丁目1-30）",
+    "南部大東": "0537-72-6640（三俣620・大東支所内）",
+    "南部大須賀": "0537-48-5370（西大渕100・大須賀支所内）"
+   },
+   "代表窓口": "長寿推進課 予防支援係 0537-21-1364",
+   "受付時間": "月～金曜日 8:30～17:15"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の介護が急に始まったら、まず地域包括支援センターに相談する"
  },
  {
   "href": "/life/parents-care/check-parents/",
@@ -5295,37 +5267,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
-    "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/15503.html",
     "label": "掛川市高齢者見守りネットワーク通信 - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8334.html",
-    "label": "地域で支える見守りネットワーク活動運営マニュアル - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
+    "label": "地域包括支援センター業務 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "長寿推進課 予防支援係",
+   "tel": "0537-21-1364"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "離れて暮らす親が心配なとき、掛川市の見守りネットワークと相談窓口を確認する"
  },
  {
   "href": "/life/parents-care/community-support-center/",
@@ -5350,35 +5311,26 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
     "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/soudanshitai/hokatsu-shien/",
-    "label": "子育て世代包括支援センター - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/asobiba/kosodateshien-center/center-sayanomori.html",
-    "label": "地域子育て支援センターさやのもり（子育てセンターさやのもり） - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/asobiba/kosodateshien-center/center-ohisama.html",
-    "label": "地域子育て支援センターおひさま（子育てセンターひだまり） - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "地域包括支援センター（5か所・地区別）": {
+    "東部": "0537-61-5050（薗ヶ谷881-1）",
+    "西部": "0537-23-8669（下垂木1270-2）",
+    "中部": "0537-21-1338（杉谷南一丁目1-30）",
+    "南部大東": "0537-72-6640（三俣620・大東支所内）",
+    "南部大須賀": "0537-48-5370（西大渕100・大須賀支所内）"
+   },
+   "代表窓口": "長寿推進課 予防支援係 0537-21-1364",
+   "受付時間": "月～金曜日 8:30～17:15"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "どこに相談すればいいか分からない介護の悩みは、地区の地域包括支援センターへ"
  },
  {
   "href": "/life/parents-care/dementia-consultation/",
@@ -5424,35 +5376,25 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
     "label": "認知症について - 掛川市",
-    "match_score": 11,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
     "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/15503.html",
-    "label": "掛川市高齢者見守りネットワーク通信 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8334.html",
-    "label": "地域で支える見守りネットワーク活動運営マニュアル - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "長寿推進課 予防支援係",
+   "tel": "0537-21-1364",
+   "team": "認知症初期集中支援チーム：40歳以上で医療・介護に結びついていない方が対象。専門職チームが約6か月訪問支援"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親が認知症かもしれないと感じたら、抱え込まず地域包括支援センターへ相談する"
  },
  {
   "href": "/life/parents-care/elderly-transportation/",
@@ -5490,35 +5432,23 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
     "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/844200.html",
     "label": "AIオンデマンド交通「CHAIのり号」利用規約 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/988974.html",
-    "label": "【令和8年4月1日から】自主運行バス（市街地循環線北回り・南回り、倉真線、桜木線、大須賀線）の変更点について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/970647.html",
-    "label": "自主運行バス「桜木線」の運行車両の変更について - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "service": "ふれあいタクシー（デマンド型乗合タクシー）／CHAIのり号（AIオンデマンド交通）の2種の予約制交通がある（提供地域が異なるため要確認）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "通院や買い物に行きづらくなった親の「足」を、デマンド交通で確保する"
  },
  {
   "href": "/life/parents-care/find-nursing-home/",
@@ -5568,35 +5498,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/jigyosha/",
     "label": "市内の介護サービス提供事業者一覧 - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/service/",
     "label": "介護保険で受けられるサービス - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/953553.html",
-    "label": "【介護保険料】納付済額の確認方法について - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8339.html",
-    "label": "高齢者緊急通報システム事業 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の介護施設は、種類の違いと市内事業者一覧から落ち着いて選ぶ"
  },
  {
   "href": "/life/parents-care/",
@@ -5616,31 +5532,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/",
+    "label": "介護 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379788.html",
-    "label": "介護保険サービス事業所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
+    "label": "地域包括支援センター業務 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親のこと"
  },
  {
   "href": "/life/parents-care/long-term-care-insurance/",
@@ -5684,37 +5592,27 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8316.html",
-    "label": "高額介護サービス費 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379788.html",
-    "label": "介護保険サービス事業所一覧 - オープンデータサイト",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8498.html",
-    "label": "市の指定する介護保険サービス事業所の新規指定、更新、変更、廃止・休止・再開について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/131772.html",
     "label": "介護保険サービスを受けるには(要介護認定) - 掛川市",
-    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/service/",
+    "label": "介護保険で受けられるサービス - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "長寿推進課 介護認定係",
+   "tel": "0537-21-1142",
+   "duration": "原則30日以内に通知"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の介護が始まったら、要介護認定の申請から順番に動く"
  },
  {
   "href": "/life/play-out/cultural-facilities/",
