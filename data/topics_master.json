@@ -4090,12 +4090,12 @@
   "title": "空き家は、管理・補助金・かけがわランド・バンクの活用を同時に整理する"
  },
  {
-  "href": "/life/living-soon/about-fukuroi/",
+  "href": "/life/living-soon/about-kakegawa/",
   "icon": "🏡",
-  "title_iwata": "袋井で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
+  "title_iwata": "磐田で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
   "category": "これから暮らす",
   "synonyms": [
-   "袋井市の暮らし"
+   "掛川市の暮らし"
   ],
   "tier": "common",
   "source_iwata": [
@@ -4118,37 +4118,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/docs/11706.html",
-    "label": "多言語観光情報ウェブサイト「Guidoor」 - 観光サイト",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/iju/",
+    "label": "移住 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/844238.html",
-    "label": "AIオンデマンド交通「CHAIのり号」プライバシーポリシー - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1034117.html",
+    "label": "静岡県掛川市オンライン移住相談会 - 掛川市",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/531301.html",
-    "label": "株式会社ウェブスタイル - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kosodate/",
-    "label": "子育て・教育 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 移住定住推進係",
+   "tel": "0537-21-1209"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "掛川で暮らす前に、地図だけでは見えない生活の手触りを確認する"
  },
  {
   "href": "/life/living-soon/bus-license-return/",
@@ -4183,37 +4172,28 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
-    "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8337.html",
     "label": "高齢者運転免許自主返納事業 - 掛川市",
-    "match_score": 9,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7451.html",
     "label": "運転免許証自主返納者サポート店について - 掛川市",
-    "match_score": 9,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/844238.html",
-    "label": "AIオンデマンド交通「CHAIのり号」プライバシーポリシー - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
+    "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "運転免許を返したあとも、掛川市のデマンド交通で困らずに動ける道を整える"
  },
  {
   "href": "/life/living-soon/disaster-risk/",
@@ -4257,37 +4237,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7666.html",
-    "label": "掛川市ため池マップ・ハザードマップについて - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10928.html",
+    "label": "防災ガイドブック - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/hinankeikaku-d/disaster-guideline/sediment.html",
-    "label": "土砂災害 - 掛川市家庭の避難計画",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/85498.html",
-    "label": "【受付は終了しました】令和3年7月熱海市伊豆山土砂災害の義援金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/310429.html",
-    "label": "原子力災害時における避難行動について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7666.html",
+    "label": "掛川市ため池マップ・ハザードマップについて - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "洪水・内水・ため池・高潮・津波・土砂災害・火山の各ハザードマップが地区別（南部・中心部・北部）に分かれて公開されている"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "引っ越す前に、候補地が洪水・津波・土砂・地震に強い場所か防災ガイドブックで確かめる"
  },
  {
   "href": "/life/living-soon/",
@@ -4307,37 +4275,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/matching-seeds/986514.html",
-    "label": "掛川で「働く・暮らす」を応援する移住サポート - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/rss-iju/",
-    "label": "移住情報 - ポータルサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/iju/",
+    "label": "移住 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 移住定住推進係",
+   "tel": "0537-21-1209"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "これから暮らす"
  },
  {
   "href": "/life/living-soon/moving-decided/",
@@ -4374,35 +4326,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9965.html",
     "label": "転入・転出・転居届の手続き・持ち物について教えてください。 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/koseki/",
-    "label": "戸籍・住民票・印鑑・マイナンバーカード等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/download/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "引っ越しが決まったら、転入・転出届の持ち物を先に確認する"
  },
  {
   "href": "/life/living-soon/school-districts/",
@@ -4438,37 +4371,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/926433.html",
-    "label": "令和７年度～９年度 小中一貫校施設整備事業 掛川市立城東中学校区小中一貫校建築基本設計業務委託 公募型プロポーザル【終了】 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/818842.html",
-    "label": "令和７年度～８年度 小中一貫校施設整備事業 掛川市立原野谷中学校区小中一貫校建築設計業務委託 公募型プロポーザル【終了】 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7848.html",
     "label": "掛川市内小・中学校通学区一覧 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/604507.html",
-    "label": "掛川市立城東中学校区小中一貫校 基本構想・基本計画策定業務委託 公募型プロポーザル - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "城東中学校区・原野谷中学校区などで小中一貫校の施設整備が進行中（学区再編の可能性があるため最新情報の確認が必要）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "引っ越し先で、子どもがどの小中学校に通うのかを通学区一覧で確かめる"
  },
  {
   "href": "/life/living-soon/transportation/",
@@ -4508,37 +4424,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
-    "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7824.html",
     "label": "掛川市地域公共交通計画（2024-2028年度） - 掛川市",
-    "match_score": 8,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/542303.html",
-    "label": "「掛川市地域公共交通計画（案）」意見公募（パブリックコメント）の結果について - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/419765.html",
-    "label": "「掛川市地域公共交通計画（案）」意見公募（パブリックコメント）※終了しました - 掛川市",
-    "match_score": 8,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
+    "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "住む地区を決める前に、掛川市の移動手段を先に確かめる"
  },
  {
   "href": "/life/living-soon/want-to-live/",
@@ -4572,35 +4474,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7393.html",
     "label": "移住・就業支援金 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9206.html",
-    "label": "静岡県マッチング支援事業 移住・就業支援金対象法人登録申請 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7738.html",
-    "label": "掛川市企業立地促進事業費補助金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/388797.html",
-    "label": "荒廃農地再生・集積促進事業費補助金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/iju/",
+    "label": "移住 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "広い家で、安定した仕事があって、子どもをのびのび育てられる暮らしを掛川で考える"
  },
  {
   "href": "/life/moving-out/bulk-garbage-cleaning/",
