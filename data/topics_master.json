@@ -33,35 +33,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/324185.html",
     "label": "掛川市放課後児童クラブ（学童保育所） - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1033811.html",
-    "label": "掛川市放課後児童健全育成事業 西郷小学校区放課後児童クラブ(A)(B)(C)(D)管理運営業務委託 公募型プロポーザルの実施について - 掛川市",
-    "match_score": 9,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/",
-    "label": "小、中学校・学童保育 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/sho-chu-gakkou/",
-    "label": "小、中学校・学童保育 - 掛川市",
-    "match_score": 8,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "放課後の預け先は、放課後児童クラブの対象と申請時期を先に確認する"
  },
  {
   "href": "/life/education/educational-consulting/",
@@ -94,37 +75,24 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/",
-    "label": "小・中学校の紹介 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko-shokai/index.p2.html",
-    "label": "小・中学校のお知らせ - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko-shokai/",
-    "label": "小・中学校のお知らせ - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/lifeevent/kyoiku/shochu/",
-    "label": "小・中学校 - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8063.html",
+    "label": "教育相談 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "掛川市教育センター",
+   "address": "掛川市三俣620 大東支所4階",
+   "tel": "0537-72-1345",
+   "hours": "月〜金 9:00〜16:00",
+   "note": "不登校・対人関係・いじめ・学習・進路の相談窓口。中学校にはスクールカウンセラーも配置"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "教育相談は、掛川市教育センターへ困りごとを整理してから相談する"
  },
  {
   "href": "/life/education/elementary-middle-school/",
@@ -159,35 +127,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7848.html",
     "label": "掛川市内小・中学校通学区一覧 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
-    "label": "掛川市内全小中学校体育施設に予約システム導入 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/411832.html",
-    "label": "小中学校のグランドデザイン - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/gakkou/",
-    "label": "小・中学校 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/",
+    "label": "小・中学校の紹介 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "小学校・中学校の情報は、学校一覧・通学区・手続きを分けて見る"
  },
  {
   "href": "/life/education/",
@@ -208,37 +162,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/matching-needs/462413.html",
-    "label": "【掛川自動車学校】大型免許取得サポート企画 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/688421.html",
-    "label": "静岡県立掛川東高等学校 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/432318.html",
-    "label": "株式会社掛川自動車学校 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kosodate/",
-    "label": "子育て・教育 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/",
+    "label": "小・中学校の紹介 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "学ぶ・育つ"
  },
  {
   "href": "/life/education/school-attendance-support/",
@@ -271,37 +206,28 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
-    "label": "がん検診・健康診査 - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8063.html",
+    "label": "教育相談 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/shiplan/kosodate/",
-    "label": "子育て・教育関連 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/shiplan/kenko/",
-    "label": "健康・福祉関連 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/kyouiku-about/index.p2.html",
-    "label": "教育委員会について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10210.html",
+    "label": "不登校児童生徒のための「みどり教室」 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "掛川市教育センター",
+   "address": "掛川市三俣620 大東支所4階",
+   "tel": "0537-72-1345",
+   "hours": "月〜金 9:00〜16:00"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "就学の不安は、教育センターの相談窓口から健診・手続きを分けて確認する"
  },
  {
   "href": "/life/education/school-district-transfer/",
@@ -335,35 +261,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8899.html",
     "label": "小・中学校を転校するとき - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8898.html",
-    "label": "小・中学校への入学 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7848.html",
     "label": "掛川市内小・中学校通学区一覧 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/gakkou/",
-    "label": "小・中学校 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "転校は、住所変更・通学区・学校手続きをまとめて確認する"
  },
  {
   "href": "/life/education/school-expense-support/",
@@ -396,37 +308,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/shiplan/kosodate/",
-    "label": "子育て・教育関連 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/tyuugakkouku/",
-    "label": "中学校区学園化構想 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/shogakko/",
-    "label": "小学校一覧 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/chugakko/",
-    "label": "中学校一覧 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8811.html",
+    "label": "就学援助制度について - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "学校教育課（申請書は学校にも用意）",
+   "note": "要保護世帯は申請不要。継続希望者は次年度も申請が必要。家計急変時は申請時の収入状況で審査可"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "学校費用の不安は、就学援助制度と申請先を先に確認する"
  },
  {
   "href": "/life/education/school-meals/",
@@ -461,35 +357,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8034.html",
     "label": "学校給食について - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/gakkou/",
-    "label": "小・中学校 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/",
-    "label": "小、中学校・学童保育 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/sho-chugakko/",
-    "label": "小・中学校の紹介 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "学校給食は、献立・費用・アレルギー対応を分けて確認する"
  },
  {
   "href": "/life/education/school-zones/",
@@ -524,35 +401,18 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7848.html",
     "label": "掛川市内小・中学校通学区一覧 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/gakkou/",
-    "label": "小・中学校 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/",
-    "label": "小、中学校・学童保育 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/kyoikuiinkai/tyuugakkouku/",
-    "label": "中学校区学園化構想 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "城東中学校区・原野谷中学校区などで小中一貫校の施設整備が進行中のため、学区再編の可能性がある"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "通学区は、住所と学校情報をセットで確認する"
  },
  {
   "href": "/life/education/study-facilities/",
@@ -585,37 +445,28 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=47&page=139298",
-    "label": "教育委員会教育部 図書館 お問い合わせフォーム - 139298ページ目 - 掛川市",
-    "match_score": 7,
+    "url": "https://library.city.kakegawa.shizuoka.jp/howto/use.html",
+    "label": "ご利用案内 - 掛川市立図書館",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/shiplan/kanko/",
-    "label": "観光・文化・スポーツ関連 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shisetsu/",
-    "label": "子育て・教育施設 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kankobunka/geijyutsu/shisetsu/",
-    "label": "文化・教養施設 - 掛川市",
-    "match_score": 6,
+    "url": "http://library.city.kakegawa.shizuoka.jp/library/central.html",
+    "label": "中央図書館｜各館のご案内｜掛川市立図書館",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "hours": "中央図書館：9:00〜17:00（水・木は19:00まで）",
+   "closed": "毎週月曜、毎月最終金曜（8・12・3月除く）、年末年始",
+   "seats": "大人用137席（社会人専用36席）・子ども用41席",
+   "note": "大東図書館・大須賀図書館も市内に別途あり"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "学習場所は、図書館の開館日・座席・利用ルールを先に確認する"
  },
  {
   "href": "/life/emergency/disaster-certificates-procedures/",
