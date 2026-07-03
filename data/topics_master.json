@@ -7952,37 +7952,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/587068.html",
-    "label": "「軽自動車税納税証明書(車検用)」の郵送を廃止します。 - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/nozei/",
+    "label": "納税方法と納期限 - 掛川市",
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8262.html",
     "label": "口座振替による納税 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/801844.html",
-    "label": "市税の口座振替不能通知を廃止します - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/623553.html",
-    "label": "国外転出者のマイナンバーカードの利用について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "市税の納付方法は、口座振替と各種納付方法を分けて確認する"
  },
  {
   "href": "/life/work-life/",
@@ -8003,37 +7991,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/1041804.html",
-    "label": "『未来創造プロジェクト』参加者大募集 ～中学生にあなたの仕事を体験してもらいます～ - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/sangyo/",
-    "label": "産業・仕事 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/sangyo",
-    "label": "産業・仕事 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/sangyo/shien/",
+    "label": "企業支援情報 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "働く・暮らす"
  },
  {
   "href": "/life/work-life/job-change/",
@@ -8065,37 +8034,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/267869.html",
-    "label": "部活動改革のための支援 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/news/425224.html",
-    "label": "パートナー活動報告「地域企業とNo.12つくる責任・つかう責任を考える」 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/news/425223.html",
-    "label": "パートナー活動報告「プロギング活動」 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/matching_act/804273.html",
-    "label": "【企業マッチング実績】プロギング活動の参加者・企業様の募集 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/789975.html",
+    "label": "ハローワーク掛川（掛川公共職業安定所）のサービスについて - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "ハローワーク掛川",
+   "address": "掛川市駅前4-4 SKしんきんプラザ2階",
+   "tel": "0537-22-4185"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "就職・転職活動は、ハローワーク掛川の求人情報を先に確認する"
  },
  {
   "href": "/life/work-life/job-recruitment/",
@@ -8127,37 +8081,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1052219.html",
-    "label": "【重要_日程変更】令和８年度職員採用試験 第２次試験結果および第３次（職務経験者第２次）試験日程について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1038124.html",
-    "label": "令和８年度職員採用試験 第１次試験結果及び第２次試験日程 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/986469.html",
     "label": "令和8年度 市職員採用試験案内先行募集 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1045309.html",
-    "label": "令和８年度職員採用試験先行募集 第２次試験結果 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "掛川市職員採用情報は、募集要項と試験日程を先に確認する"
  },
  {
   "href": "/life/work-life/light-vehicle-tax/",
@@ -8188,37 +8123,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/587068.html",
-    "label": "「軽自動車税納税証明書(車検用)」の郵送を廃止します。 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/jidosha/",
     "label": "軽自動車税 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8102.html",
-    "label": "軽自動車税（環境性能割）の廃止 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8101.html",
-    "label": "軽自動車税、自動車取得税の免除 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市税課 市民税係 0537-21-1136"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "軽自動車税の手続きは、税額区分と登録先を分けて確認する"
  },
  {
   "href": "/life/work-life/my-number-card/",
@@ -8245,37 +8163,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/50718.html",
-    "label": "マイナンバーカード休日開庁（事前予約制） - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/922567.html",
     "label": "マイナンバーカード窓口の事前予約制について - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/724310.html",
-    "label": "令和6年12月2日以降の健康保険証の取扱いについて（国民健康保険） - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/718019.html",
-    "label": "マイナンバーカードの暗証番号再設定・ロックの解除がコンビニ等でできます！ - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/50718.html",
+    "label": "マイナンバーカード休日開庁（事前予約制） - 掛川市",
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "マイナンバーカードの手続きは、事前予約制の窓口・休日開庁を活用する"
  },
  {
   "href": "/life/work-life/national-health-insurance-tax/",
@@ -8307,37 +8211,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/206946.html",
-    "label": "【国民健康保険税】納付済額の確認方法について - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kokuho/",
     "label": "国民健康保険税 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/953553.html",
-    "label": "【介護保険料】納付済額の確認方法について - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8366.html",
     "label": "国民健康保険税とは - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "国保年金課 国保年金係 0537-21-1143"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "国民健康保険税は、所得割・均等割の仕組みと減免申請を先に確認する"
  },
  {
   "href": "/life/work-life/nhk-pension/",
@@ -8367,35 +8259,18 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8358.html",
     "label": "国民健康保険の加入 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/nenkin/hoken/",
-    "label": "国民健康保険 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/kokuho/",
-    "label": "国民健康保険 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/kokuho/",
-    "label": "国民健康保険 - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "国保年金課 0537-21-1143"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "国民健康保険・年金の手続きは、資格喪失証明と期限を先に確認する"
  },
  {
   "href": "/life/work-life/resident-tax/",
@@ -8426,37 +8301,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/734882.html",
-    "label": "eLTAXによる給与支払報告書の提出及び住民税の電子納付について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8179.html",
+    "label": "個人市県民税(住民税)とは - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/623553.html",
-    "label": "国外転出者のマイナンバーカードの利用について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/15183.html",
+    "label": "市県民税・所得税の申告 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市税課 市民税係 0537-21-1136"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "住民税の手続きは、普通徴収・特別徴収と申告を先に確認する"
  },
  {
   "href": "/life/work-life/start-business/",
@@ -8488,37 +8351,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/soudanshitai/soudan-shitai/",
-    "label": "相談窓口 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kana/docs/9257.html",
+    "label": "創業支援相談 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/1036668.html",
-    "label": "子どもたちの「本気の起業」に、大人として伴走しませんか？【掛川商工会議所青年部】 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/419446.html",
+    "label": "掛川市創業支援事業のご案内 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "cci": "掛川商工会議所 創業相談窓口 0537-22-5151（平日8:30-17:00）",
+   "shokokai": "掛川みなみ商工会 創業相談窓口 0537-72-2701（平日8:30-17:00）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "起業・創業の準備は、商工会議所・商工会の創業相談窓口を先に確認する"
  },
  {
   "href": "/life/work-life/start-farming/",
@@ -8549,37 +8401,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/148463.html",
-    "label": "持続可能な社会の実現のための有機農業の促進 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/784015.html",
-    "label": "「主体的な市民の協働による、前向きで持続可能な地域づくり」 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/147094.html",
-    "label": "世界農業遺産「静岡の茶草場農法」の保全、継承 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/147081.html",
-    "label": "環境にやさしい持続可能な有機栽培茶の生産拡大 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10142.html",
+    "label": "農業に興味のあるかたへ - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "農林課",
+   "note": "県・市・JA等が連携。受入農家での約1年間の実践研修制度あり。主要農産物は茶・鶏卵・米・イチゴ・メロン・トマト・バラ・生乳・肉牛・豚肉"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "就農の準備は、農林課と就農相談を先に確認する"
  },
  {
   "href": "/life/work-life/subsidies/",
@@ -8606,37 +8442,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/news-bkup/57814.html",
-    "label": "掛川市教育旅行等宿泊費補助金 - 観光サイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/799420.html",
-    "label": "掛川市空き家活用モデル事業費補助金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7777.html",
-    "label": "掛川市飼い主のいない猫不妊手術等経費補助金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/sangyo/hojokinjoseikin/",
+    "label": "補助金・助成金 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "補助金の申請は、対象要件と事前申請ルールを先に確認する"
  },
  {
   "href": "/life/work-life/tax/",
@@ -8667,37 +8484,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/623553.html",
-    "label": "国外転出者のマイナンバーカードの利用について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/docs/921824.html",
-    "label": "【ロイヤルエクスプレスをお出迎えしよう🚄】市民募集中！ ※受付終了 - 観光サイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/nozei/",
+    "label": "納税方法と納期限 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "shizei": "市税課 市民税係 0537-21-1136",
+   "shisan": "資産税課（固定資産税）0537-21-1137",
+   "nozei": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "税金の手続きは、税目ごとの担当課を先に確認する"
  },
  {
   "href": "/life/work-life/tax-certificates/",
@@ -8731,35 +8533,18 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9222.html",
     "label": "税務証明の取得方法 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/768746.html",
-    "label": "自動車臨時運行（仮ナンバー）オンライン申請 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/953553.html",
-    "label": "【介護保険料】納付済額の確認方法について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/587068.html",
-    "label": "「軽自動車税納税証明書(車検用)」の郵送を廃止します。 - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "コンビニ交付・窓口・郵送のいずれかで取得可能（税目・証明年度により異なる）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "税の証明書は、必要な証明年度と取得方法を先に確認する"
  },
  {
   "href": "/life/work-life/tax-guide/",
@@ -8791,36 +8576,19 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/850944.html",
-    "label": "企業版ふるさと納税の取組への参加（募集） - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/271589.html",
-    "label": "企業版ふるさと納税(地方創生応援税制)を利用した支援「松ヶ岡修復活用事業」 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/271568.html",
-    "label": "企業版ふるさと納税(地方創生応援税制)を利用した支援「掛川潮騒の杜」 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/nozei/",
+    "label": "納税方法と納期限 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "税金の相談は、担当課と納税猶予制度を先に確認する"
  }
 ]
