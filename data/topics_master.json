@@ -1512,25 +1512,27 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/14514.html",
-    "label": "相続人代表者に関する届について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
+    "label": "おくやみコーナー - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/211862.html",
-    "label": "家庭の学び まるわかりガイド - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10921.html",
+    "label": "亡くなられたとき（死亡届） - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市役所本庁1階 市民課",
+   "tel": "0537-21-4140（よいしえん・おくやみコーナー予約）",
+   "hours": "予約制。電話は平日9:00〜16:30受付、利用は電話から3開庁日を過ぎた日以降。所要時間目安1時間。15課の手続きをワンストップ対応"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "死亡後の手続きは、おくやみコーナーで急ぐ届出と後日の手続きを分ける"
  },
  {
   "href": "/life/end-of-life/bereavement/",
@@ -1558,37 +1560,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/koseki/",
-    "label": "戸籍・住民票・印鑑・マイナンバーカード等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10921.html",
+    "label": "亡くなられたとき（死亡届） - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/download/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8857.html",
-    "label": "住民票を取得するには何が必要ですか。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
+    "label": "おくやみコーナー - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市民課（本庁）／大東支所・大須賀支所 市民窓口係（24時間、日直・守衛が受付）",
+   "note": "死亡届提出時に火葬許可証・聖苑火葬利用許可申請書が交付される。火葬場予約は電話で24時間受付"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家族が亡くなったら、死亡届とおくやみコーナーの予約を先に確認する"
  },
  {
   "href": "/life/end-of-life/bereavement-procedures/",
@@ -1621,19 +1612,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/211862.html",
-    "label": "家庭の学び まるわかりガイド - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
+    "label": "おくやみコーナー - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市役所本庁1階 市民課",
+   "tel": "0537-21-4140（よいしえん・おくやみコーナー予約）",
+   "hours": "予約制。電話は平日9:00〜16:30受付、利用は電話から3開庁日を過ぎた日以降。所要時間目安1時間。15課の手続きをワンストップ対応"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "おくやみ手続きは、おくやみコーナーの一括案内を予約してから家族で分担する"
  },
  {
   "href": "/life/end-of-life/grave-memorial/",
@@ -1660,16 +1654,29 @@
     "label": "磐田市合葬墓"
    }
   ],
-  "sources_kakegawa": [],
+  "sources_kakegawa": [
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10203.html",
+    "label": "富士見台霊園の必要な手続きについて - 掛川市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7577.html",
+    "label": "改葬手続き・墓地の廃止について - 掛川市",
+    "confidence": "high"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "環境政策課 公害衛生係",
+   "tel": "0537-21-1145",
+   "note": "承継・再交付・住所変更届等は霊園の手続き窓口へ。改葬（お墓の引っ越し）は別手続き"
   },
-  "status": "draft",
+  "status": "ai-checked",
   "verified_date": null,
-  "ai_checked_date": null,
-  "ai_notes": null,
+  "ai_checked_date": "2026-07-03",
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
   "verified_by": null,
-  "title": null
+  "title": "お墓・供養は、富士見台霊園の手続き窓口を先に確認する"
  },
  {
   "href": "/life/end-of-life/house-became-vacant/",
@@ -1695,16 +1702,28 @@
     "label": "危険空き家解体費用の助成"
    }
   ],
-  "sources_kakegawa": [],
+  "sources_kakegawa": [
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://kakegawa-lb.jp/",
+    "label": "かけがわランド・バンク",
+    "confidence": "high"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "くらしデザイン課 空き家活用係",
+   "tel": "0537-21-1209"
   },
-  "status": "draft",
+  "status": "ai-checked",
   "verified_date": null,
-  "ai_checked_date": null,
-  "ai_notes": null,
+  "ai_checked_date": "2026-07-03",
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
   "verified_by": null,
-  "title": null
+  "title": "相続後の空き家は、管理・補助金・売却の窓口を早めに分ける"
  },
  {
   "href": "/life/end-of-life/",
@@ -1725,25 +1744,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
+    "label": "おくやみコーナー - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/14514.html",
+    "label": "相続人代表者に関する届について - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "人生の終わり"
  },
  {
   "href": "/life/end-of-life/inheritance/",
@@ -1774,23 +1791,19 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/14514.html",
     "label": "相続人代表者に関する届について - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9265.html",
-    "label": "相続税の税額控除 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "国保年金課（国保・後期高齢者医療）0537-21-1143／長寿推進課 保険給付係（介護保険）",
+   "note": "国保・後期高齢者医療・介護保険のいずれかに加入していた方が亡くなった場合に相続人代表者の届出が必要。複数加入でも国保年金課への届出のみで対応可"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "相続は、市への届出と家族で決めることを分けて進める"
  },
  {
   "href": "/life/end-of-life/inherited-house/",
@@ -1819,19 +1832,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/14514.html",
-    "label": "相続人代表者に関する届について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9989.html",
+    "label": "土地・家屋の所有者が死亡したとき - 掛川市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "財務部 資産税課（固定資産税の相続人代表者届出）",
+   "tel": "0537-21-1137"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の家は、名義（相続登記）・空き家対策・片付けを一つずつ決める"
  },
  {
   "href": "/life/end-of-life/inherited-vacant-house/",
@@ -1859,19 +1879,27 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/34912.html",
-    "label": "掛川でワーケーションしませんか？ - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://kakegawa-lb.jp/",
+    "label": "かけがわランド・バンク",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 空き家活用係",
+   "tel": "0537-21-1209",
+   "programs": "空き家除却事業費補助金／ようこそ掛川流通促進事業費補助金／空き家活用モデル事業費補助金"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "相続した家は、使う・貸す・売る・解体するを空き家対策の窓口で整理する"
  },
  {
   "href": "/life/end-of-life/pension-inheritance/",
@@ -1895,37 +1923,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=114&page=8317",
-    "label": "国保年金課 後期高齢者医療係 お問い合わせフォーム - 8317ページ目 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=114&page=8221",
-    "label": "国保年金課 後期高齢者医療係 お問い合わせフォーム - 8221ページ目 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=114&page=8220",
-    "label": "国保年金課 後期高齢者医療係 お問い合わせフォーム - 8220ページ目 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=114&page=8219",
-    "label": "国保年金課 後期高齢者医療係 お問い合わせフォーム - 8219ページ目 - 掛川市",
-    "match_score": 8,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10129.html",
+    "label": "年金受給者が亡くなられたとき - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "kokumin_nenkin": "国民年金のみ受給：国保年金課 国保年金係（0537-21-1143）または各支所市民窓口係",
+   "kosei_nenkin": "厚生年金受給：日本年金機構 掛川年金事務所（0537-21-5524）",
+   "note": "未支給年金は偶数月に前2か月分が振り込まれる仕組み上、死亡時点で必ず発生する。金融機関への死亡連絡も必要"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "年金の手続きは、国民年金と厚生年金で窓口を分けて確認する"
  },
  {
   "href": "/life/end-of-life/property-tax-inheritance/",
@@ -1949,37 +1962,27 @@
   ],
   "sources_kakegawa": [
    {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9989.html",
+    "label": "土地・家屋の所有者が死亡したとき - 掛川市",
+    "confidence": "high"
+   },
+   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8194.html",
     "label": "固定資産税・都市計画税に関する各種申告書 - 掛川市",
-    "match_score": 12,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8192.html",
-    "label": "固定資産税・都市計画税納税通知書について - 掛川市",
-    "match_score": 12,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "財務部 資産税課",
+   "tel": "0537-21-1137",
+   "note": "相続登記が年内に間に合わない場合、法定相続人の中から納税代表者を決めて届出が必要"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "固定資産税の相続は、資産税課への代表者届と納税通知の行き先を先に確認する"
  },
  {
   "href": "/life/family-grow/child-allowance/",
