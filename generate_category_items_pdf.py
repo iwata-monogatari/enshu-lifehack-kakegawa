@@ -18,7 +18,7 @@ from reportlab.platypus import (
 
 
 ROOT = Path(__file__).resolve().parent
-OUT = ROOT / "output" / "pdf" / "iwata-lifehack-category-items.pdf"
+OUT = ROOT / "output" / "pdf" / "kakegawa-lifehack-category-items.pdf"
 FONT_PATHS = [
     Path(r"C:\Windows\Fonts\NotoSansJP-VF.ttf"),
     Path(r"C:\Windows\Fonts\yumin.ttf"),
