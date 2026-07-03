@@ -2013,19 +2013,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shiritai/shien/teate-jyosei/",
-    "label": "手当・助成 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8729.html",
+    "label": "児童手当 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "こども希望課 こども家庭給付係",
+   "tel": "0537-21-1144",
+   "duration": "手当を受け取る人の住民登録地で、出生日から15日以内に申請",
+   "documents": "受給資格者名義の通帳またはキャッシュカード、父母のマイナンバーがわかるもの"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "児童手当を、出生日から15日以内の申請期限を守って確実に受け取る"
  },
  {
   "href": "/life/family-grow/child-allowance-medical/",
@@ -2065,37 +2069,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/iryo/josei/",
-    "label": "医療費助成 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8475.html",
+    "label": "子ども医療費助成 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9181.html",
-    "label": "精神障がい者医療費助成 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8865.html",
-    "label": "重度心身障害者医療費助成 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8864.html",
-    "label": "重度心身障害者医療費助成 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8729.html",
+    "label": "児童手当 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "こども希望課 こども家庭給付係 0537-21-1144"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "出生や転入のあと、児童手当とこども医療費助成を申請漏れなく確認する"
  },
  {
   "href": "/life/family-grow/child-vaccination/",
@@ -2135,37 +2127,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/154099.html",
-    "label": "市外の医療機関で予防接種を希望される場合について - 掛川市",
-    "match_score": 9,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/789620.html",
-    "label": "帯状疱疹定期予防接種について - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10225.html",
-    "label": "成人男性で風しん予防接種をご希望の方へ（接種期間が延長されました。） - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
     "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子どもの予防接種は、予診票と母子健康手帳をそろえて予約する"
  },
  {
   "href": "/life/family-grow/childbirth/",
@@ -2211,35 +2184,18 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8866.html",
     "label": "出産育児一時金の支給 - 掛川市",
-    "match_score": 7,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/154472.html",
-    "label": "こどもの定期予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/789620.html",
-    "label": "帯状疱疹定期予防接種について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/news/569631.html",
-    "label": "かけがわSDGsフェスタ2024 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市民課（出生届）／国保年金課（出産育児一時金・国保加入の場合）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "赤ちゃんが生まれたら、出生届と出産育児一時金からまとめて手続きを進める"
  },
  {
   "href": "/life/family-grow/developmental-support/",
@@ -2280,37 +2236,29 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/772450.html",
+    "label": "掛川市こども家庭センター - 子育て総合案内サイト「かけっこ」",
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7859.html",
     "label": "掛川市こども家庭センター発達相談支援係（のびる～む） - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/event-list/1073080.html",
-    "label": "※さやのもり 赤ちゃん発達相談 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303795.html",
-    "label": "ファミリー・サポート・センター - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "address": "掛川市御所原9-28（徳育保健センター内）",
+   "oyako_hoken": "おやこ保健係 0537-64-3100",
+   "kodomo_katei_soudan": "こども家庭相談係 0537-21-1190",
+   "hattatsu": "発達相談支援係「のびる～む」0537-28-8017",
+   "note": "発達相談は年齢制限なし"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子どもの発達が気になったら、こども家庭センター「のびる～む」に相談する"
  },
  {
   "href": "/life/family-grow/",
@@ -2331,37 +2279,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shiritai/shien/teate-jyosei/pre-birth/",
-    "label": "妊娠・出産 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/772450.html",
+    "label": "掛川市こども家庭センター - 子育て総合案内サイト「かけっこ」",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shiritai/raising-children/pre-birth/",
-    "label": "妊娠・出産 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shiritai/raising-children/",
-    "label": "妊娠・出産・育児 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shiritai/raising-children/birth-care/",
-    "label": "出産・育児サポート - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "address": "掛川市御所原9-28（徳育保健センター内）",
+   "oyako_hoken": "おやこ保健係 0537-64-3100",
+   "kodomo_katei_soudan": "こども家庭相談係 0537-21-1190",
+   "hattatsu": "発達相談支援係「のびる～む」0537-28-8017"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家族が増える"
  },
  {
   "href": "/life/family-grow/infant-health-check/",
@@ -2393,37 +2327,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/kenshin/kenshin-yobo/",
-    "label": "健診・予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/event-type/kenshin-yobou/",
-    "label": "健診・予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
-    "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/nyuyoji/",
     "label": "乳幼児健診・相談 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "乳幼児健診の案内を見落とさず、月齢ごとに確認する"
  },
  {
   "href": "/life/family-grow/marriage/",
@@ -2455,37 +2370,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8201.html",
-    "label": "戸籍・住民票申請の際の本人確認について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8111.html",
+    "label": "結婚するとき(婚姻届) - 掛川市",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8211.html",
-    "label": "戸籍謄本・戸籍抄本の請求について教えてください。 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7668.html",
-    "label": "掛川市で行っている地域生活支援事業 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/71849.html",
-    "label": "新たなビジネススタイル整備支援事業費補助金 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市民課／大東支所・大須賀支所 市民窓口係",
+   "hours": "8:30〜17:15（市民サービスコーナーは17:00まで）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "婚姻届を出す日と、結婚後に変わる手続きを先に整理する"
  },
  {
   "href": "/life/family-grow/nursery-childcare/",
@@ -2513,37 +2412,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shisetsu/",
-    "label": "認定こども園・保育園・幼稚園 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/shisetsu/",
-    "label": "認定こども園・保育園・幼稚園 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/kodomoen/",
     "label": "保育園・幼稚園・認定こども園 - 掛川市",
-    "match_score": 6,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/advice-docs/303495.html",
-    "label": "幼稚園やこども園の「預かり保育」を利用し、「預かり保育料が無償」となるためには、どのような条件がありますか。 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "保育園と一時預かりを、必要なタイミングから確認する"
  },
  {
   "href": "/life/family-grow/nursery-school/",
@@ -2575,35 +2455,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/shisetsu/",
     "label": "認定こども園・保育園・幼稚園 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/kodomoen/",
-    "label": "保育園・幼稚園・認定こども園 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shisetsu/",
-    "label": "認定こども園・保育園・幼稚園 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/advice-docs/303495.html",
-    "label": "幼稚園やこども園の「預かり保育」を利用し、「預かり保育料が無償」となるためには、どのような条件がありますか。 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "幼稚園・保育園・こども園を、子どもに合う入口から選ぶ"
  },
  {
   "href": "/life/family-grow/parenting-support/",
@@ -2631,37 +2492,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/soudanshitai/hokatsu-shien/",
-    "label": "こども家庭センター - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/772450.html",
     "label": "掛川市こども家庭センター - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7859.html",
-    "label": "掛川市こども家庭センター発達相談支援係（のびる～む） - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "address": "掛川市御所原9-28（徳育保健センター内）",
+   "oyako_hoken": "おやこ保健係 0537-64-3100",
+   "kodomo_katei_soudan": "こども家庭相談係 0537-21-1190",
+   "hattatsu": "発達相談支援係「のびる～む」0537-28-8017"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子育てで迷ったら、こども家庭センターで相談先と支援を確認する"
  },
  {
   "href": "/life/family-grow/pregnancy/",
@@ -2703,35 +2550,19 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10909.html",
     "label": "母子健康手帳交付【予約制】 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 7,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10112.html",
-    "label": "妊産婦健康診査受診票等が使用できなかった方へ - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
-    "label": "がん検診・健康診査 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/238911.html",
-    "label": "産後ケア事業 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "こども家庭センター おやこ保健係 0537-64-3100",
+   "note": "母子健康手帳交付は予約制"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "妊娠がわかったら、まず妊娠届を出して母子健康手帳を受け取る"
  },
  {
   "href": "/life/family-grow/single-parent-support/",
@@ -2766,35 +2597,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/hitorioyashien/",
     "label": "ひとり親家庭の支援 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/iryo/josei/",
     "label": "医療費助成 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/929175.html",
-    "label": "医療費のお知らせ（医療費通知）について - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9181.html",
-    "label": "精神障がい者医療費助成 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "ひとり親家庭の手当・医療費・養育費を、最初に見る順番で整理する"
  },
  {
   "href": "/life/health-medical/adult-vaccination/",
