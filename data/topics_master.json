@@ -2643,37 +2643,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10225.html",
-    "label": "成人男性で風しん予防接種をご希望の方へ（接種期間が延長されました。） - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
-    "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/915881.html",
     "label": "予防接種について - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8340.html",
     "label": "高齢者肺炎球菌ワクチン予防接種をご希望の方へ - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "おとなの予防接種は、対象年齢と接種時期を先に確認する"
  },
  {
   "href": "/life/health-medical/cancer-specific-checkups/",
@@ -2704,19 +2690,27 @@
   ],
   "sources_kakegawa": [
    {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/353462.html",
+    "label": "市のがん検診等のご案内 - 掛川市",
+    "confidence": "high"
+   },
+   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7116.html",
     "label": "がん患者医療用ウィッグ(かつら)・乳房補整具購入費用補助 - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "健康づくり推進課",
+   "tel": "0537-62-6151",
+   "note": "子宮頸がん・乳がん・肺がん結核・胃がん・肝炎ウイルス・骨粗しょう症・前立腺がん検診。前年度同内容受診者は申込不要で受診券が自動送付"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "がん検診と支援制度は、対象と申込期限を分けて確認する"
  },
  {
   "href": "/life/health-medical/dental-care/",
@@ -2748,37 +2742,28 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8364.html",
-    "label": "令和8年度 国民健康保険加入者の特定健診のご案内 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
+    "label": "がん検診・健康診査 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=23&page=153144",
-    "label": "健康福祉部 地域包括ケア推進課 お問い合わせフォーム - 153144ページ目 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
-    "label": "がん検診・健康診査 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8908.html",
+    "label": "小笠掛川急患診療所のご案内 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "急患診療所は休日のみ歯科対応（内科・小児科・外科・歯科）",
+   "tel": "0537-61-1299",
+   "address": "掛川市杉谷南一丁目1-30",
+   "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "歯科・口の健康は、健診と急患診療所の対応時間を分けて確認する"
  },
  {
   "href": "/life/health-medical/disability-services/",
@@ -2812,35 +2797,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/fukushi/shogaisha/syougaihukusiservise/",
     "label": "障害福祉サービス - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8966.html",
     "label": "障害福祉サービス(介護給付・訓練等給付) - 掛川市",
-    "match_score": 6,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10079.html",
-    "label": "難病等の方々も障害福祉サービス等の対象となります - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/sangyo/hojokinjoseikin/",
-    "label": "補助金・助成金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "障がい福祉サービスは、支援内容と相談先を先に分ける"
  },
  {
   "href": "/life/health-medical/disability-welfare/",
@@ -2874,35 +2845,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/fukushi/shogaisha/syougaisyatetyou/",
     "label": "障害者手帳 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9183.html",
-    "label": "精神障害者保健福祉手帳の取得・更新手続きについて教えてください。 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9114.html",
     "label": "身体障害者手帳の取得・更新手続きについて教えてください。 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9182.html",
-    "label": "精神障害者保健福祉手帳 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "障がい者福祉は、障がい者手帳の取得手続きから確認する"
  },
  {
   "href": "/life/health-medical/find-hospitals/",
@@ -2930,37 +2887,27 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/kokuho/kenshin/",
-    "label": "健診・医療機関 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
-    "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/11022.html",
-    "label": "夜間・休日に受診できる医療機関を教えてください。 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8906.html",
     "label": "小笠医師会管内 医療機関診療のご案内 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8908.html",
+    "label": "小笠掛川急患診療所のご案内 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "tel": "0537-61-1299",
+   "address": "掛川市杉谷南一丁目1-30",
+   "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "医療機関を探すときは、平日と夜間・休日の窓口を分けて確認する"
  },
  {
   "href": "/life/health-medical/health-checkups/",
@@ -2994,35 +2941,23 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8364.html",
     "label": "令和8年度 国民健康保険加入者の特定健診のご案内 - 掛川市",
-    "match_score": 8,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
-    "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10225.html",
-    "label": "成人男性で風しん予防接種をご希望の方へ（接種期間が延長されました。） - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/kenshin/kenshin-yobo/",
-    "label": "健診・予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
+    "label": "がん検診・健康診査 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "健康づくり推進課 0537-62-6151"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "健康診断とがん検診は、受診券と対象条件を先に確認する"
  },
  {
   "href": "/life/health-medical/health-promotion/",
@@ -3053,25 +2988,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/ryokucha/",
-    "label": "緑茶の生活習慣病予防研究（掛川スタディ） - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/576827.html",
-    "label": "令和６年能登半島地震避難者受入体制（ワンストップ窓口）について - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenkodukuri/",
+    "label": "健康づくり - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "健康づくり推進課",
+   "tel": "0537-62-6151",
+   "seijin_hoken": "成人保健指導係 0537-64-5671"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "健康づくりは、健康づくり推進課の相談窓口から始める"
  },
  {
   "href": "/life/health-medical/holiday-night-emergency-care/",
@@ -3099,31 +3031,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1004794.html",
-    "label": "小笠掛川急患診療所医療事務等業務委託に係る公募型プロポーザルの実施について（審査結果追記） - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8908.html",
     "label": "小笠掛川急患診療所のご案内 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/11022.html",
-    "label": "夜間・休日に受診できる医療機関を教えてください。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "tel": "0537-61-1299",
+   "address": "掛川市杉谷南一丁目1-30",
+   "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "休日夜間の急患は、小笠掛川急患診療所の電話番号をまず確認する"
  },
  {
   "href": "/life/health-medical/",
@@ -3144,37 +3067,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/soudanshitai/soudan-shitai/kenko-iryou/",
-    "label": "健康・医療 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kenko/kenshin/",
+    "label": "がん検診・健康診査 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/181799.html",
-    "label": "デジタル技術・データ活用による健康寿命の延伸 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/news/1058327.html",
-    "label": "SDGsイベント「 はじめよう、「エニ活。」 無料体験会のご案内」（掛川東病院×エニタイムフィットネス掛川店) - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/news/1031570.html",
-    "label": "SDGsイベント「 はじめよう、「エニ活。」 無料体験会のご案内」（掛川東病院×エニタイムフィットネス掛川店) - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8908.html",
+    "label": "小笠掛川急患診療所のご案内 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "健康・医療"
  },
  {
   "href": "/life/health-medical/mental-health-consulting/",
@@ -3206,37 +3115,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/181799.html",
-    "label": "デジタル技術・データ活用による健康寿命の延伸 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/627788.html",
-    "label": "医療法人社団雫翔会 ティアラウィメンズクリニック - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/621905.html",
-    "label": "太陽建機レンタル株式会社 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kenko/",
-    "label": "健康・福祉 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9184.html",
+    "label": "精神保健福祉総合相談（予約制） - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "こころの相談は、精神保健福祉総合相談（予約制）を確認する"
  },
  {
   "href": "/life/health-medical/night-holiday-medical/",
@@ -3264,31 +3154,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1004794.html",
-    "label": "小笠掛川急患診療所医療事務等業務委託に係る公募型プロポーザルの実施について（審査結果追記） - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/11022.html",
-    "label": "夜間・休日に受診できる医療機関を教えてください。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8908.html",
     "label": "小笠掛川急患診療所のご案内 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "tel": "0537-61-1299",
+   "address": "掛川市杉谷南一丁目1-30",
+   "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "夜間・休日の急患は、小笠掛川急患診療所の電話番号をまず確認する"
  },
  {
   "href": "/life/health-medical/vaccinations/",
@@ -3319,37 +3200,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/kenshin/kenshin-yobo/",
-    "label": "健診・予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/event-type/kenshin-yobou/",
-    "label": "健診・予防接種 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/kenshin/",
     "label": "健診・予防接種・医療機関 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10225.html",
-    "label": "成人男性で風しん予防接種をご希望の方へ（接種期間が延長されました。） - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "予防接種は、対象年齢と接種時期を先に確認する"
  },
  {
   "href": "/life/housing/build-house/",
