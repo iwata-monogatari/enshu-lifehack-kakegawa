@@ -4816,37 +4816,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/shiplan/kanko/",
-    "label": "観光・文化・スポーツ関連 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://kakegawa-edu.net/center/about/",
+    "label": "施設紹介 | 掛川市生涯学習センター",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10005.html",
-    "label": "東遠地域障がい児者福祉施設ガイドブック - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kanko/",
-    "label": "観光・文化・スポーツ - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kanko",
-    "label": "観光・文化・スポーツ - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.kakegawa-edu.net/bikanhall/about/",
+    "label": "施設紹介 | 掛川市美感ホール",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "生涯学習センター（ホール1,069席）・文化会館シオーネ・美感ホール（270人収容）・桜木地域生涯学習センター等"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "文化施設は、生涯学習センター・美感ホール等の開館日と予約を先に確認する"
  },
  {
   "href": "/life/play-out/facilities-library-parks/",
@@ -4877,37 +4865,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/1005350.html",
-    "label": "教育・保育、子育て支援関連施設一覧ページ - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/relation/152.html?redirect=http%3A%2F%2Flibrary.city.kakegawa.shizuoka.jp%2F",
-    "label": "掛川市立図書館",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/lifeevent/",
-    "label": "目的別ガイド - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koukyou/",
-    "label": "公共施設 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://yoyacool.e-harp.jp/kakegawa/FacilitySearch/Index",
+    "label": "施設一覧・検索 ｜ 掛川市公共施設予約サービス",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "公共施設は、公共施設予約サービスから目的別に探す"
  },
  {
   "href": "/life/play-out/find-parks/",
@@ -4938,37 +4907,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/1005350.html",
-    "label": "教育・保育、子育て支援関連施設一覧ページ - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/map/type/park/",
+    "label": "公園 - 掛川市",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380397.html",
-    "label": "掛川市子育て施設一覧 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379029.html",
-    "label": "掛川市観光施設一覧 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "22世紀の丘公園（総合公園、大型遊具・プール・温浴施設）、掛川森林果樹公園など"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "公園は、22世紀の丘公園など目的・年齢・アクセスで選ぶ"
  },
  {
   "href": "/life/play-out/",
@@ -4989,37 +4941,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task_act/837420.html",
-    "label": "共創事業（No.38）リユース品回収事業 市内商業施設に「PASSTO（パスト）」設置 掛川市×（株）ECOMMIT×弥栄かけがわ（株）×（株）タカラ・エムシー - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/map/type/park/",
+    "label": "公園 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/169985.html",
-    "label": "リコージャパン株式会社 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/147096.html",
-    "label": "ユニリーバ・ジャパン・ホールディングス合同会社 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380397.html",
-    "label": "掛川市子育て施設一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://kakegawa-shisetsu.com/",
+    "label": "掛川市スポーツ施設予約",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "遊ぶ・使う・出かける"
  },
  {
   "href": "/life/play-out/kids-playgrounds/",
@@ -5052,29 +4990,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/1005350.html",
     "label": "教育・保育、子育て支援関連施設一覧ページ - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380397.html",
-    "label": "掛川市子育て施設一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/921502.html",
-    "label": "ALSOK杯第75期王将戦七番勝負 第１局の開催について - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子どもの遊び場は、年齢・天気・帰りやすさで選ぶ"
  },
  {
   "href": "/life/play-out/parking-access/",
@@ -5105,37 +5030,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/taxi/",
-    "label": "公共交通機関 タクシー会社 - 観光サイト",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/13138.html",
     "label": "市営駐車場・駐輪場 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/docs/374034.html",
-    "label": "スマートフォンを活用したＧＰＳ連動型音声ガイド「木乃華サクヤと行く！掛川ぶらりおともたび」について - 観光サイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303794.html",
-    "label": "子育てガイドブック - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "出発前に、市営駐車場・地図・公共交通を確認する"
  },
  {
   "href": "/life/play-out/rent-public-facilities/",
@@ -5167,37 +5073,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koukyou/",
-    "label": "公共施設 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://yoyacool.e-harp.jp/kakegawa/FacilitySearch/Index",
+    "label": "施設一覧・検索 ｜ 掛川市公共施設予約サービス",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/946243.html?utm_source=slide",
-    "label": "窓口予約制度のご案内 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/946243.html",
-    "label": "窓口予約制度のご案内 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/920972.html",
-    "label": "デマンド型乗合タクシー（ふれあいタクシー）について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/7575.html",
+    "label": "会議等をするのに部屋を借りたいのですが。また、利用料はかかりますか。 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "使用料は承認時に納付。施設により料金表が異なる"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "公共施設を借りる前に、予約システムと使用料を確認する"
  },
  {
   "href": "/life/play-out/sports-facilities/",
@@ -5230,37 +5124,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
-    "label": "掛川市内全小中学校体育施設に予約システム導入 - 掛川市",
-    "match_score": 6,
+    "url": "https://kakegawa-shisetsu.com/",
+    "label": "掛川市スポーツ施設予約",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379035.html",
-    "label": "掛川市イベント一覧 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11602.html",
-    "label": "イベントのその他の写真 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/event/map.html",
-    "label": "イベントカレンダー 地図形式 - 観光サイト",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
+    "label": "学校体育施設予約システム及びスマートキー導入に向けて(随時更新) - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "予約センター（総合体育館さんりーな）／南体育館し～すぽ 0537-28-8710",
+   "note": "インターネット予約はメールアドレス申請→ユーザー登録→パスワード設定の順"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "スポーツ施設は、専用予約システムで予約・料金・持ち物を先に確認する"
  },
  {
   "href": "/life/play-out/swimming-pools/",
@@ -5291,37 +5174,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/379035.html",
-    "label": "掛川市イベント一覧 - オープンデータサイト",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11602.html",
-    "label": "イベントのその他の写真 - オープンデータサイト",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/event/map.html",
-    "label": "イベントカレンダー 地図形式 - 観光サイト",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/event/202607/map.html",
-    "label": "イベントカレンダー 地図形式 2026年7月 - 観光サイト",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/632025.html",
+    "label": "令和６年度 市民プールの夏期営業について - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "安養寺運動公園プール・大須賀海洋センタープールは夏季限定営業（例年7月中旬〜8月下旬）。22世紀の丘公園「たまりーな」は温水プール（通年、営業状況は要確認）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "プールは、市民プールの夏期営業期間・料金・持ち物を先に確認する"
  },
  {
   "href": "/life/play-out/visit-library/",
@@ -5352,37 +5218,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/relation/152.html?redirect=http%3A%2F%2Flibrary.city.kakegawa.shizuoka.jp%2F",
-    "label": "掛川市立図書館",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://library.city.kakegawa.shizuoka.jp/howto/use.html",
+    "label": "ご利用案内 - 掛川市立図書館",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/14550.html",
-    "label": "掛川市立図書館 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10005.html",
-    "label": "東遠地域障がい児者福祉施設ガイドブック - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/event-list/1016687.html",
-    "label": "かけがわキューピーおもちゃ図書館 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "http://library.city.kakegawa.shizuoka.jp/library/central.html",
+    "label": "中央図書館｜各館のご案内｜掛川市立図書館",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "中央図書館のほか大東図書館・大須賀図書館がある"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "図書館へ行く前に、開館日・利用カード・最寄り館を確認する"
  },
  {
   "href": "/life/start-living/bulky-garbage-dropoff/",
