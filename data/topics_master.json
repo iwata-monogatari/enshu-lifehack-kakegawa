@@ -1702,7 +1702,7 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8729.html",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303801.html",
     "label": "児童手当 - 掛川市",
     "confidence": "high"
    }
@@ -1758,12 +1758,12 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8475.html",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303799.html",
     "label": "子ども医療費助成 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8729.html",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303801.html",
     "label": "児童手当 - 掛川市",
     "confidence": "high"
    }
@@ -2237,7 +2237,7 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10909.html",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303813.html",
     "label": "母子健康手帳交付【予約制】 - 子育て総合案内サイト「かけっこ」",
     "confidence": "high"
    }
@@ -4721,7 +4721,7 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://kakegawa-edu.net/center/about/",
+    "url": "https://www.kakegawa-edu.net/center/about/",
     "label": "施設紹介 | 掛川市生涯学習センター",
     "confidence": "high"
    },
