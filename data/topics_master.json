@@ -3884,19 +3884,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9958.html",
-    "label": "転出前と転出後、どちらの市町村へ市県民税を納めるのですか。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7646.html",
+    "label": "掛川区域 ごみの出し方の基本ルール - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "環境政策課 ごみ減量推進係",
+   "tel": "0537-21-1145",
+   "dropoff": "環境資源ギャラリー（満水2319番地）へ自己搬入。10kgにつき110円。土日・繁忙期は予約制"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "転出前の片付けは、環境資源ギャラリーへの持ち込みと処理不可品を分ける"
  },
  {
   "href": "/life/moving-out/dog-ownership-change/",
@@ -3923,37 +3926,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/520393.html",
-    "label": "犬を飼うときはマナーを守りましょう - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/207284.html",
-    "label": "令和８年度狂犬病予防集合注射のご案内 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/15314.html",
-    "label": "飼い犬には狂犬病予防注射を受けさせましょう - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8142.html",
     "label": "犬の登録事項の変更 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "転出先の市区町村でも改めて登録手続きが必要な場合がある"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "犬の登録変更は、転出先自治体での再登録も見越して確認する"
  },
  {
   "href": "/life/moving-out/",
@@ -3973,37 +3959,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/matching-needs/804363.html",
-    "label": "【だれでもごはん】こども食堂への支援・開催場所・協働相手 - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/oshirase/place-dining/",
-    "label": "こどもの居場所・こども食堂 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7659.html",
+    "label": "掛川市から転出するとき(転出届) - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "新しい場所へ"
  },
  {
   "href": "/life/moving-out/move-out-notice/",
@@ -4030,37 +3997,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/koseki/",
-    "label": "戸籍・住民票・印鑑・マイナンバーカード等 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8857.html",
-    "label": "住民票を取得するには何が必要ですか。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8856.html",
-    "label": "住民票を取るときの委任状について教えてください。 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7659.html",
+    "label": "掛川市から転出するとき(転出届) - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市民課／大東支所・大須賀支所 市民窓口係",
+   "note": "マイナンバーカードがあればマイナポータルからオンライン提出も可能"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "転出届は、転出先と届出方法を確認してから進める"
  },
  {
   "href": "/life/moving-out/moving-away/",
@@ -4088,37 +4039,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8007.html",
-    "label": "令和５年議会報告会開催報告 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=38&page=9813",
-    "label": "上下水道部 下水道課 お問い合わせフォーム - 9813ページ目 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=38&page=923002",
-    "label": "上下水道部 下水道課 お問い合わせフォーム - 923002ページ目 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=38&page=8807",
-    "label": "上下水道部 下水道課 お問い合わせフォーム - 8807ページ目 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7659.html",
+    "label": "掛川市から転出するとき(転出届) - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "水道停止・ごみ・学校転校等の手続きは各担当窓口で別途必要"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "掛川市から引っ越すときは、転出届と暮らしの停止手続きを一緒に確認する"
  },
  {
   "href": "/life/moving-out/school-nursery-procedures/",
@@ -4146,37 +4080,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/shisetsu/",
-    "label": "認定こども園・保育園・幼稚園 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/shiritai/shisetsu/",
-    "label": "認定こども園・保育園・幼稚園 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/kodomoen/",
     "label": "保育園・幼稚園・認定こども園 - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/sho-chu-gakkou/",
-    "label": "小、中学校・学童保育 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8899.html",
+    "label": "小・中学校を転校するとき - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子どもの転出は、学校と園の手続きを別々に確認する"
  },
  {
   "href": "/life/moving-out/stop-water/",
@@ -4204,37 +4124,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=39&page=9136",
-    "label": "掛川市水道料金お客さまセンター お問い合わせフォーム - 9136ページ目 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/otoiawase/?group=39&page=9134",
-    "label": "掛川市水道料金お客さまセンター お問い合わせフォーム - 9134ページ目 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9144.html",
-    "label": "水道料金の計算方法 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9142.html",
-    "label": "水道料金お客さまセンターについて - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9135.html",
+    "label": "水道の使用を中止するとき - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "水道料金お客さまセンター",
+   "tel": "0537-21-1715",
+   "note": "電話またはインターネット（24時間）で申込可能"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "水道の中止は、使用をやめる日と精算方法を先に決める"
  },
  {
   "href": "/life/parents-care/adult-guardianship/",
