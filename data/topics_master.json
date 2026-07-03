@@ -3561,37 +3561,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 9,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/",
+    "label": "住まい・土地 - 掛川市",
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/11018.html",
     "label": "木造住宅建替え等事業費補助金 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/590914.html",
-    "label": "栗栽培に関する補助金について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8841.html",
-    "label": "住宅用防災施設等設置事業費補助金 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 建築営繕係",
+   "tel": "0537-21-1152"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家を建てる前に、耐震・補助金の窓口を先に確認する"
  },
  {
   "href": "/life/housing/buy-house/",
@@ -3623,37 +3612,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 9,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/",
+    "label": "住まい・土地 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/590914.html",
-    "label": "栗栽培に関する補助金について - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/11018.html",
-    "label": "木造住宅建替え等事業費補助金 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/991679.html",
-    "label": "令和８年度 生ごみ処理機購入事業費補助金制度について - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
+    "label": "固定資産税・都市計画税 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "税務課",
+   "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家を買う前に、補助金・税金の窓口を分けて確認する"
  },
  {
   "href": "/life/housing/clean-parents-house/",
@@ -3687,35 +3665,24 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/594763.html",
     "label": "外国語ごみ分別マニュアル・ごみ収集カレンダー - 掛川市",
-    "match_score": 7,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10928.html",
-    "label": "防災ガイドブック - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303794.html",
-    "label": "子育てガイドブック - 子育て総合案内サイト「かけっこ」",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7740.html",
-    "label": "掛川市巨木・名木ガイドブック並びに同マップの入手方法 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 空き家活用係",
+   "tel": "0537-21-1209"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の家の片付けは、ごみ分別と空き家相談窓口を分けて進める"
  },
  {
   "href": "/life/housing/earthquake-demolition/",
@@ -3747,25 +3714,33 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/905366.html",
-    "label": "令和７年台風第15号により被災した住宅の応急修理を支援 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/64734.html",
+    "label": "木造住宅耐震補強工事(補強計画一体型) - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/15136.html",
-    "label": "一般社団法人静岡県トラック協会と災害の発生時における輸送業務等の協力に関する協定を締結 令和3年1月14日 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/11018.html",
+    "label": "木造住宅建替え等事業費補助金 - 掛川市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/600548.html",
+    "label": "掛川市空き家除却事業費補助金 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 建築営繕係",
+   "tel": "0537-21-1152",
+   "target": "昭和56年5月31日以前建築の木造住宅で耐震評点1.0未満が対象",
+   "amount": "耐震補強工事は最大115万円（工事費の4/5、上限1,150,000円）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "耐震補強・解体は、掛川市の補助金制度を先に確認する"
  },
  {
   "href": "/life/housing/",
@@ -3786,37 +3761,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8046.html",
-    "label": "共同住宅(アパート)など、不動産賃貸業を営んでいる方へ - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/",
+    "label": "住まい・土地 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家・住まい"
  },
  {
   "href": "/life/housing/municipal-housing/",
@@ -3848,37 +3804,33 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8508.html",
-    "label": "市営住宅の故障や修繕が必要なときは、どこに連絡すればよいですか。 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/sieijyuutaku/",
+    "label": "市営住宅 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/sieijyuutaku/",
-    "label": "市営住宅 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8510.html",
-    "label": "市営住宅の入居について教えてください。(募集方法・時期等) - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7715.html",
+    "label": "掛川市営住宅入居案内 - 掛川市",
+    "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8509.html",
     "label": "市営住宅の申込み資格について教えてください。 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8508.html",
+    "label": "市営住宅の故障や修繕が必要なときは、どこに連絡すればよいですか。 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "市営住宅は、募集条件・収入・必要書類を先に確認する"
  },
  {
   "href": "/life/housing/property-tax/",
@@ -3909,37 +3861,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8192.html",
-    "label": "固定資産税・都市計画税納税通知書について - 掛川市",
-    "match_score": 13,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
     "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kotei/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html",
+    "label": "固定資産税・都市計画税のあらましについて - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "税務課",
+   "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "土地・家屋の税金は、課税内容と手続きを分けて確認する"
  },
  {
   "href": "/life/housing/public-housing-consultation/",
@@ -3970,25 +3911,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9173.html",
-    "label": "生活にお困りの方へ ～生活福祉資金のご案内～ - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/",
+    "label": "住まい・土地 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/5374/nanbu/category_list/",
-    "label": "ゴミ品目カテゴリー一覧 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9173.html",
+    "label": "生活にお困りの方へ ～生活福祉資金のご案内～ - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "住まいに困ったら、相談窓口と緊急度を先に分ける"
  },
  {
   "href": "/life/housing/rent-house/",
@@ -4016,37 +3955,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sumai/sieijyuutaku/",
+    "label": "市営住宅 - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/advice-docs/303496.html",
-    "label": "公立幼稚園の「早朝・夕方の延長預かり保育」を利用するためには、どのような条件がありますか。 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://kakegawa-lb.jp/estate_information/",
+    "label": "空き家・空き地情報 | かけがわランド・バンク",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "市は民間賃貸の物件斡旋は行わない。空き家の賃貸・売買はかけがわランド・バンク（市と協定を結ぶNPO法人）が窓口の一つ"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "賃貸探しは、市営住宅と民間情報を分けて整理する"
  },
  {
   "href": "/life/housing/sell-house/",
@@ -4082,35 +4009,24 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
     "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kotei/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html",
-    "label": "固定資産税・都市計画税のあらましについて - 掛川市",
-    "match_score": 10,
+    "url": "https://kakegawa-lb.jp/",
+    "label": "かけがわランド・バンク",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "税務課",
+   "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "家を売る前に、税金・空き家バンクの窓口をそろえる"
  },
  {
   "href": "/life/housing/vacant-house/",
@@ -4142,37 +4058,33 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
+    "url": "https://kakegawa-lb.jp/",
+    "label": "かけがわランド・バンク",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kotei/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html",
-    "label": "固定資産税・都市計画税のあらましについて - 掛川市",
-    "match_score": 10,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/600548.html",
+    "label": "掛川市空き家除却事業費補助金 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 空き家活用係",
+   "tel": "0537-21-1209",
+   "programs": "空き家除却事業費補助金／ようこそ掛川流通促進事業費補助金／空き家活用モデル事業費補助金",
+   "bank": "かけがわランド・バンク（市と空き家対策協定を結ぶNPO法人。空き家・空き地の流通支援）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "空き家は、管理・補助金・かけがわランド・バンクの活用を同時に整理する"
  },
  {
   "href": "/life/living-soon/about-fukuroi/",
