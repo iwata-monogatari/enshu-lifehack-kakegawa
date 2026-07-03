@@ -7257,37 +7257,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7777.html",
-    "label": "掛川市飼い主のいない猫不妊手術等経費補助金 - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/pet/",
+    "label": "ペット・動物 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303942.html",
-    "label": "掛川市新婚住宅取得等事業費補助金（旧：結婚新生活支援事業費補助金）の申請受付について - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/pet/",
-    "label": "ペット・動物 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/pet/",
-    "label": "ペット・動物 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7777.html",
+    "label": "掛川市飼い主のいない猫不妊手術等経費補助金 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "動物・ペットの困りごとは、担当窓口を分けて相談する"
  },
  {
   "href": "/life/troubles-consult/cannot-pay-tax/",
@@ -7327,37 +7313,21 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/953553.html",
-    "label": "【介護保険料】納付済額の確認方法について - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/206946.html",
-    "label": "【国民健康保険税】納付済額の確認方法について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/nenkin/hoken/",
-    "label": "国民健康保険 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/kokuho/",
-    "label": "国民健康保険 - 掛川市",
-    "match_score": 6,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/nozei/",
+    "label": "納税方法と納期限 - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "納税課（滞納整理・納税相談）",
+   "tel": "管理係 0537-21-1206／収納係 0537-21-1211・1212"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "税金・保険料が払えないときは、放置せず納税課へ相談する"
  },
  {
   "href": "/life/troubles-consult/care-consultation/",
@@ -7398,35 +7368,19 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
     "label": "地域包括支援センター業務 - 掛川市",
-    "match_score": 8,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kosodate/soudanshitai/hokatsu-shien/",
-    "label": "子育て世代包括支援センター - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kenko/kaigo/service/",
-    "label": "介護保険で受けられるサービス - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "地域包括支援センター（東部・西部・中部・南部大東・南部大須賀の5か所、地区別）",
+   "tel": "代表：長寿推進課 予防支援係 0537-21-1364"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "介護で困ったときは、まず地域包括支援センターに相談する"
  },
  {
   "href": "/life/troubles-consult/child-consultation/",
@@ -7473,37 +7427,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10114.html",
-    "label": "認知症について - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/772450.html",
+    "label": "掛川市こども家庭センター - 子育て総合案内サイト「かけっこ」",
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/8727.html",
     "label": "児童虐待ではないかと思う家庭がありますが、どうすればよいですか。 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/soudanshitai/hokatsu-shien/",
-    "label": "こども家庭センター - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/772450.html",
-    "label": "掛川市こども家庭センター - 子育て総合案内サイト「かけっこ」",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "子どものことで不安なときは、こども家庭センターに相談する"
  },
  {
   "href": "/life/troubles-consult/consumer-fraud/",
@@ -7549,35 +7489,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sodan/seikatsu/syouhiseikatu/",
     "label": "消費生活相談 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/395583.html",
     "label": "市役所をかたる特殊詐欺被害が多発 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/task/632026.html",
-    "label": "熱中症対策 クーリングシェルター設置事業 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/625328.html",
-    "label": "株式会社トラスト 不用品回収センター - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "だまされたかも・契約してしまったときは、消費生活相談窓口へ早めに相談する"
  },
  {
   "href": "/life/troubles-consult/disability-consultation/",
@@ -7624,37 +7550,27 @@
   ],
   "sources_kakegawa": [
    {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9270.html",
+    "label": "相談支援 - 掛川市",
+    "confidence": "high"
+   },
+   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9184.html",
     "label": "精神保健福祉総合相談（予約制） - 掛川市",
-    "match_score": 9,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/docs/9183.html",
-    "label": "精神障害者保健福祉手帳の取得・更新手続きについて教えてください。 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9182.html",
-    "label": "精神障害者保健福祉手帳 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/646945.html",
-    "label": "（一財）小笠掛川勤労者福祉サービスセンターについて - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "body": "身体障がい：和松会障害者支援センター 0537-73-2662（菊川市）",
+   "chiteki": "知的障がい：東遠地区生活支援センター 0537-35-2971（菊川市）",
+   "seishin": "精神障がい：地域活動支援センターMネット 0537-29-8970（掛川市久保）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "障害のことは、種別ごとの相談支援センターに相談する"
  },
  {
   "href": "/life/troubles-consult/farmland/certificates/",
@@ -7677,37 +7593,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9214.html",
+    "label": "税に関する（各種）証明（様式） - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/objective/",
-    "label": "対象別 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/kakekko/kenshin/course/hogosya/",
-    "label": "保護者対象 - 子育て総合案内サイト「かけっこ」",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10143.html",
+    "label": "農業委員会 - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "農業委員会",
+   "note": "登記地目が農地のまま実際は別用途の場合、非農地証明（現況証明）で地目変更が可能なケースがある"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "農地の証明は、非農地証明の要否から農業委員会に確認する"
  },
  {
   "href": "/life/troubles-consult/farmland/change-use/",
@@ -7737,29 +7642,23 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10160.html",
     "label": "農用地区域について - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10158.html",
-    "label": "農地転用とは - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10151.html",
     "label": "農振除外の流れ - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "掛川市は都市計画法の用途地域を除き市全域が農業振興地域。農用地区域内は原則転用不可で、除外申請により白地化が必要な場合がある"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "農地を別の用途に使いたいときは、農振除外の要否から確認する"
  },
  {
   "href": "/life/troubles-consult/farmland/conversion/",
@@ -7791,37 +7690,26 @@
   ],
   "sources_kakegawa": [
    {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10159.html",
+    "label": "農地法申請(農地転用等)の流れ - 掛川市",
+    "confidence": "high"
+   },
+   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10158.html",
     "label": "農地転用とは - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10151.html",
-    "label": "農振除外の流れ - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7629.html",
-    "label": "掛川駅南第2駐車場 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7627.html",
-    "label": "掛川駅南第1駐車場 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "農業委員会",
+   "note": "4ヘクタール以下の転用許可権限は市に移譲済み。申請締切は毎月20日頃、許可までおおむね1か月"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "農地を宅地や駐車場に使うときは、農地転用許可の流れを先に見極める"
  },
  {
   "href": "/life/troubles-consult/farmland/",
@@ -7870,37 +7758,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10157.html",
-    "label": "農地中間管理事業について - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10143.html",
+    "label": "農業委員会 - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/nogyo/nochi/",
-    "label": "農地関係 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8007.html",
-    "label": "令和５年議会報告会開催報告 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10151.html",
-    "label": "農振除外の流れ - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10157.html",
+    "label": "農地中間管理事業について - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "相続した田んぼ・畑をどうするか、まず農業委員会で整理する"
  },
  {
   "href": "/life/troubles-consult/farmland/inheritance/",
@@ -7943,37 +7817,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8007.html",
-    "label": "令和５年議会報告会開催報告 - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10143.html",
+    "label": "農業委員会 - 掛川市",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/nogyo/nochi/",
-    "label": "農地関係 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/919545.html",
-    "label": "令和６年議会報告会開催報告 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/718234.html",
-    "label": "令和7年議会報告会 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "農地を相続した場合、農業委員会への届出が法律で義務付けられている（相続を知った日から10か月以内）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "相続した田んぼ・畑は、農業委員会への届出から整理する"
  },
  {
   "href": "/life/troubles-consult/farmland/noshin-exclusion/",
@@ -7999,29 +7856,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10160.html",
     "label": "農用地区域について - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10151.html",
     "label": "農振除外の流れ - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/nogyo/nochi/",
-    "label": "農地関係 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "農振・農用地区域は、地図で場所と目的を先に確認する"
  },
  {
   "href": "/life/troubles-consult/farmland/sell-or-rent/",
@@ -8063,29 +7912,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10157.html",
     "label": "農地中間管理事業について - 掛川市",
-    "match_score": 7,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8007.html",
-    "label": "令和５年議会報告会開催報告 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10143.html",
     "label": "農業委員会 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "使っていない農地を売りたい・貸したいときは、農地中間管理事業を確認する"
  },
  {
   "href": "/life/troubles-consult/foreign-resident-consultation/",
@@ -8116,37 +7957,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/koseki/",
-    "label": "戸籍・住民票・印鑑・マイナンバーカード等 - 掛川市",
-    "match_score": 5,
+    "url": "https://kakegawa-life.com/ask/",
+    "label": "お問い合わせ | 掛川国際交流センター",
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/faq/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/download/koseki/",
-    "label": "戸籍・住民票・印鑑等 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/bunya/kanko/",
-    "label": "観光・文化・スポーツ - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "市役所2階 外国人相談窓口",
+   "tel": "0537-24-5595",
+   "hours": "月〜金 9:00〜16:00（月・水・金の10:00〜15:30はポルトガル語通訳常駐）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "外国人住民の相談は、市役所の外国人相談窓口・国際交流センターへ"
  },
  {
   "href": "/life/troubles-consult/",
@@ -8166,37 +7992,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/835075.html",
-    "label": "公害相談について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/893366.html",
-    "label": "株式会社トランター - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/625328.html",
-    "label": "株式会社トラスト 不用品回収センター - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/541568.html",
-    "label": "株式会社トランス・グリップ - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sodan/",
+    "label": "相談窓口 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "困った・相談したい"
  },
  {
   "href": "/life/troubles-consult/legal-general-consultation/",
@@ -8245,35 +8052,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10886.html",
     "label": "弁護士会無料法律相談(予約制) - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sodan/seikatsu/syouhiseikatu/",
-    "label": "消費生活相談 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/603108.html",
-    "label": "弁護士法人アクロピース - ＳＤＧｓサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/shisei/profile/shiyakusho/",
-    "label": "市役所・支所 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/sodan/",
+    "label": "相談窓口 - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "誰に相談すればいいか分からない悩みは、弁護士会の無料法律相談へつなぐ"
  },
  {
   "href": "/life/troubles-consult/living-costs-trouble/",
@@ -8309,31 +8102,27 @@
   ],
   "sources_kakegawa": [
    {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9270.html",
+    "label": "相談支援 - 掛川市",
+    "confidence": "high"
+   },
+   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9176.html",
     "label": "生活保護 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/5762.html",
-    "label": "「この建物、大丈夫?」建物の安全に関する情報(重大な消防法令違反対象物公表) - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10185.html",
-    "label": "被災者自立生活再建支援事業 - 掛川市",
-    "match_score": 3,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "福祉課 社会福祉係",
+   "tel": "0537-21-1140",
+   "shakyo": "生活福祉資金の貸付は掛川市社会福祉協議会 0537-22-1294"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "生活費が足りないときは、ひとりで抱えず福祉課に相談する"
  },
  {
   "href": "/life/troubles-consult/road-repair-mirror/",
@@ -8364,16 +8153,24 @@
     "label": "道路河川課のご案内"
    }
   ],
-  "sources_kakegawa": [],
+  "sources_kakegawa": [
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7592.html",
+    "label": "各課紹介(お問い合わせ) - 掛川市",
+    "confidence": "high"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "維持管理課（市道・河川・橋梁などの維持管理）",
+   "tel": "0537-21-1154",
+   "note": "工事・整備そのものは土木防災課 0537-21-1153。どこに通報してよいか分からない場合は危機管理課 0537-21-1131"
   },
-  "status": "draft",
+  "status": "ai-checked",
   "verified_date": null,
-  "ai_checked_date": null,
-  "ai_notes": null,
+  "ai_checked_date": "2026-07-03",
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
   "verified_by": null,
-  "title": null
+  "title": "道路の穴・カーブミラー・街路灯の不具合は、維持管理課へ通報する"
  },
  {
   "href": "/life/troubles-consult/vacant-house-consultation/",
@@ -8417,37 +8214,26 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8086.html",
+    "label": "掛川市の空き家対策について - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kotei/",
-    "label": "固定資産税・都市計画税 - 掛川市",
-    "match_score": 10,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html",
-    "label": "固定資産税・都市計画税のあらましについて - 掛川市",
-    "match_score": 10,
+    "url": "https://kakegawa-lb.jp/",
+    "label": "かけがわランド・バンク",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "くらしデザイン課 空き家活用係",
+   "tel": "0537-21-1209"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "親の家・実家をどうするか迷ったら、まず空き家対策の窓口へ相談する"
  },
  {
   "href": "/life/work-life/city-tax-payment/",
