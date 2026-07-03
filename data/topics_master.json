@@ -656,37 +656,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kurashi/zeikin/kokuho/",
-    "label": "国民健康保険税 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8366.html",
-    "label": "国民健康保険税とは - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/37405.html",
-    "label": "国民健康保険税の試算について - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/206946.html",
-    "label": "【国民健康保険税】納付済額の確認方法について - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/611831.html",
+    "label": "罹災証明書および被災証明書の交付について - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "window": "本庁2階 資産税課／大東支所2階 地域支援係／大須賀支所1階 地域支援係"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "災害にあった後、まずり災証明書の交付を資産税課で確認する"
  },
  {
   "href": "/life/emergency/disaster-mail-line/",
@@ -731,37 +714,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/kakegawa_LINE_kaisetu.html",
-    "label": "掛川市のLINE公式アカウントを開設しました - 掛川市",
-    "match_score": 7,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7338.html",
+    "label": "メールマガジンの配信について - 掛川市",
     "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/876379.html",
-    "label": "AIオンデマンド交通実証実験（CHAIのり号） - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
-    "label": "掛川市内全小中学校体育施設に予約システム導入 - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/351160.html",
-    "label": "きんじろう健康アプリ「きんトレ」で 楽しく健康に！ - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/urgency_mail/",
+    "label": "緊急情報（メール取り込み） - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "空メール送信→仮登録完了メール受信→本登録URLで詳細登録の順。火災・災害・振り込め詐欺・行方不明者情報等を配信。登録無料（通信費は自己負担）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "災害の知らせを取りこぼさないよう、掛川市防災メールマガジンに登録する"
  },
  {
   "href": "/life/emergency/earthquake/",
@@ -824,35 +795,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/6960.html",
     "label": "静岡県発表の「第4次地震被害想定 レベル1津波想定追加」について - 掛川市",
-    "match_score": 10,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7835.html",
     "label": "掛川市町丁字別 第4次地震被害想定 - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9926.html",
-    "label": "鳥獣被害防止対策設備設置費補助金 - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8841.html",
-    "label": "住宅用防災施設等設置事業費補助金 - 掛川市",
-    "match_score": 6,
     "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "地震・津波の備えを、第4次地震被害想定で今日できることから一つずつ"
  },
  {
   "href": "/life/emergency/emergency-medical/",
@@ -887,23 +844,18 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/700626.html",
     "label": "救急安心電話相談窓口＃7119 - 掛川市",
-    "match_score": 8,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/809235.html",
-    "label": "この症状って救急車？そんなときは＃７１１９、＃８０００へ電話して - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "子どもの症状判断は＃8000（子ども医療電話相談）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "急な病気やけがで迷ったとき、救急安心電話相談＃7119で今すぐ判断する"
  },
  {
   "href": "/life/emergency/evacuation-centers/",
@@ -945,35 +897,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7762.html",
     "label": "掛川市広域避難所(支部)・救護所・福祉避難所一覧表 - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7666.html",
-    "label": "掛川市ため池マップ・ハザードマップについて - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/310429.html",
-    "label": "原子力災害時における避難行動について - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/354360.html",
-    "label": "2022年12月1日 災害時は地域の担い手に 大浜中学校で防災学習 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "いざというとき、掛川市広域避難所一覧でどこへ避難するか決めておく"
  },
  {
   "href": "/life/emergency/evacuation-hazard-map/",
@@ -1013,37 +946,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html",
-    "label": "その通報が命を救う！119番の正しいかけ方 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/5803.html",
+    "label": "「避難行動判定フロー」による住民自らの避難行動の確認について - 掛川市",
+    "confidence": "high"
    },
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8741.html",
-    "label": "自治区向け電子手続き - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8334.html",
-    "label": "地域で支える見守りネットワーク活動運営マニュアル - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/594763.html",
-    "label": "外国語ごみ分別マニュアル・ごみ収集カレンダー - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10928.html",
+    "label": "防災ガイドブック - 掛川市",
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "自宅周辺の土砂災害警戒区域・洪水浸水想定・避難ルート上の危険箇所を事前に把握。防災ガイドブックに「家庭の避難計画」「マイ防災マップ」の作成方法あり"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "「いつ・どこへ逃げるか」を、避難行動判定フローで迷う前に決めておく"
  },
  {
   "href": "/life/emergency/fire-ambulance/",
@@ -1088,37 +1009,23 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8840.html",
-    "label": "住宅用火災警報器の点検及び交換について - 掛川市",
-    "match_score": 8,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html",
+    "label": "その通報が命を救う！119番の正しいかけ方 - 掛川市",
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/862617.html",
     "label": "救急車の適正利用にご協力をお願いします！ - 掛川市",
-    "match_score": 6,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8938.html",
-    "label": "消防車や救急車のペーパークラフト - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html",
-    "label": "その通報が命を救う！119番の正しいかけ方 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "火事のとき、急病のとき。まず119番。落ち着いて正しくかける"
  },
  {
   "href": "/life/emergency/hazard-maps/",
@@ -1167,37 +1074,25 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/hinankeikaku-d/disaster-guideline/sediment.html",
-    "label": "土砂災害 - 掛川市家庭の避難計画",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7666.html",
     "label": "掛川市ため池マップ・ハザードマップについて - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/85498.html",
-    "label": "【受付は終了しました】令和3年7月熱海市伊豆山土砂災害の義援金 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/787093.html",
     "label": "高潮浸水想定区域図について - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
+    "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "洪水・内水・ため池・高潮・津波・土砂災害・火山の各ハザードマップが地区別（南部・中心部・北部）に分かれて公開"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "自宅と避難先の災害リスクを、ハザードマップで今すぐ確かめる"
  },
  {
   "href": "/life/emergency/",
@@ -1218,25 +1113,18 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/380391.html",
-    "label": "掛川市公衆トイレ一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/353943.html",
-    "label": "掛川市公衆無線LAN設置場所一覧 - オープンデータサイト",
-    "match_score": 3,
-    "confidence": "low"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10928.html",
+    "label": "防災ガイドブック - 掛川市",
+    "confidence": "high"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "もしもの時"
  },
  {
   "href": "/life/emergency/pet-disaster-prevention/",
@@ -1284,37 +1172,20 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7655.html",
-    "label": "掛川市インターネット公売ガイドライン - 掛川市",
-    "match_score": 6,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7880.html",
-    "label": "掛川市立中学校部活動ガイドライン - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7871.html",
-    "label": "掛川市野立て太陽光発電設備ガイドライン（対象：令和６年３月31日までに設置された設備） - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7868.html",
-    "label": "掛川市防犯カメラガイドライン - 掛川市",
-    "match_score": 5,
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8392.html",
+    "label": "災害からペットを守る - 掛川市",
     "confidence": "high"
    }
   ],
-  "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "facts": {
+   "note": "鑑札・迷子札・マイクロチップの装着、排泄用品・常用薬・愛犬手帳等の非常持ち出し袋を準備。大型犬や特殊飼育動物は避難所に持ち込めない想定のため、事前に預け先を検討"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "ペットと一緒に逃げる。そのための備えを、災害が来る前に整える"
  },
  {
   "href": "/life/emergency/road-river-info/",
@@ -1369,35 +1240,16 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7718.html",
     "label": "掛川市河川水位道路冠水等情報システム - 掛川市",
-    "match_score": 7,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/403965.html",
-    "label": "掛川市は有機農業を推進しています！ - 掛川市",
-    "match_score": 7,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10036.html",
-    "label": "道路・河川工事のお知らせ - 掛川市",
-    "match_score": 5,
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/sdgs/company-search/893072.html",
-    "label": "鈴与システムテクノロジー株式会社 - ＳＤＧｓサイト",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "大雨・台風のとき、河川水位道路冠水情報システムで通行止めと水位を今すぐ確かめる"
  },
  {
   "href": "/life/emergency/storm-heavy-rain/",
@@ -1452,35 +1304,21 @@
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7666.html",
     "label": "掛川市ため池マップ・ハザードマップについて - 掛川市",
-    "match_score": 5,
     "confidence": "high"
    },
    {
     "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/330790.html",
     "label": "掛川市災害時健康支援マニュアル - 掛川市",
-    "match_score": 5,
     "confidence": "high"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/hinankeikaku-d/disaster-guideline/sediment.html",
-    "label": "土砂災害 - 掛川市家庭の避難計画",
-    "match_score": 4,
-    "confidence": "low"
-   },
-   {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html",
-    "label": "その通報が命を救う！119番の正しいかけ方 - 掛川市",
-    "match_score": 4,
-    "confidence": "low"
    }
   ],
   "facts": {},
-  "status": "machine-verified",
-  "verified_date": "2026-07-03",
+  "status": "ai-checked",
+  "verified_date": null,
   "ai_checked_date": "2026-07-03",
-  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine",
-  "title": null
+  "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
+  "verified_by": null,
+  "title": "台風・大雨が近づいたら、警戒レベルで「いつ逃げるか」を先に決めておく"
  },
  {
   "href": "/life/end-of-life/after-death-procedures/",
