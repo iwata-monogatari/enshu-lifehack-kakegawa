@@ -37,11 +37,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "放課後の預け先は、放課後児童クラブの対象と申請時期を先に確認する"
  },
  {
@@ -87,11 +87,11 @@
    "hours": "月〜金 9:00〜16:00",
    "note": "不登校・対人関係・いじめ・学習・進路の相談窓口。中学校にはスクールカウンセラーも配置"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "教育相談は、掛川市教育センターへ困りごとを整理してから相談する"
  },
  {
@@ -136,11 +136,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "小学校・中学校の情報は、学校一覧・通学区・手続きを分けて見る"
  },
  {
@@ -168,11 +168,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "学ぶ・育つ"
  },
  {
@@ -222,11 +222,11 @@
    "tel": "0537-72-1345",
    "hours": "月〜金 9:00〜16:00"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "就学の不安は、教育センターの相談窓口から健診・手続きを分けて確認する"
  },
  {
@@ -270,11 +270,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "転校は、住所変更・通学区・学校手続きをまとめて確認する"
  },
  {
@@ -317,11 +317,11 @@
    "window": "学校教育課（申請書は学校にも用意）",
    "note": "要保護世帯は申請不要。継続希望者は次年度も申請が必要。家計急変時は申請時の収入状況で審査可"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "学校費用の不安は、就学援助制度と申請先を先に確認する"
  },
  {
@@ -361,11 +361,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "学校給食は、献立・費用・アレルギー対応を分けて確認する"
  },
  {
@@ -407,11 +407,11 @@
   "facts": {
    "note": "城東中学校区・原野谷中学校区などで小中一貫校の施設整備が進行中のため、学区再編の可能性がある"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "通学区は、住所と学校情報をセットで確認する"
  },
  {
@@ -461,11 +461,11 @@
    "seats": "大人用137席（社会人専用36席）・子ども用41席",
    "note": "大東図書館・大須賀図書館も市内に別途あり"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "学習場所は、図書館の開館日・座席・利用ルールを先に確認する"
  },
  {
@@ -515,11 +515,11 @@
   "facts": {
    "window": "本庁2階 資産税課／大東支所2階 地域支援係／大須賀支所1階 地域支援係"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "災害にあった後、まずり災証明書の交付を資産税課で確認する"
  },
  {
@@ -578,11 +578,11 @@
   "facts": {
    "note": "空メール送信→仮登録完了メール受信→本登録URLで詳細登録の順。火災・災害・振り込め詐欺・行方不明者情報等を配信。登録無料（通信費は自己負担）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "災害の知らせを取りこぼさないよう、掛川市防災メールマガジンに登録する"
  },
  {
@@ -655,11 +655,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "地震・津波の備えを、第4次地震被害想定で今日できることから一つずつ"
  },
  {
@@ -701,11 +701,11 @@
   "facts": {
    "note": "子どもの症状判断は＃8000（子ども医療電話相談）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "急な病気やけがで迷ったとき、救急安心電話相談＃7119で今すぐ判断する"
  },
  {
@@ -752,11 +752,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "いざというとき、掛川市広域避難所一覧でどこへ避難するか決めておく"
  },
  {
@@ -810,11 +810,11 @@
   "facts": {
    "note": "自宅周辺の土砂災害警戒区域・洪水浸水想定・避難ルート上の危険箇所を事前に把握。防災ガイドブックに「家庭の避難計画」「マイ防災マップ」の作成方法あり"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "「いつ・どこへ逃げるか」を、避難行動判定フローで迷う前に決めておく"
  },
  {
@@ -871,11 +871,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "火事のとき、急病のとき。まず119番。落ち着いて正しくかける"
  },
  {
@@ -938,11 +938,11 @@
   "facts": {
    "note": "洪水・内水・ため池・高潮・津波・土砂災害・火山の各ハザードマップが地区別（南部・中心部・北部）に分かれて公開"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "自宅と避難先の災害リスクを、ハザードマップで今すぐ確かめる"
  },
  {
@@ -970,11 +970,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "もしもの時"
  },
  {
@@ -1031,11 +1031,11 @@
   "facts": {
    "note": "鑑札・迷子札・マイクロチップの装着、排泄用品・常用薬・愛犬手帳等の非常持ち出し袋を準備。大型犬や特殊飼育動物は避難所に持ち込めない想定のため、事前に預け先を検討"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "ペットと一緒に逃げる。そのための備えを、災害が来る前に整える"
  },
  {
@@ -1095,11 +1095,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "大雨・台風のとき、河川水位道路冠水情報システムで通行止めと水位を今すぐ確かめる"
  },
  {
@@ -1164,11 +1164,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "台風・大雨が近づいたら、警戒レベルで「いつ逃げるか」を先に決めておく"
  },
  {
@@ -1216,11 +1216,11 @@
    "tel": "0537-21-4140（よいしえん・おくやみコーナー予約）",
    "hours": "予約制。電話は平日9:00〜16:30受付、利用は電話から3開庁日を過ぎた日以降。所要時間目安1時間。15課の手続きをワンストップ対応"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "死亡後の手続きは、おくやみコーナーで急ぐ届出と後日の手続きを分ける"
  },
  {
@@ -1263,11 +1263,11 @@
    "window": "市民課（本庁）／大東支所・大須賀支所 市民窓口係（24時間、日直・守衛が受付）",
    "note": "死亡届提出時に火葬許可証・聖苑火葬利用許可申請書が交付される。火葬場予約は電話で24時間受付"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家族が亡くなったら、死亡届とおくやみコーナーの予約を先に確認する"
  },
  {
@@ -1311,11 +1311,11 @@
    "tel": "0537-21-4140（よいしえん・おくやみコーナー予約）",
    "hours": "予約制。電話は平日9:00〜16:30受付、利用は電話から3開庁日を過ぎた日以降。所要時間目安1時間。15課の手続きをワンストップ対応"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "おくやみ手続きは、おくやみコーナーの一括案内を予約してから家族で分担する"
  },
  {
@@ -1360,11 +1360,11 @@
    "tel": "0537-21-1145",
    "note": "承継・再交付・住所変更届等は霊園の手続き窓口へ。改葬（お墓の引っ越し）は別手続き"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "お墓・供養は、富士見台霊園の手続き窓口を先に確認する"
  },
  {
@@ -1407,11 +1407,11 @@
    "window": "くらしデザイン課 空き家活用係",
    "tel": "0537-21-1209"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "相続後の空き家は、管理・補助金・売却の窓口を早めに分ける"
  },
  {
@@ -1444,11 +1444,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "人生の終わり"
  },
  {
@@ -1487,11 +1487,11 @@
    "window": "国保年金課（国保・後期高齢者医療）0537-21-1143／長寿推進課 保険給付係（介護保険）",
    "note": "国保・後期高齢者医療・介護保険のいずれかに加入していた方が亡くなった場合に相続人代表者の届出が必要。複数加入でも国保年金課への届出のみで対応可"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "相続は、市への届出と家族で決めることを分けて進める"
  },
  {
@@ -1535,11 +1535,11 @@
    "window": "財務部 資産税課（固定資産税の相続人代表者届出）",
    "tel": "0537-21-1137"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の家は、名義（相続登記）・空き家対策・片付けを一つずつ決める"
  },
  {
@@ -1583,11 +1583,11 @@
    "tel": "0537-21-1209",
    "programs": "空き家除却事業費補助金／ようこそ掛川流通促進事業費補助金／空き家活用モデル事業費補助金"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "相続した家は、使う・貸す・売る・解体するを空き家対策の窓口で整理する"
  },
  {
@@ -1619,7 +1619,7 @@
   ],
   "facts": {
    "kokumin_nenkin": "国民年金のみ受給：国保年金課 国保年金係（0537-21-1143）または各支所市民窓口係",
-   "kosei_nenkin": "厚生年金受給：日本年金機構 掛川年金事務所（0537-21-5524）",
+   "kosei_nenkin": "厚生年金受給：日本年金機構 掛川年金事務所（0537-21-5524）（確認中: 本文未確認 0537-21-5524）",
    "note": "未支給年金は偶数月に前2か月分が振り込まれる仕組み上、死亡時点で必ず発生する。金融機関への死亡連絡も必要"
   },
   "status": "ai-checked",
@@ -1666,11 +1666,11 @@
    "tel": "0537-21-1137",
    "note": "相続登記が年内に間に合わない場合、法定相続人の中から納税代表者を決めて届出が必要"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "固定資産税の相続は、資産税課への代表者届と納税通知の行き先を先に確認する"
  },
  {
@@ -1713,11 +1713,11 @@
    "duration": "手当を受け取る人の住民登録地で、出生日から15日以内に申請",
    "documents": "受給資格者名義の通帳またはキャッシュカード、父母のマイナンバーがわかるもの"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "児童手当を、出生日から15日以内の申請期限を守って確実に受け取る"
  },
  {
@@ -1771,11 +1771,11 @@
   "facts": {
    "window": "こども希望課 こども家庭給付係 0537-21-1144"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "出生や転入のあと、児童手当とこども医療費助成を申請漏れなく確認する"
  },
  {
@@ -1822,11 +1822,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子どもの予防接種は、予診票と母子健康手帳をそろえて予約する"
  },
  {
@@ -1879,11 +1879,11 @@
   "facts": {
    "window": "市民課（出生届）／国保年金課（出産育児一時金・国保加入の場合）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "赤ちゃんが生まれたら、出生届と出産育児一時金からまとめて手続きを進める"
  },
  {
@@ -1942,11 +1942,11 @@
    "hattatsu": "発達相談支援係「のびる～む」0537-28-8017",
    "note": "発達相談は年齢制限なし"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子どもの発達が気になったら、こども家庭センター「のびる～む」に相談する"
  },
  {
@@ -1979,11 +1979,11 @@
    "kodomo_katei_soudan": "こども家庭相談係 0537-21-1190",
    "hattatsu": "発達相談支援係「のびる～む」0537-28-8017"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家族が増える"
  },
  {
@@ -2022,11 +2022,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "乳幼児健診の案内を見落とさず、月齢ごとに確認する"
  },
  {
@@ -2068,11 +2068,11 @@
    "window": "市民課／大東支所・大須賀支所 市民窓口係",
    "hours": "8:30〜17:15（市民サービスコーナーは17:00まで）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "婚姻届を出す日と、結婚後に変わる手続きを先に整理する"
  },
  {
@@ -2107,11 +2107,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "保育園と一時預かりを、必要なタイミングから確認する"
  },
  {
@@ -2148,11 +2148,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "幼稚園・保育園・こども園を、子どもに合う入口から選ぶ"
  },
  {
@@ -2192,11 +2192,11 @@
    "kodomo_katei_soudan": "こども家庭相談係 0537-21-1190",
    "hattatsu": "発達相談支援係「のびる～む」0537-28-8017"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子育てで迷ったら、こども家庭センターで相談先と支援を確認する"
  },
  {
@@ -2246,11 +2246,11 @@
    "window": "こども家庭センター おやこ保健係 0537-64-3100",
    "note": "母子健康手帳交付は予約制"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "妊娠がわかったら、まず妊娠届を出して母子健康手帳を受け取る"
  },
  {
@@ -2295,11 +2295,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "ひとり親家庭の手当・医療費・養育費を、最初に見る順番で整理する"
  },
  {
@@ -2343,11 +2343,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "おとなの予防接種は、対象年齢と接種時期を先に確認する"
  },
  {
@@ -2394,11 +2394,11 @@
    "tel": "0537-62-6151",
    "note": "子宮頸がん・乳がん・肺がん結核・胃がん・肝炎ウイルス・骨粗しょう症・前立腺がん検診。前年度同内容受診者は申込不要で受診券が自動送付"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "がん検診と支援制度は、対象と申込期限を分けて確認する"
  },
  {
@@ -2447,11 +2447,11 @@
    "address": "掛川市杉谷南一丁目1-30",
    "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "歯科・口の健康は、健診と急患診療所の対応時間を分けて確認する"
  },
  {
@@ -2495,11 +2495,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "障がい福祉サービスは、支援内容と相談先を先に分ける"
  },
  {
@@ -2543,11 +2543,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "障がい者福祉は、障がい者手帳の取得手続きから確認する"
  },
  {
@@ -2591,11 +2591,11 @@
    "address": "掛川市杉谷南一丁目1-30",
    "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "医療機関を探すときは、平日と夜間・休日の窓口を分けて確認する"
  },
  {
@@ -2641,11 +2641,11 @@
   "facts": {
    "window": "健康づくり推進課 0537-62-6151"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "健康診断とがん検診は、受診券と対象条件を先に確認する"
  },
  {
@@ -2684,8 +2684,8 @@
   ],
   "facts": {
    "window": "健康づくり推進課",
-   "tel": "0537-62-6151",
-   "seijin_hoken": "成人保健指導係 0537-64-5671"
+   "tel": "0537-62-6151（確認中: 本文未確認 0537-62-6151）",
+   "seijin_hoken": "成人保健指導係 0537-64-5671（確認中: 本文未確認 0537-64-5671）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -2730,11 +2730,11 @@
    "address": "掛川市杉谷南一丁目1-30",
    "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "休日夜間の急患は、小笠掛川急患診療所の電話番号をまず確認する"
  },
  {
@@ -2767,11 +2767,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "健康・医療"
  },
  {
@@ -2810,11 +2810,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "こころの相談は、精神保健福祉総合相談（予約制）を確認する"
  },
  {
@@ -2853,11 +2853,11 @@
    "address": "掛川市杉谷南一丁目1-30",
    "hours": "平日夜間19:00〜22:00（受付21:30まで、内科・小児科）／日曜・祝日9:00〜12:00・13:00〜17:00（内科・小児科・外科・歯科）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "夜間・休日の急患は、小笠掛川急患診療所の電話番号をまず確認する"
  },
  {
@@ -2895,11 +2895,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "予防接種は、対象年齢と接種時期を先に確認する"
  },
  {
@@ -2946,11 +2946,11 @@
    "window": "くらしデザイン課 建築営繕係",
    "tel": "0537-21-1152"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家を建てる前に、耐震・補助金の窓口を先に確認する"
  },
  {
@@ -2997,11 +2997,11 @@
    "window": "税務課",
    "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家を買う前に、補助金・税金の窓口を分けて確認する"
  },
  {
@@ -3048,11 +3048,11 @@
    "window": "くらしデザイン課 空き家活用係",
    "tel": "0537-21-1209"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の家の片付けは、ごみ分別と空き家相談窓口を分けて進める"
  },
  {
@@ -3106,11 +3106,11 @@
    "target": "昭和56年5月31日以前建築の木造住宅で耐震評点1.0未満が対象",
    "amount": "耐震補強工事は最大115万円（工事費の4/5、上限1,150,000円）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "耐震補強・解体は、掛川市の補助金制度を先に確認する"
  },
  {
@@ -3138,11 +3138,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家・住まい"
  },
  {
@@ -3196,11 +3196,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "市営住宅は、募集条件・収入・必要書類を先に確認する"
  },
  {
@@ -3246,11 +3246,11 @@
    "window": "税務課",
    "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "土地・家屋の税金は、課税内容と手続きを分けて確認する"
  },
  {
@@ -3293,11 +3293,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "住まいに困ったら、相談窓口と緊急度を先に分ける"
  },
  {
@@ -3339,11 +3339,11 @@
   "facts": {
    "note": "市は民間賃貸の物件斡旋は行わない。空き家の賃貸・売買はかけがわランド・バンク（市と協定を結ぶNPO法人）が窓口の一つ"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "賃貸探しは、市営住宅と民間情報を分けて整理する"
  },
  {
@@ -3392,11 +3392,11 @@
    "window": "税務課",
    "note": "固定資産税・都市計画税は毎年1月1日時点の所有者に課税"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "家を売る前に、税金・空き家バンクの窓口をそろえる"
  },
  {
@@ -3450,11 +3450,11 @@
    "programs": "空き家除却事業費補助金／ようこそ掛川流通促進事業費補助金／空き家活用モデル事業費補助金",
    "bank": "かけがわランド・バンク（市と空き家対策協定を結ぶNPO法人。空き家・空き地の流通支援）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "空き家は、管理・補助金・かけがわランド・バンクの活用を同時に整理する"
  },
  {
@@ -3500,11 +3500,11 @@
    "window": "くらしデザイン課 移住定住推進係",
    "tel": "0537-21-1209"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "掛川で暮らす前に、地図だけでは見えない生活の手触りを確認する"
  },
  {
@@ -3556,11 +3556,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "運転免許を返したあとも、掛川市のデマンド交通で困らずに動ける道を整える"
  },
  {
@@ -3618,11 +3618,11 @@
   "facts": {
    "note": "洪水・内水・ため池・高潮・津波・土砂災害・火山の各ハザードマップが地区別（南部・中心部・北部）に分かれて公開されている"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越す前に、候補地が洪水・津波・土砂・地震に強い場所か防災ガイドブックで確かめる"
  },
  {
@@ -3650,7 +3650,7 @@
   ],
   "facts": {
    "window": "くらしデザイン課 移住定住推進係",
-   "tel": "0537-21-1209"
+   "tel": "0537-21-1209（確認中: 本文未確認 0537-21-1209）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -3698,11 +3698,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越しが決まったら、転入・転出届の持ち物を先に確認する"
  },
  {
@@ -3747,11 +3747,11 @@
   "facts": {
    "note": "城東中学校区・原野谷中学校区などで小中一貫校の施設整備が進行中（学区再編の可能性があるため最新情報の確認が必要）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越し先で、子どもがどの小中学校に通うのかを通学区一覧で確かめる"
  },
  {
@@ -3803,11 +3803,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "住む地区を決める前に、掛川市の移動手段を先に確かめる"
  },
  {
@@ -3851,11 +3851,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "広い家で、安定した仕事があって、子どもをのびのび育てられる暮らしを掛川で考える"
  },
  {
@@ -3892,7 +3892,7 @@
   "facts": {
    "window": "環境政策課 ごみ減量推進係",
    "tel": "0537-21-1145",
-   "dropoff": "環境資源ギャラリー（満水2319番地）へ自己搬入。10kgにつき110円。土日・繁忙期は予約制"
+   "dropoff": "環境資源ギャラリー（満水2319番地）へ自己搬入。10kgにつき110円。土日・繁忙期は予約制（確認中: 本文未確認 110円）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -3934,11 +3934,11 @@
   "facts": {
    "note": "転出先の市区町村でも改めて登録手続きが必要な場合がある"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "犬の登録変更は、転出先自治体での再登録も見越して確認する"
  },
  {
@@ -3965,11 +3965,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "新しい場所へ"
  },
  {
@@ -4006,11 +4006,11 @@
    "window": "市民課／大東支所・大須賀支所 市民窓口係",
    "note": "マイナンバーカードがあればマイナポータルからオンライン提出も可能"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "転出届は、転出先と届出方法を確認してから進める"
  },
  {
@@ -4047,11 +4047,11 @@
   "facts": {
    "note": "水道停止・ごみ・学校転校等の手続きは各担当窓口で別途必要"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "掛川市から引っ越すときは、転出届と暮らしの停止手続きを一緒に確認する"
  },
  {
@@ -4091,11 +4091,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子どもの転出は、学校と園の手続きを別々に確認する"
  },
  {
@@ -4134,11 +4134,11 @@
    "tel": "0537-21-1715",
    "note": "電話またはインターネット（24時間）で申込可能"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "水道の中止は、使用をやめる日と精算方法を先に決める"
  },
  {
@@ -4185,11 +4185,11 @@
    "court": "静岡家庭裁判所掛川支部 0537-22-3036（申立て手続き）",
    "legal_support": "リーガルサポート静岡 054-289-3700／県社会福祉士会「ぱあとなあ静岡」054-252-9877"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の判断能力が心配になったら、成年後見制度の相談先を先に確認する"
  },
  {
@@ -4241,11 +4241,11 @@
    "duration": "申請から原則30日以内に認定結果を通知。遅れる場合は遅延通知が届く",
    "agent": "地域包括支援センター・居宅介護支援事業者・介護保険施設による申請代行も可能"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の介護認定は、申請窓口と原則30日の通知期間を先に知っておく"
  },
  {
@@ -4302,11 +4302,11 @@
    "代表窓口": "長寿推進課 予防支援係 0537-21-1364",
    "受付時間": "月～金曜日 8:30～17:15"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の介護が急に始まったら、まず地域包括支援センターに相談する"
  },
  {
@@ -4357,11 +4357,11 @@
    "window": "長寿推進課 予防支援係",
    "tel": "0537-21-1364"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "離れて暮らす親が心配なとき、掛川市の見守りネットワークと相談窓口を確認する"
  },
  {
@@ -4401,11 +4401,11 @@
    "代表窓口": "長寿推進課 予防支援係 0537-21-1364",
    "受付時間": "月～金曜日 8:30～17:15"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "どこに相談すればいいか分からない介護の悩みは、地区の地域包括支援センターへ"
  },
  {
@@ -4465,11 +4465,11 @@
    "tel": "0537-21-1364",
    "team": "認知症初期集中支援チーム：40歳以上で医療・介護に結びついていない方が対象。専門職チームが約6か月訪問支援"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親が認知症かもしれないと感じたら、抱え込まず地域包括支援センターへ相談する"
  },
  {
@@ -4519,11 +4519,11 @@
   "facts": {
    "service": "ふれあいタクシー（デマンド型乗合タクシー）／CHAIのり号（AIオンデマンド交通）の2種の予約制交通がある（提供地域が異なるため要確認）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "通院や買い物に行きづらくなった親の「足」を、デマンド交通で確保する"
  },
  {
@@ -4583,11 +4583,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の介護施設は、種類の違いと市内事業者一覧から落ち着いて選ぶ"
  },
  {
@@ -4619,11 +4619,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親のこと"
  },
  {
@@ -4683,11 +4683,11 @@
    "tel": "0537-21-1142",
    "duration": "原則30日以内に通知"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の介護が始まったら、要介護認定の申請から順番に動く"
  },
  {
@@ -4734,11 +4734,11 @@
   "facts": {
    "note": "生涯学習センター（ホール1,069席）・文化会館シオーネ・美感ホール（270人収容）・桜木地域生涯学習センター等"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "文化施設は、生涯学習センター・美感ホール等の開館日と予約を先に確認する"
  },
  {
@@ -4776,11 +4776,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "公共施設は、公共施設予約サービスから目的別に探す"
  },
  {
@@ -4820,11 +4820,11 @@
   "facts": {
    "note": "22世紀の丘公園（総合公園、大型遊具・プール・温浴施設）、掛川森林果樹公園など"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "公園は、22世紀の丘公園など目的・年齢・アクセスで選ぶ"
  },
  {
@@ -4857,11 +4857,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "遊ぶ・使う・出かける"
  },
  {
@@ -4899,11 +4899,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子どもの遊び場は、年齢・天気・帰りやすさで選ぶ"
  },
  {
@@ -4941,11 +4941,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "出発前に、市営駐車場・地図・公共交通を確認する"
  },
  {
@@ -4991,11 +4991,11 @@
   "facts": {
    "note": "使用料は承認時に納付。施設により料金表が異なる"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "公共施設を借りる前に、予約システムと使用料を確認する"
  },
  {
@@ -5040,7 +5040,7 @@
    }
   ],
   "facts": {
-   "window": "予約センター（総合体育館さんりーな）／南体育館し～すぽ 0537-28-8710",
+   "window": "予約センター（総合体育館さんりーな）／南体育館し～すぽ 0537-28-8710（確認中: 本文未確認 0537-28-8710）",
    "note": "インターネット予約はメールアドレス申請→ユーザー登録→パスワード設定の順"
   },
   "status": "ai-checked",
@@ -5079,19 +5079,22 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/632025.html",
-    "label": "令和６年度 市民プールの夏期営業について - 掛川市",
-    "confidence": "high"
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7378.html",
+    "label": "安養寺運動公園（プール）"
+   },
+   {
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9355.html",
+    "label": "大須賀海洋センタープール"
    }
   ],
   "facts": {
    "note": "安養寺運動公園プール・大須賀海洋センタープールは夏季限定営業（例年7月中旬〜8月下旬）。22世紀の丘公園「たまりーな」は温水プール（通年、営業状況は要確認）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "プールは、市民プールの夏期営業期間・料金・持ち物を先に確認する"
  },
  {
@@ -5136,11 +5139,11 @@
   "facts": {
    "note": "中央図書館のほか大東図書館・大須賀図書館がある"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "図書館へ行く前に、開館日・利用カード・最寄り館を確認する"
  },
  {
@@ -5185,7 +5188,7 @@
   "facts": {
    "window": "環境政策課 ごみ減量推進係",
    "tel": "0537-21-1145",
-   "dropoff": "環境資源ギャラリー（掛川市満水2319番地）へ自己搬入。手数料10kgにつき110円（事業系165円）。土日・繁忙期は予約制",
+   "dropoff": "環境資源ギャラリー（掛川市満水2319番地）へ自己搬入。手数料10kgにつき110円（事業系165円）。土日・繁忙期は予約制（確認中: 本文未確認 110円）（確認中: 本文未確認 165円）",
    "pickup": "自己搬入できない場合は許可業者による有料の戸別回収を利用"
   },
   "status": "ai-checked",
@@ -5249,11 +5252,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "提出先に出す証明書は、コンビニ交付か窓口かを間違えず最短で受け取る"
  },
  {
@@ -5295,11 +5298,11 @@
   "facts": {
    "note": "本庁（長谷一丁目1-1）／大東支所（三俣620）／大須賀支所（西大渕100）。一部業務は本庁のみ取扱いのため事前確認が必要"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "近くの窓口に行く前に、本庁・大東支所・大須賀支所の扱い業務を確かめる"
  },
  {
@@ -5347,11 +5350,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "犬の登録・鑑札の手続きは、狂犬病予防注射とまとめて一度に済ませる"
  },
  {
@@ -5398,11 +5401,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "毎年の狂犬病予防注射は、集合注射の案内で忘れず受ける"
  },
  {
@@ -5457,11 +5460,11 @@
   "facts": {
    "note": "掛川区域と大東・大須賀区域で分別マニュアルが分かれる。転入時にカレンダーが届いていない場合は市役所・支所で受け取り可能"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越し先で、ごみを間違えずに出せるようごみカレンダーを確認する"
  },
  {
@@ -5514,11 +5517,11 @@
   "facts": {
    "note": "収集日午前8時30分までに指定袋で排出。燃えるごみ・燃えないごみ・プラ資源・びん・かん・ペットボトル等に分別"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越し直後でも、明日のごみを正しく出せるよう分別ルールを確認する"
  },
  {
@@ -5545,11 +5548,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "暮らし始めた"
  },
  {
@@ -5606,11 +5609,11 @@
    "duration": "転入届は住み始めた日から14日以内",
    "note": "国民健康保険・児童手当等、他課の手続きが必要な場合は事前連絡が案内されている"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越してきた後の手続きを、抜けなく順番どおりに片づける"
  },
  {
@@ -5664,11 +5667,11 @@
   "facts": {
    "note": "転入時は転出証明書と印鑑を持参（マイナンバーカードがあれば特例転入で転出証明書は不要）。国外からの転入はパスポート等・戸籍謄本・戸籍の附票が必要な場合あり"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越しの住所変更は、転出証明書と転入届を順番どおりに片づける"
  },
  {
@@ -5715,11 +5718,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "マイナンバーカードを、申請から受け取りまで迷わず進める"
  },
  {
@@ -5780,11 +5783,11 @@
    "hokenjo": "西部保健所 掛川支所 0537-22-3262",
    "city": "平日8:30-17:15は環境政策課／土日祝・夜間は市役所代表 0537-21-1111"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "犬や猫がいなくなったら、警察・保健所・環境政策課へすぐ連絡する"
  },
  {
@@ -5837,11 +5840,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "車に頼らない日の移動を、デマンド交通と自主運行バスで乗りこなす"
  },
  {
@@ -5887,11 +5890,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "会社や学校に出す住民票は、コンビニ交付で急ぎでも確実に手に入れる"
  },
  {
@@ -5952,7 +5955,7 @@
   ],
   "facts": {
    "window": "水道料金お客さまセンター",
-   "tel": "0537-21-1715",
+   "tel": "0537-21-1715（確認中: 本文未確認 0537-21-1715）",
    "note": "料金請求は2か月に1回。上水道は掛川市水道課が直営（広域水道ではない）"
   },
   "status": "ai-checked",
@@ -6027,11 +6030,11 @@
    "tel": "0537-21-1715",
    "note": "電話またはインターネット（24時間）で申込可能"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "引っ越し日に水が出ない事態を防ぐ。水道の開始・中止届を早めに"
  },
  {
@@ -6083,11 +6086,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "動物・ペットの困りごとは、担当窓口を分けて相談する"
  },
  {
@@ -6135,7 +6138,7 @@
   ],
   "facts": {
    "window": "納税課（滞納整理・納税相談）",
-   "tel": "管理係 0537-21-1206／収納係 0537-21-1211・1212"
+   "tel": "管理係 0537-21-1206／収納係 0537-21-1211・1212（確認中: 本文未確認 0537-21-1206）（確認中: 本文未確認 0537-21-1211）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -6190,11 +6193,11 @@
    "window": "地域包括支援センター（東部・西部・中部・南部大東・南部大須賀の5か所、地区別）",
    "tel": "代表：長寿推進課 予防支援係 0537-21-1364"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "介護で困ったときは、まず地域包括支援センターに相談する"
  },
  {
@@ -6253,11 +6256,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "子どものことで不安なときは、こども家庭センターに相談する"
  },
  {
@@ -6313,11 +6316,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "だまされたかも・契約してしまったときは、消費生活相談窓口へ早めに相談する"
  },
  {
@@ -6380,11 +6383,11 @@
    "chiteki": "知的障がい：東遠地区生活支援センター 0537-35-2971（菊川市）",
    "seishin": "精神障がい：地域活動支援センターMネット 0537-29-8970（掛川市久保）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "障害のことは、種別ごとの相談支援センターに相談する"
  },
  {
@@ -6422,11 +6425,11 @@
    "window": "農業委員会",
    "note": "登記地目が農地のまま実際は別用途の場合、非農地証明（現況証明）で地目変更が可能なケースがある"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "農地の証明は、非農地証明の要否から農業委員会に確認する"
  },
  {
@@ -6468,11 +6471,11 @@
   "facts": {
    "note": "掛川市は都市計画法の用途地域を除き市全域が農業振興地域。農用地区域内は原則転用不可で、除外申請により白地化が必要な場合がある"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "農地を別の用途に使いたいときは、農振除外の要否から確認する"
  },
  {
@@ -6519,11 +6522,11 @@
    "window": "農業委員会",
    "note": "4ヘクタール以下の転用許可権限は市に移譲済み。申請締切は毎月20日頃、許可までおおむね1か月"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "農地を宅地や駐車場に使うときは、農地転用許可の流れを先に見極める"
  },
  {
@@ -6584,11 +6587,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "相続した田んぼ・畑をどうするか、まず農業委員会で整理する"
  },
  {
@@ -6640,11 +6643,11 @@
   "facts": {
    "note": "農地を相続した場合、農業委員会への届出が法律で義務付けられている（相続を知った日から10か月以内）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "相続した田んぼ・畑は、農業委員会への届出から整理する"
  },
  {
@@ -6680,11 +6683,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "農振・農用地区域は、地図で場所と目的を先に確認する"
  },
  {
@@ -6736,11 +6739,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "使っていない農地を売りたい・貸したいときは、農地中間管理事業を確認する"
  },
  {
@@ -6782,11 +6785,11 @@
    "tel": "0537-24-5595",
    "hours": "月〜金 9:00〜16:00（月・水・金の10:00〜15:30はポルトガル語通訳常駐）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "外国人住民の相談は、市役所の外国人相談窓口・国際交流センターへ"
  },
  {
@@ -6813,11 +6816,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "困った・相談したい"
  },
  {
@@ -6876,11 +6879,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "誰に相談すればいいか分からない悩みは、弁護士会の無料法律相談へつなぐ"
  },
  {
@@ -6930,7 +6933,7 @@
   "facts": {
    "window": "福祉課 社会福祉係",
    "tel": "0537-21-1140",
-   "shakyo": "生活福祉資金の貸付は掛川市社会福祉協議会 0537-22-1294"
+   "shakyo": "生活福祉資金の貸付は掛川市社会福祉協議会 0537-22-1294（確認中: 本文未確認 0537-22-1294）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -6980,11 +6983,11 @@
    "tel": "0537-21-1154",
    "note": "工事・整備そのものは土木防災課 0537-21-1153。どこに通報してよいか分からない場合は危機管理課 0537-21-1131"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "道路の穴・カーブミラー・街路灯の不具合は、維持管理課へ通報する"
  },
  {
@@ -7043,11 +7046,11 @@
    "window": "くらしデザイン課 空き家活用係",
    "tel": "0537-21-1209"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "親の家・実家をどうするか迷ったら、まず空き家対策の窓口へ相談する"
  },
  {
@@ -7090,13 +7093,13 @@
    }
   ],
   "facts": {
-   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212（確認中: 本文未確認 0537-21-1211）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "市税の納付方法は、口座振替と各種納付方法を分けて確認する"
  },
  {
@@ -7124,11 +7127,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "働く・暮らす"
  },
  {
@@ -7171,11 +7174,11 @@
    "address": "掛川市駅前4-4 SKしんきんプラザ2階",
    "tel": "0537-22-4185"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "就職・転職活動は、ハローワーク掛川の求人情報を先に確認する"
  },
  {
@@ -7214,11 +7217,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "掛川市職員採用情報は、募集要項と試験日程を先に確認する"
  },
  {
@@ -7256,13 +7259,13 @@
    }
   ],
   "facts": {
-   "window": "市税課 市民税係 0537-21-1136"
+   "window": "市税課 市民税係 0537-21-1136（確認中: 本文未確認 0537-21-1136）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "軽自動車税の手続きは、税額区分と登録先を分けて確認する"
  },
  {
@@ -7301,11 +7304,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "マイナンバーカードの手続きは、事前予約制の窓口・休日開庁を活用する"
  },
  {
@@ -7351,11 +7354,11 @@
   "facts": {
    "window": "国保年金課 国保年金係 0537-21-1143"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "国民健康保険税は、所得割・均等割の仕組みと減免申請を先に確認する"
  },
  {
@@ -7392,11 +7395,11 @@
   "facts": {
    "window": "国保年金課 0537-21-1143"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "国民健康保険・年金の手続きは、資格喪失証明と期限を先に確認する"
  },
  {
@@ -7441,11 +7444,11 @@
   "facts": {
    "window": "市税課 市民税係 0537-21-1136"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "住民税の手続きは、普通徴収・特別徴収と申告を先に確認する"
  },
  {
@@ -7478,7 +7481,7 @@
   ],
   "sources_kakegawa": [
    {
-    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/kana/docs/9257.html",
+    "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9257.html",
     "label": "創業支援相談 - 掛川市",
     "confidence": "high"
    },
@@ -7492,11 +7495,11 @@
    "cci": "掛川商工会議所 創業相談窓口 0537-22-5151（平日8:30-17:00）",
    "shokokai": "掛川みなみ商工会 創業相談窓口 0537-72-2701（平日8:30-17:00）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "起業・創業の準備は、商工会議所・商工会の創業相談窓口を先に確認する"
  },
  {
@@ -7537,11 +7540,11 @@
    "window": "農林課",
    "note": "県・市・JA等が連携。受入農家での約1年間の実践研修制度あり。主要農産物は茶・鶏卵・米・イチゴ・メロン・トマト・バラ・生乳・肉牛・豚肉"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "就農の準備は、農林課と就農相談を先に確認する"
  },
  {
@@ -7575,11 +7578,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "補助金の申請は、対象要件と事前申請ルールを先に確認する"
  },
  {
@@ -7617,15 +7620,15 @@
    }
   ],
   "facts": {
-   "shizei": "市税課 市民税係 0537-21-1136",
-   "shisan": "資産税課（固定資産税）0537-21-1137",
-   "nozei": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+   "shizei": "市税課 市民税係 0537-21-1136（確認中: 本文未確認 0537-21-1136）",
+   "shisan": "資産税課（固定資産税）0537-21-1137（確認中: 本文未確認 0537-21-1137）",
+   "nozei": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212（確認中: 本文未確認 0537-21-1206）（確認中: 本文未確認 0537-21-1211）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "税金の手続きは、税目ごとの担当課を先に確認する"
  },
  {
@@ -7666,11 +7669,11 @@
   "facts": {
    "note": "コンビニ交付・窓口・郵送のいずれかで取得可能（税目・証明年度により異なる）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "税の証明書は、必要な証明年度と取得方法を先に確認する"
  },
  {
@@ -7709,13 +7712,13 @@
    }
   ],
   "facts": {
-   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212"
+   "window": "納税課 管理係 0537-21-1206／収納係 0537-21-1211・1212（確認中: 本文未確認 0537-21-1206）（確認中: 本文未確認 0537-21-1211）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-03",
   "ai_checked_date": "2026-07-03",
   "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
-  "verified_by": null,
+  "verified_by": "machine",
   "title": "税金の相談は、担当課と納税猶予制度を先に確認する"
  }
 ]
