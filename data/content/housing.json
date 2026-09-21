@@ -52,7 +52,8 @@
     {"question": "中古住宅や空き家を買うにはどこを見ればいいですか", "answer": "市は民間の物件斡旋を行いませんが、空き家・空き地の流通支援窓口として<a href=\"https://kakegawa-lb.jp/\" target=\"_blank\" rel=\"noopener\">かけがわランド・バンク</a>があります。物件情報や解決事例が掲載されているので参考にしてください。"},
     {"question": "耐震性が心配な中古住宅を買う場合は", "answer": "昭和56年5月31日以前に建築された木造住宅で耐震評点1.0未満の場合、耐震補強や建替えに補助金が使えることがあります。詳しくは<a href=\"/life/housing/earthquake-demolition/\">耐震補強・解体の補助金</a>を確認してください。"},
     {"question": "購入後に必要な市への届出はありますか", "answer": "所有者変更や住所変更などの届出が必要になる場合があります。詳細は税務課に確認するのが確実です。"},
-    {"question": "税金の相談はどこにすればいいですか", "answer": "固定資産税・都市計画税に関する相談は税務課が窓口です。税率や納期など基本的な仕組みは<a href=\"https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html\" target=\"_blank\" rel=\"noopener\">固定資産税・都市計画税のあらまし</a>で確認できます。"}
+    {"question": "税金の相談はどこにすればいいですか", "answer": "固定資産税・都市計画税に関する相談は税務課が窓口です。税率や納期など基本的な仕組みは<a href=\"https://www.city.kakegawa.shizuoka.jp/gyosei/docs/8195.html\" target=\"_blank\" rel=\"noopener\">固定資産税・都市計画税のあらまし</a>で確認できます。"},
+    {"question": "磐田市も候補に含めて、新築を比較したいときは？", "answer": "住まい探しの範囲に磐田市も含める場合は、当サイトの運営元・富士ヶ丘サービスの<a href=\"https://shinchikubukken.atawi.link/\">ATAWI 新築分譲住宅</a>で掲載物件を確認できます。掲載対象は磐田市の新築です。通勤・通学や家族の行き来を考えながら、希望する町を比較する際の参考にしてください。"}
   ],
   "tabs": [
     {"id": "type-new-buy", "label": "新築購入", "heading": "税金の仕組みを先に知る", "bullets": ["固定資産税・都市計画税は1月1日時点の所有者に課税される", "納期は年4期に分かれている", "軽減措置の有無は税務課に確認する"], "actions": [{"label": "固定資産税・都市計画税を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/sangyo/zeikin/koteisisan/", "source": "掛川市公式"}, {"label": "土地・家屋の税金を見る", "href": "/life/housing/property-tax/", "source": "掛川ライフハック"}]},
@@ -409,3 +410,4 @@
   ]
  }
 ]
+
