@@ -1,0 +1,618 @@
+[
+  {
+    "name": "掛川城",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kakegawajyo.html",
+    "slug": "kakegawajyo",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0079 静岡県掛川市掛川1138番地の24",
+    "closed": false
+  },
+  {
+    "name": "掛川城御殿",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kakegawajyogoten.html",
+    "slug": "kakegawajyogoten",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0079 静岡県掛川市掛川1138番地の24",
+    "closed": false
+  },
+  {
+    "name": "二の丸茶室",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ninomaruchasitu.html",
+    "slug": "ninomaruchasitu",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0079 静岡県掛川市掛川1138番地の24",
+    "closed": false
+  },
+  {
+    "name": "大手門・大手門番所",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/otemon.html",
+    "slug": "otemon",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0091 静岡県掛川市城下27番地（大手門）・城下6番地3（大手門番所）",
+    "closed": false
+  },
+  {
+    "name": "竹の丸",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/takenomaru.html",
+    "slug": "takenomaru",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0079 静岡県掛川市掛川1200番地の1",
+    "closed": false
+  },
+  {
+    "name": "大日本報徳社",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/houtokusha.html",
+    "slug": "houtokusha",
+    "group": "歴史・まち歩き",
+    "address": "静岡県掛川市掛川1176番地",
+    "closed": false
+  },
+  {
+    "name": "川坂屋",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kawazakaya.html",
+    "slug": "kawazakaya",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0003 静岡県掛川市日坂149番地",
+    "closed": false
+  },
+  {
+    "name": "萬屋",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yorozuya.html",
+    "slug": "yorozuya",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0003 静岡県掛川市日坂35番地",
+    "closed": false
+  },
+  {
+    "name": "久延寺",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kyuenji.html",
+    "slug": "kyuenji",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0002 静岡県掛川市佐夜鹿291番地",
+    "closed": false
+  },
+  {
+    "name": "小夜の中山",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/sayononakayama.html",
+    "slug": "sayononakayama",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0001 静岡県掛川市佐夜鹿",
+    "closed": false
+  },
+  {
+    "name": "高天神城跡",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/takatenjinjyoato.html",
+    "slug": "takatenjinjyoato",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1435 静岡県掛川市上土方嶺向3136外",
+    "closed": false
+  },
+  {
+    "name": "横須賀城跡",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yokosukajyoato.html",
+    "slug": "yokosukajyoato",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1305 静岡県掛川市山崎1-1",
+    "closed": false
+  },
+  {
+    "name": "横須賀町番所",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/machibansho.html",
+    "slug": "machibansho",
+    "group": "歴史・まち歩き",
+    "address": "掛川市大須賀支所北側入口",
+    "closed": false
+  },
+  {
+    "name": "清水邸庭園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/shimizuteiteien.html",
+    "slug": "shimizuteiteien",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1304 静岡県掛川市西大渕5298番地の2",
+    "closed": false
+  },
+  {
+    "name": "龍華院大猷院霊屋",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ryugeintaiyuin.html",
+    "slug": "ryugeintaiyuin",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0079 静岡県掛川市掛川1104番地",
+    "closed": false
+  },
+  {
+    "name": "事任八幡宮",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kotonomama.html",
+    "slug": "kotonomama",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0004 静岡県掛川市八坂642番地",
+    "closed": false
+  },
+  {
+    "name": "龍尾神社",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/tatsuojinjya.html",
+    "slug": "tatsuojinjya",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0067 静岡県掛川市下西郷84番地",
+    "closed": false
+  },
+  {
+    "name": "八坂神社",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yasakajinjya.html",
+    "slug": "yasakajinjya",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1405 静岡県掛川市中2308番地の1",
+    "closed": false
+  },
+  {
+    "name": "三熊野神社",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/mikumanojinjya.html",
+    "slug": "mikumanojinjya",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1304 静岡県掛川市西大渕5631番地の1",
+    "closed": false
+  },
+  {
+    "name": "秋葉神社（掛川遥拝所）",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/akihajinjya.html",
+    "slug": "akihajinjya",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0043 静岡県掛川市大池",
+    "closed": false
+  },
+  {
+    "name": "太田家家臣の墓（正願寺）",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/otakekasinhaka.html",
+    "slug": "otakekasinhaka",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0071 静岡県掛川市仁藤67番地",
+    "closed": false
+  },
+  {
+    "name": "普門寺",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/fumonji.html",
+    "slug": "fumonji",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1304 静岡県掛川市西大淵6429番地",
+    "closed": false
+  },
+  {
+    "name": "窓泉寺",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/sousenji.html",
+    "slug": "sousenji",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1304 静岡県掛川市西大渕5532番地",
+    "closed": false
+  },
+  {
+    "name": "平将門十九首塚",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/jyukushuzuka.html",
+    "slug": "jyukushuzuka",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0057 静岡県掛川市十九首",
+    "closed": false
+  },
+  {
+    "name": "晴明塚",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/seimeizuka.html",
+    "slug": "seimeizuka",
+    "group": "歴史・まち歩き",
+    "address": "〒437-1302 静岡県掛川市大渕",
+    "closed": false
+  },
+  {
+    "name": "遠江塚",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/totoumizuka.html",
+    "slug": "totoumizuka",
+    "group": "歴史・まち歩き",
+    "address": "〒436-0025 静岡県掛川市下俣",
+    "closed": false
+  },
+  {
+    "name": "和田岡古墳群",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/wadaokakofun.html",
+    "slug": "wadaokakofun",
+    "group": "歴史・まち歩き",
+    "address": "吉岡大塚古墳、春林院古墳 〒436-0115 静岡県掛川市吉岡 瓢塚古墳、行人塚古墳 〒436-0114 静岡県掛川市高田 各和金塚古墳 〒436-0113 静岡県掛川市各和",
+    "closed": false
+  },
+  {
+    "name": "掛川のおもしろい伝説・逸話",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/12454.html",
+    "slug": "12454",
+    "group": "歴史・まち歩き",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "粟ヶ岳",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/awagatake.html",
+    "slug": "awagatake",
+    "group": "自然・公園",
+    "address": "〒436-0001 静岡県掛川市東山1051番地の1",
+    "closed": false
+  },
+  {
+    "name": "小笠山",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ogasayama.html",
+    "slug": "ogasayama",
+    "group": "自然・公園",
+    "address": "〒437-1438 静岡県掛川市入山瀬852番地",
+    "closed": false
+  },
+  {
+    "name": "大尾山",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/obisan.html",
+    "slug": "obisan",
+    "group": "自然・公園",
+    "address": "〒436-0332 静岡県掛川市居尻",
+    "closed": false
+  },
+  {
+    "name": "松葉の滝",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/matsubanotaki.html",
+    "slug": "matsubanotaki",
+    "group": "自然・公園",
+    "address": "〒436-0341 静岡県掛川市倉真 ※駐車場までの道はかなり狭く、すれ違いができません。お越しの際は十分ご注意ください。",
+    "closed": false
+  },
+  {
+    "name": "大浜公園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ohamakouen.html",
+    "slug": "ohamakouen",
+    "group": "自然・公園",
+    "address": "〒437-1421 静岡県掛川市大坂8261番地の1",
+    "closed": false
+  },
+  {
+    "name": "西大谷ダム公園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/nishiohyadamu.html",
+    "slug": "nishiohyadamu",
+    "group": "自然・公園",
+    "address": "〒437-1301 静岡県掛川市横須賀",
+    "closed": false
+  },
+  {
+    "name": "潮騒橋",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/shiosaibashi.html",
+    "slug": "shiosaibashi",
+    "group": "自然・公園",
+    "address": "〒437-1413 静岡県掛川市国安",
+    "closed": false
+  },
+  {
+    "name": "掛川市ステンドグラス美術館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/stainedglass.html",
+    "slug": "stainedglass",
+    "group": "文化・美術",
+    "address": "〒436-0079 静岡県掛川市掛川1140-1",
+    "closed": false
+  },
+  {
+    "name": "二の丸美術館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ninomaru.html",
+    "slug": "ninomaru",
+    "group": "文化・美術",
+    "address": "〒436-0079 静岡県掛川市掛川1142番地の1",
+    "closed": false
+  },
+  {
+    "name": "吉岡彌生記念館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yoshiokakinenkan.html",
+    "slug": "yoshiokakinenkan",
+    "group": "文化・美術",
+    "address": "〒437-1434 静岡県掛川市下土方474番地",
+    "closed": false
+  },
+  {
+    "name": "大須賀歴史民俗資料館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/osukarekisiminzoku.html",
+    "slug": "osukarekisiminzoku",
+    "group": "文化・美術",
+    "address": "〒437-1302 静岡県掛川市大渕6881番地の2",
+    "closed": false
+  },
+  {
+    "name": "柱時計＆オーディオミュージアム",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/hashiratokei_and_audio_museum.html",
+    "slug": "hashiratokei_and_audio_museum",
+    "group": "閉館・過去資料",
+    "address": "〒436-0024 掛川市南西郷458-7",
+    "closed": true
+  },
+  {
+    "name": "掛川埋蔵文化財センター",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/12127.html",
+    "slug": "12127",
+    "group": "文化・美術",
+    "address": "〒436-0008 静岡県掛川市千羽986番地",
+    "closed": false
+  },
+  {
+    "name": "ねむの木こども美術館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/nemunoki.html",
+    "slug": "nemunoki",
+    "group": "文化・美術",
+    "address": "〒436-0221 静岡県掛川市上垂木3399番地の1",
+    "closed": false
+  },
+  {
+    "name": "吉行淳之介文学館",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yoshiyukibungaku.html",
+    "slug": "yoshiyukibungaku",
+    "group": "文化・美術",
+    "address": "〒436-0221 静岡県掛川市上垂木3190番地の2",
+    "closed": false
+  },
+  {
+    "name": "資生堂企業資料館・資生堂アートハウス",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/shiseido.html",
+    "slug": "shiseido",
+    "group": "閉館・過去資料",
+    "address": "〒436-0025 静岡県掛川市下俣751番地の1",
+    "closed": true
+  },
+  {
+    "name": "浮世絵美術館　夢灯",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yumeakari.html",
+    "slug": "yumeakari",
+    "group": "文化・美術",
+    "address": "〒436-0002 静岡県掛川市佐夜鹿298番地の2",
+    "closed": false
+  },
+  {
+    "name": "ならここの里キャンプ場",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/narakokonosato.html",
+    "slug": "narakokonosato",
+    "group": "体験・温泉",
+    "address": "〒436-0332 静岡県掛川市居尻179番地",
+    "closed": false
+  },
+  {
+    "name": "明ヶ島キャンプ場",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/myogajimacamp.html",
+    "slug": "myogajimacamp",
+    "group": "体験・温泉",
+    "address": "〒436-0337 静岡県掛川市炭焼33番地の2",
+    "closed": false
+  },
+  {
+    "name": "掛川花鳥園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kachoen.html",
+    "slug": "kachoen",
+    "group": "体験・温泉",
+    "address": "〒436-0024 静岡県掛川市南西郷1517番地",
+    "closed": false
+  },
+  {
+    "name": "加茂荘花鳥園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kamoso-katyoen.html",
+    "slug": "kamoso-katyoen",
+    "group": "体験・温泉",
+    "address": "〒436-0105 静岡県掛川市原里110番地",
+    "closed": false
+  },
+  {
+    "name": "森林果樹公園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/shinrinkajyu.html",
+    "slug": "shinrinkajyu",
+    "group": "体験・温泉",
+    "address": "静岡県掛川市下俣1番地の90ほか",
+    "closed": false
+  },
+  {
+    "name": "キウイフルーツカントリーJAPAN",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kiwifruitcountry.html",
+    "slug": "kiwifruitcountry",
+    "group": "体験・温泉",
+    "address": "〒436-0012 静岡県掛川市上内田2040番地",
+    "closed": false
+  },
+  {
+    "name": "戸塚ぶどう園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/todukabudouen.html",
+    "slug": "todukabudouen",
+    "group": "体験・温泉",
+    "address": "〒436-0342 静岡県掛川市上西郷",
+    "closed": false
+  },
+  {
+    "name": "カントリーファーム佐藤園",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/countryfarmsatouen.html",
+    "slug": "countryfarmsatouen",
+    "group": "体験・温泉",
+    "address": "〒436-0332 静岡県掛川市居尻410番地",
+    "closed": false
+  },
+  {
+    "name": "つま恋リゾート彩の郷",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/tsumagoiresortsainosato.html",
+    "slug": "tsumagoiresortsainosato",
+    "group": "体験・温泉",
+    "address": "〒436-0011 静岡県掛川市満水2000番地",
+    "closed": false
+  },
+  {
+    "name": "リバティーリゾート大東温泉",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/seatopia.html",
+    "slug": "seatopia",
+    "group": "体験・温泉",
+    "address": "〒437-1413 静岡県掛川市国安2808番地の2",
+    "closed": false
+  },
+  {
+    "name": "森の都温泉　ならここの湯",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/narakokonoyu.html",
+    "slug": "narakokonoyu",
+    "group": "体験・温泉",
+    "address": "〒436-0332 静岡県掛川市居尻179番地",
+    "closed": false
+  },
+  {
+    "name": "掛川つま恋温泉　森林乃湯",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/shinrinnoyu.html",
+    "slug": "shinrinnoyu",
+    "group": "体験・温泉",
+    "address": "〒436-0011 静岡県掛川市満水2000番地",
+    "closed": false
+  },
+  {
+    "name": "法泉寺温泉",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/housenjionsen.html",
+    "slug": "housenjionsen",
+    "group": "体験・温泉",
+    "address": "〒436-0342 静岡県掛川市上西郷",
+    "closed": false
+  },
+  {
+    "name": "倉真温泉",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kuramionsen.html",
+    "slug": "kuramionsen",
+    "group": "体験・温泉",
+    "address": "〒436-0341 静岡県掛川市倉真",
+    "closed": false
+  },
+  {
+    "name": "倉真赤石温泉",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kuramiakaisi.html",
+    "slug": "kuramiakaisi",
+    "group": "体験・温泉",
+    "address": "〒436-0341 静岡県掛川市倉真",
+    "closed": false
+  },
+  {
+    "name": "掛川茶",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kakegawacha.html",
+    "slug": "kakegawacha",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "イチゴ",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/ichigo.html",
+    "slug": "ichigo",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "メロン",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/melon.html",
+    "slug": "melon",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "トマト",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/tomato.html",
+    "slug": "tomato",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "石川小芋",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/koimo.html",
+    "slug": "koimo",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "メキャベツ",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/mekyabetu.html",
+    "slug": "mekyabetu",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "レタス",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/retasu.html",
+    "slug": "retasu",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "いも切り干し",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/imokiri.html",
+    "slug": "imokiri",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "落花生",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/rakkasei.html",
+    "slug": "rakkasei",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "葛布",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/kuzufu.html",
+    "slug": "kuzufu",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "横須賀凧",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/yokosukatako.html",
+    "slug": "yokosukatako",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "バラ",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/bara.html",
+    "slug": "bara",
+    "group": "食・特産品",
+    "address": "",
+    "closed": false
+  },
+  {
+    "name": "ビジターセンター「旅のスイッチ」",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/bijitasenta.html",
+    "slug": "bijitasenta",
+    "group": "食・特産品",
+    "address": "〒436-0029 静岡県掛川市南一丁目1番1号",
+    "closed": false
+  },
+  {
+    "name": "掛川総合観光案内所 たびスタ",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/tabista.html",
+    "slug": "tabista",
+    "group": "食・特産品",
+    "address": "〒436-0029 静岡県掛川市南一丁目1番1号",
+    "closed": false
+  },
+  {
+    "name": "これっしか処",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/koressikadokoro.html",
+    "slug": "koressikadokoro",
+    "group": "食・特産品",
+    "address": "〒436-002 静岡県掛川市南一丁目1番1号（掛川駅構内）",
+    "closed": false
+  },
+  {
+    "name": "道の駅掛川",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/michinoeki.html",
+    "slug": "michinoeki",
+    "group": "食・特産品",
+    "address": "〒436-0004 静岡県掛川市八坂882番地の1",
+    "closed": false
+  },
+  {
+    "name": "掛川南部観光案内処",
+    "url": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/nanbukankoannai.html",
+    "slug": "nanbukankoannai",
+    "group": "食・特産品",
+    "address": "〒437-1304 静岡県掛川市西大渕4334番地",
+    "closed": false
+  }
+]

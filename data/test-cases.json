@@ -1,0 +1,16 @@
+[
+  {"query":"引っ越し", "expectedHrefIncludesAny":["/guide/moving/","/life/living-soon/moving-decided/"]},
+  {"query":"水道", "expectedHrefIncludesAny":["/guide/moving/","/life/start-living/water-start-stop-fees/","/life/start-living/water-sewer/"]},
+  {"query":"住民票", "expectedHrefIncludesAny":["/guide/counter/","/life/start-living/resident-registration/","/life/start-living/certificates/"]},
+  {"query":"税金が払えない", "expectedHrefIncludesAny":["/life/troubles-consult/cannot-pay-tax/","/life/work-life/tax-guide/"]},
+  {"query":"保育園", "expectedHrefIncludesAny":["/guide/parenting/","/life/family-grow/nursery-school/","/life/family-grow/nursery-childcare/"]},
+  {"query":"夜間", "expectedHrefIncludesAny":["/guide/urgent/","/life/health-medical/holiday-night-emergency-care/","/life/health-medical/night-holiday-medical/"]},
+  {"query":"歯科", "expectedHrefIncludesAny":["/guide/urgent/","/life/health-medical/dental-care/"]},
+  {"query":"おくやみ", "expectedHrefIncludesAny":["/guide/bereavement/","/life/end-of-life/bereavement-procedures/","/life/end-of-life/after-death-procedures/"]},
+  {"query":"介護", "expectedHrefIncludesAny":["/guide/care/","/life/parents-care/","/life/parents-care/long-term-care-insurance/"]},
+  {"query":"空き家", "expectedHrefIncludesAny":["/guide/housing/","/life/housing/vacant-house/","/life/end-of-life/inherited-vacant-house/"]},
+  {"query":"観光", "expectedHrefIncludesAny":["/guide/visit/"]},
+  {"query":"お茶", "expectedHrefIncludesAny":["/guide/food/"]},
+  {"query":"最新", "expectedHrefIncludesAny":["/guide/updates/"]},
+  {"query":"キエーロ", "expectedHrefIncludesAny":["/guide/garbage/"]}
+]

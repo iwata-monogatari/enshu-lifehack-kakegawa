@@ -238,7 +238,7 @@
     {"icon": "🧯", "title": "火事の場合に伝えること", "body": "何が燃えているか、けが人や逃げ遅れの有無、火や煙の状況を聞かれます。答えながら、安全な場所への避難も並行して考えてください。"}
   ],
   "qa": [
-    {"question": "119番では最初に何を伝えればいいですか", "answer": "「火事です」「救急です」と、まず種別を伝えます。そのあとで住所や状況を聞かれるので、落ち着いて一つずつ答えてください。詳しくは<a href=\"https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html\" target=\"_blank\" rel=\"noopener\">掛川市公式ページ</a>で確認してください。"},
+    {"question": "119番では最初に何を伝えればいいですか", "answer": "「火事です」「救急です」と、まず種別を伝えます。そのあとで住所や状況を聞かれるので、落ち着いて一つずつ答えてください。詳しくは<a href=\"https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1170765.html\" target=\"_blank\" rel=\"noopener\">掛川市公式ページ</a>で確認してください。"},
     {"question": "住所がうまく言えないときはどうすればいいですか", "answer": "近くの目印となる建物や店舗名（例：〇〇スーパーの近く）を伝えるだけでも大丈夫です。通信員が場所を特定する手助けになります。"},
     {"question": "救急車を呼ぶべきか迷うときはどうすればいいですか", "answer": "判断に迷うときは、＃7119（救急安心電話相談窓口）に相談できます。詳しくは<a href=\"/life/emergency/emergency-medical/\">急な病気やけがで迷ったとき</a>のページを参考にしてください。"},
     {"question": "救急車の呼びすぎはよくないと聞きましたが", "answer": "掛川市の救急出動件数は年々増加しています。緊急性が高い症状（激しい頭痛・胸痛、意識障害、突然のしびれなど）のときは迷わず119番を、判断に迷うときは＃7119を活用してください。"},
@@ -247,8 +247,8 @@
     {"question": "スマホアプリでも緊急度を確認できますか", "answer": "「Q助」というアプリで症状の緊急度を判定できます。判断材料の一つとして活用してください。"}
   ],
   "tabs": [
-    {"id": "type-fire", "label": "火事のとき", "heading": "119番で伝えることを確認する", "bullets": ["まず「火事です」と伝える", "住所と目印になる建物を伝える", "何が燃えているか、けが人の有無を伝える"], "actions": [{"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html", "source": "掛川市公式"}, {"label": "119番へ電話する", "href": "tel:119", "source": "119番"}]},
-    {"id": "type-emergency2", "label": "急病のとき", "heading": "救急で伝えることを確認する", "bullets": ["まず「救急です」と伝える", "意識・呼吸の有無、年齢・性別・状態を伝える", "病歴やかかりつけ医があれば伝える"], "actions": [{"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html", "source": "掛川市公式"}, {"label": "119番へ電話する", "href": "tel:119", "source": "119番"}]},
+    {"id": "type-fire", "label": "火事のとき", "heading": "119番で伝えることを確認する", "bullets": ["まず「火事です」と伝える", "住所と目印になる建物を伝える", "何が燃えているか、けが人の有無を伝える"], "actions": [{"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1170765.html", "source": "掛川市公式"}, {"label": "119番へ電話する", "href": "tel:119", "source": "119番"}]},
+    {"id": "type-emergency2", "label": "急病のとき", "heading": "救急で伝えることを確認する", "bullets": ["まず「救急です」と伝える", "意識・呼吸の有無、年齢・性別・状態を伝える", "病歴やかかりつけ医があれば伝える"], "actions": [{"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1170765.html", "source": "掛川市公式"}, {"label": "119番へ電話する", "href": "tel:119", "source": "119番"}]},
     {"id": "type-unsure2", "label": "呼ぶか迷う", "heading": "電話相談窓口を活用する", "bullets": ["大人は＃7119、子どもは＃8000へ相談", "24時間365日いつでも相談できる", "アプリ「Q助」でも緊急度を確認できる"], "actions": [{"label": "急な病気やけがで迷ったときを見る", "href": "/life/emergency/emergency-medical/", "source": "掛川ライフハック"}, {"label": "救急車の適正利用について見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/862617.html", "source": "掛川市公式"}]},
     {"id": "type-prepare2", "label": "事前に備える", "heading": "もしもに備えて準備しておく", "bullets": ["自宅の住所や目印を家族全員が言えるようにしておく", "既往歴や常用薬をメモしておく", "119番・＃7119・＃8000の番号を控えておく"], "actions": [{"label": "もしもの時の全体像を見る", "href": "/life/emergency/", "source": "掛川ライフハック"}]}
   ],
@@ -258,7 +258,7 @@
     "outside": ["職場や外出先でも119番のかけ方を意識しておく", "高齢の家族には番号を紙で控えて渡しておく"]
   },
   "action_grid": [
-    {"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/886780.html"},
+    {"label": "119番の正しいかけ方を見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1170765.html"},
     {"label": "119番へ電話する", "href": "tel:119"},
     {"label": "救急車の適正利用について見る", "href": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/862617.html"},
     {"label": "急な病気やけがで迷ったときを見る", "href": "/life/emergency/emergency-medical/"},

@@ -16,3 +16,10 @@ docs
 docs/**
 _staging
 _staging/**
+scripts
+scripts/**
+data
+data/**
+__pycache__
+__pycache__/**
+AGENTS.md
