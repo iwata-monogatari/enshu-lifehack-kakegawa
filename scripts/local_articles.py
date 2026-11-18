@@ -110,7 +110,7 @@ def wrap_page(title, lead, href, breadcrumb, content, scripts=''):
 <title>{html.escape(title)} | 掛川ライフハック</title>
 <meta name="description" content="{html.escape(lead, quote=True)}">
 <link rel="canonical" href="{SITE}{href}"><link rel="icon" href="/favicon.svg" type="image/svg+xml">
-{part('head-css')}<link rel="stylesheet" href="/assets/local-articles.css?v=1">
+{part('head-css')}<link rel="stylesheet" href="/assets/local-articles.css?v=2">
 </head><body class="hub guide-page local-page">
 {part('header')}
 <main class="wrap"><nav class="breadcrumb" aria-label="現在の位置">{breadcrumb}</nav>
@@ -126,7 +126,33 @@ def write_page(href, content):
     path.write_text(content, encoding='utf8')
 
 
+def photo_figure(photo, caption, priority=False):
+    """Render one verified photograph with its reuse attribution."""
+    variants = {size['width']: size for size in photo['variants']}
+    image = variants[max(variants)]
+    srcset = ', '.join(f'{size["url"]} {width}w' for width, size in sorted(variants.items()))
+    escape = html.escape
+    source = link(photo['source'], photo['author'])
+    if photo.get('resource') and photo['resource'] != photo['source']:
+        source += f'（{link(photo["resource"], "元写真")}）'
+    license_link = link(photo['license_url'], photo['license'])
+    date = f' ／ 撮影 {escape(photo["date"])}' if photo.get('date') else ''
+    loading = 'fetchpriority="high"' if priority else 'loading="lazy"'
+    alt = re.sub(r'^(?:参考|関連)写真：', '', caption).split('（産地指定なし）')[0]
+    return f'''<figure class="local-photo">
+  <img src="{escape(image['url'], quote=True)}" srcset="{escape(srcset, quote=True)}"
+       sizes="(max-width: 960px) calc(100vw - 32px), 900px"
+       width="{image['width']}" height="{image['height']}" alt="{escape(alt, quote=True)}" {loading} decoding="async">
+  <figcaption><span class="local-photo-description">{escape(caption)}</span>
+    <span class="local-photo-credit">写真出典 {source} ／ {license_link}{date} ／ サイズ変更・WebP変換</span>
+  </figcaption>
+</figure>'''
+
+
 def build_local_articles(articles):
+    photography = read_data('local-article-photos.json')
+    if set(photography['articles']) - set(articles):
+        raise ValueError('Photo list refers to an unknown article')
     by_theme = defaultdict(list)
     for article in articles.values():
         by_theme[article['theme']].append(article)
@@ -156,7 +182,12 @@ def build_local_articles(articles):
         location = ''
         if article.get('address') and not article.get('closed'):
             location = f'<dl class="local-location"><dt>所在地</dt><dd>{html.escape(article["address"])}</dd></dl>'
-        body = sections('背景と見どころ', paragraph(article['background']))
+        photos = photography['articles'].get(article['slug'], [])
+        figures = [photo_figure(photography['images'][item['key']], item.get('caption') or photography['images'][item['key']]['caption'],
+                                priority=i == 0 and not item.get('context')) for i, item in enumerate(photos)]
+        cover = figures[0] if photos and not photos[0].get('context') else ''
+        supporting = figures[1:] if cover else figures
+        body = sections('背景と見どころ', paragraph(article['background']) + ''.join(supporting))
         practical_title = '閉館後に確認できる資料' if article.get('closed') else '選び方と確認先' if food else '訪ねる前の確認'
         body += sections(practical_title, paragraph(article['practical']) + location)
         sources = ''.join(f'<li>{link(url, label)}</li>' for label, url in article['sources'])
@@ -171,7 +202,7 @@ def build_local_articles(articles):
             related.extend(a for a in articles.values() if a is not article and a not in related and a['group'] == group)
         related_list = ''.join(f'<li>{link(a["href"], a["title"])}</li>' for a in related[:4])
         body += sections('あわせて読む', f'<ul>{related_list}</ul><p>{listing}</p>')
-        write_page(href, wrap_page(title, lead, href, f'{home} / {listing}', header + status + body))
+        write_page(href, wrap_page(title, lead, href, f'{home} / {listing}', header + status + cover + body))
         search.append(dict(href=href, title=title, category=group, icon=GROUP_ICONS[group],
                            synonyms=[article['name'], *article['aliases']]))
 

@@ -83,6 +83,36 @@
   font-size: .9rem;
   line-height: 1.75;
 }
+.local-photo {
+  margin: 1.6rem 0 2.15rem;
+}
+.local-photo img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 610px;
+  margin: 0 auto;
+  border-radius: .5rem;
+}
+.local-photo figcaption {
+  margin-top: .6rem;
+  font-size: .85rem;
+  line-height: 1.7;
+  color: #3e5247;
+  overflow-wrap: anywhere;
+}
+.local-photo-description, .local-photo-credit {
+  display: block;
+}
+.local-photo-credit {
+  font-size: .78rem;
+}
+.local-photo-credit a {
+  text-decoration: underline;
+  text-underline-offset: .16em;
+}
 @media (max-width: 600px) {
   .local-grid, .local-highlights { grid-template-columns: minmax(0, 1fr); }
+  .local-photo { margin: 1.1rem 0 1.65rem; }
 }

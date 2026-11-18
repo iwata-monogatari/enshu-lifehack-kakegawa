@@ -1,0 +1,2220 @@
+{
+  "images": {
+    "castle": {
+      "caption": "掛川城の木造復元天守",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11540.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11540/resource/12/content.html",
+      "source_title": "掛川城",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年３月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/castle-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 19808
+        },
+        {
+          "url": "/assets/discover-photos/castle-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 64508
+        }
+      ]
+    },
+    "goten": {
+      "caption": "天守から見下ろした掛川城御殿",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11541.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11541/resource/19/content.html",
+      "source_title": "掛川城御殿",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年７月上旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/goten-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 52218
+        },
+        {
+          "url": "/assets/discover-photos/goten-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 205866
+        }
+      ]
+    },
+    "tea-room": {
+      "caption": "掛川城公園の二の丸茶室と庭",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11542.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11542/resource/22/content.html",
+      "source_title": "二の丸茶室",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年８月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/tea-room-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 34950
+        },
+        {
+          "url": "/assets/discover-photos/tea-room-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 137196
+        }
+      ]
+    },
+    "otemon": {
+      "caption": "掛川城の大手門",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11543.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11543/resource/26/content.html",
+      "source_title": "大手門",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年３月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/otemon-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 17888
+        },
+        {
+          "url": "/assets/discover-photos/otemon-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 54824
+        }
+      ]
+    },
+    "takenomaru": {
+      "caption": "庭から見た竹の丸の旧松本家住宅",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11544.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11544/resource/29/content.html",
+      "source_title": "竹の丸",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2012年８月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/takenomaru-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 27972
+        },
+        {
+          "url": "/assets/discover-photos/takenomaru-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 103296
+        }
+      ]
+    },
+    "hotoku": {
+      "caption": "大日本報徳社の大講堂",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11545.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11545/resource/34/content.html",
+      "source_title": "大講堂と大広間",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2009年４月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/hotoku-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 27066
+        },
+        {
+          "url": "/assets/discover-photos/hotoku-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 69130
+        }
+      ]
+    },
+    "kawazakaya": {
+      "caption": "日坂宿の旧旅籠・川坂屋の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546/resource/41/content.html",
+      "source_title": "川坂屋外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2009年５月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kawazakaya-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 23068
+        },
+        {
+          "url": "/assets/discover-photos/kawazakaya-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 72056
+        }
+      ]
+    },
+    "yorozuya": {
+      "caption": "日坂宿・萬屋の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546/resource/39/content.html",
+      "source_title": "萬屋",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yorozuya-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 33524
+        },
+        {
+          "url": "/assets/discover-photos/yorozuya-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 118526
+        }
+      ]
+    },
+    "fujibun": {
+      "caption": "日坂宿の藤文蔵",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11546/resource/37/content.html",
+      "source_title": "藤文蔵",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/fujibun-480.webp",
+          "width": 480,
+          "height": 717,
+          "bytes": 67842
+        },
+        {
+          "url": "/assets/discover-photos/fujibun-960.webp",
+          "width": 703,
+          "height": 1050,
+          "bytes": 136340
+        }
+      ]
+    },
+    "kyuenji": {
+      "caption": "小夜の中山にある久延寺",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547/resource/44/content.html",
+      "source_title": "久延寺",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kyuenji-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 41020
+        },
+        {
+          "url": "/assets/discover-photos/kyuenji-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 153468
+        }
+      ]
+    },
+    "sayo-pass": {
+      "caption": "小夜の中山峠の道",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547/resource/43/content.html",
+      "source_title": "峠道中",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年８月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/sayo-pass-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 34156
+        },
+        {
+          "url": "/assets/discover-photos/sayo-pass-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 121004
+        }
+      ]
+    },
+    "yonakiishi": {
+      "caption": "久延寺に伝わる夜泣き石",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11547/resource/45/content.html",
+      "source_title": "夜泣き石（久延寺）",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yonakiishi-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 59524
+        },
+        {
+          "url": "/assets/discover-photos/yonakiishi-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 229008
+        }
+      ]
+    },
+    "takatenjin": {
+      "caption": "高天神城の本丸跡",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11548.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11548/resource/63/content.html",
+      "source_title": "本丸",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年２月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/takatenjin-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 55578
+        },
+        {
+          "url": "/assets/discover-photos/takatenjin-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 223000
+        }
+      ]
+    },
+    "yokosuka": {
+      "caption": "横須賀城跡の石垣",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11549.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11549/resource/69/content.html",
+      "source_title": "横須賀城跡",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年２月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yokosuka-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 25666
+        },
+        {
+          "url": "/assets/discover-photos/yokosuka-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 89782
+        }
+      ]
+    },
+    "shimizu-garden": {
+      "caption": "湧水の池がある清水邸庭園",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11550.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11550/resource/72/content.html",
+      "source_title": "清水邸庭園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年５月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/shimizu-garden-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 50074
+        },
+        {
+          "url": "/assets/discover-photos/shimizu-garden-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 167432
+        }
+      ]
+    },
+    "ryugein": {
+      "caption": "龍華院大猷院霊屋",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11552.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11552/resource/84/content.html",
+      "source_title": "龍華院大猷院霊屋",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年12月上旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/ryugein-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 63064
+        },
+        {
+          "url": "/assets/discover-photos/ryugein-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 236098
+        }
+      ]
+    },
+    "kotonomama": {
+      "caption": "事任八幡宮の境内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11551.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11551/resource/76/content.html",
+      "source_title": "事任八幡宮",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年８月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kotonomama-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 58444
+        },
+        {
+          "url": "/assets/discover-photos/kotonomama-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 226004
+        }
+      ]
+    },
+    "tatsuo-ume": {
+      "caption": "龍尾神社の花庭園のしだれ梅",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11582.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11582/resource/199/content.html",
+      "source_title": "龍尾神社",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年２月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/tatsuo-ume-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22902
+        },
+        {
+          "url": "/assets/discover-photos/tatsuo-ume-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 51014
+        }
+      ]
+    },
+    "yasaka-festival": {
+      "caption": "中八坂神社祇園祭の祢里の記録",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11599.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11599/resource/298/content.html",
+      "source_title": "中八坂神社祇園祭2016",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2016年10月２日",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yasaka-festival-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 64614
+        },
+        {
+          "url": "/assets/discover-photos/yasaka-festival-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 220262
+        }
+      ]
+    },
+    "awagatake": {
+      "caption": "東山の茶園と粟ヶ岳",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574/resource/144/content.html",
+      "source_title": "粟ヶ岳と茶園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年５月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/awagatake-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 32014
+        },
+        {
+          "url": "/assets/discover-photos/awagatake-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 97210
+        }
+      ]
+    },
+    "chagusaba": {
+      "caption": "東山で刈り草を束ねて干す「かっぽし」",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574/resource/146/content.html",
+      "source_title": "東山かっぽし",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年11月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/chagusaba-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 27290
+        },
+        {
+          "url": "/assets/discover-photos/chagusaba-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 108314
+        }
+      ]
+    },
+    "kapposhi-terrace": {
+      "caption": "粟ヶ岳山頂のかっぽしテラス",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11574/resource/152/content.html",
+      "source_title": "テラス外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2019年５月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kapposhi-terrace-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 35428
+        },
+        {
+          "url": "/assets/discover-photos/kapposhi-terrace-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 109218
+        }
+      ]
+    },
+    "ogasayama": {
+      "caption": "小笠山の東屋から見た富士山",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11575.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11575/resource/170/content.html",
+      "source_title": "小笠山からの富士山",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2013年12月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/ogasayama-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 31958
+        },
+        {
+          "url": "/assets/discover-photos/ogasayama-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 89442
+        }
+      ]
+    },
+    "obisan": {
+      "caption": "大尾山の顕光寺",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11576.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11576/resource/173/content.html",
+      "source_title": "大尾山　顕光寺",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年12月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/obisan-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 50416
+        },
+        {
+          "url": "/assets/discover-photos/obisan-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 174590
+        }
+      ]
+    },
+    "matsuba-falls": {
+      "caption": "倉真川上流の松葉の滝",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11577.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11577/resource/175/content.html",
+      "source_title": "松葉の滝",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2015年12月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/matsuba-falls-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 112178
+        },
+        {
+          "url": "/assets/discover-photos/matsuba-falls-960.webp",
+          "width": 787,
+          "height": 1050,
+          "bytes": 293376
+        }
+      ]
+    },
+    "ohama-park": {
+      "caption": "春の大浜公園",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11578.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11578/resource/177/content.html",
+      "source_title": "大浜公園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年４月上旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/ohama-park-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 108118
+        },
+        {
+          "url": "/assets/discover-photos/ohama-park-960.webp",
+          "width": 787,
+          "height": 1050,
+          "bytes": 279528
+        }
+      ]
+    },
+    "nishioya-dam": {
+      "caption": "秋の西大谷ダム公園",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11579.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11579/resource/178/content.html",
+      "source_title": "西大谷ダム公園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年11月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/nishioya-dam-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 12008
+        },
+        {
+          "url": "/assets/discover-photos/nishioya-dam-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 41874
+        }
+      ]
+    },
+    "shiosai-bridge": {
+      "caption": "夕暮れの潮騒橋",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11581.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11581/resource/188/content.html",
+      "source_title": "夕日と潮騒橋",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年10月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/shiosai-bridge-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 14316
+        },
+        {
+          "url": "/assets/discover-photos/shiosai-bridge-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 48892
+        }
+      ]
+    },
+    "stained-glass-museum": {
+      "caption": "掛川市ステンドグラス美術館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11553.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11553/resource/87/content.html",
+      "source_title": "外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2015年５月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/stained-glass-museum-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 33586
+        },
+        {
+          "url": "/assets/discover-photos/stained-glass-museum-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 117694
+        }
+      ]
+    },
+    "ninomaru-museum": {
+      "caption": "二の丸美術館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11554.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11554/resource/89/content.html",
+      "source_title": "外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2005年６月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/ninomaru-museum-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 19644
+        },
+        {
+          "url": "/assets/discover-photos/ninomaru-museum-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 73058
+        }
+      ]
+    },
+    "yayoi-museum": {
+      "caption": "吉岡彌生記念館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11555.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11555/resource/90/content.html",
+      "source_title": "外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yayoi-museum-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22282
+        },
+        {
+          "url": "/assets/discover-photos/yayoi-museum-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 76240
+        }
+      ]
+    },
+    "clock-museum": {
+      "caption": "閉館前の柱時計＆オーディオミュージアムの展示",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11556.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11556/resource/93/content.html",
+      "source_title": "柱時計",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年７月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/clock-museum-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 38652
+        },
+        {
+          "url": "/assets/discover-photos/clock-museum-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 111262
+        }
+      ]
+    },
+    "nemunoki": {
+      "caption": "ねむの木こども美術館「どんぐり」の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11557.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11557/resource/94/content.html",
+      "source_title": "こども美術館どんぐり",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2012年８月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/nemunoki-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 31560
+        },
+        {
+          "url": "/assets/discover-photos/nemunoki-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 124478
+        }
+      ]
+    },
+    "yoshiyuki": {
+      "caption": "吉行淳之介文学館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11557.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11557/resource/96/content.html",
+      "source_title": "吉行淳之介文学館",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年４月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yoshiyuki-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 47662
+        },
+        {
+          "url": "/assets/discover-photos/yoshiyuki-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 163054
+        }
+      ]
+    },
+    "shiseido-museum": {
+      "caption": "閉館前の資生堂企業資料館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11558.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11558/resource/98/content.html",
+      "source_title": "資生堂企業資料館",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年７月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/shiseido-museum-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 19042
+        },
+        {
+          "url": "/assets/discover-photos/shiseido-museum-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 68928
+        }
+      ]
+    },
+    "yumeakari": {
+      "caption": "浮世絵美術館「夢灯」の館内展示",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11559.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11559/resource/100/content.html",
+      "source_title": "夢灯",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yumeakari-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 9784
+        },
+        {
+          "url": "/assets/discover-photos/yumeakari-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 26990
+        }
+      ]
+    },
+    "narakoko-camp": {
+      "caption": "居尻のならここの里",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11561.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11561/resource/106/content.html",
+      "source_title": "ならここの里",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/narakoko-camp-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 50350
+        },
+        {
+          "url": "/assets/discover-photos/narakoko-camp-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 193082
+        }
+      ]
+    },
+    "kachoen": {
+      "caption": "掛川花鳥園の温室に咲くスイレン",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11564.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11564/resource/109/content.html",
+      "source_title": "掛川花鳥園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年７月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kachoen-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 30820
+        },
+        {
+          "url": "/assets/discover-photos/kachoen-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 73698
+        }
+      ]
+    },
+    "kamo-garden": {
+      "caption": "休園前の加茂荘花鳥園の温室",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11565.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11565/resource/117/content.html",
+      "source_title": "加茂荘花鳥園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年５月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kamo-garden-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 56030
+        },
+        {
+          "url": "/assets/discover-photos/kamo-garden-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 189858
+        }
+      ]
+    },
+    "fruit-park": {
+      "caption": "森林果樹公園の園内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11566.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11566/resource/127/content.html",
+      "source_title": "森林果樹公園",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/fruit-park-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 46442
+        },
+        {
+          "url": "/assets/discover-photos/fruit-park-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 130754
+        }
+      ]
+    },
+    "strawberry": {
+      "caption": "赤ずきんちゃんのおもしろ農園のいちご狩り園内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567/resource/129/content.html",
+      "source_title": "いちご狩り園内",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2008年１月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/strawberry-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 26694
+        },
+        {
+          "url": "/assets/discover-photos/strawberry-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 68892
+        }
+      ]
+    },
+    "sato-grapes": {
+      "caption": "カントリーファーム佐藤園のぶどう狩り園内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567/resource/130/content.html",
+      "source_title": "ぶどう狩り園内",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2012年８月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/sato-grapes-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 23154
+        },
+        {
+          "url": "/assets/discover-photos/sato-grapes-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 52880
+        }
+      ]
+    },
+    "totsuka-grapes": {
+      "caption": "戸塚ぶどう園のぶどう狩り園内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567/resource/131/content.html",
+      "source_title": "ぶどう狩り園内",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2012年８月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/totsuka-grapes-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 27804
+        },
+        {
+          "url": "/assets/discover-photos/totsuka-grapes-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 63324
+        }
+      ]
+    },
+    "kiwi": {
+      "caption": "キウイフルーツカントリーJapanの農園",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11567/resource/132/content.html",
+      "source_title": "キウイ狩り園内",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年７月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kiwi-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 26184
+        },
+        {
+          "url": "/assets/discover-photos/kiwi-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 66176
+        }
+      ]
+    },
+    "tsumagoi": {
+      "caption": "つま恋リゾート彩の郷の園内",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11560.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11560/resource/102/content.html",
+      "source_title": "つま恋リゾート彩の郷",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年３月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/tsumagoi-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 42604
+        },
+        {
+          "url": "/assets/discover-photos/tsumagoi-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 163180
+        }
+      ]
+    },
+    "daito-onsen": {
+      "caption": "大東温泉の旧シートピア時代の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11569.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11569/resource/136/content.html",
+      "source_title": "外観",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2017年11月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/daito-onsen-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 15456
+        },
+        {
+          "url": "/assets/discover-photos/daito-onsen-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 49732
+        }
+      ]
+    },
+    "narakoko-spa": {
+      "caption": "ならここの湯",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11568.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11568/resource/133/content.html",
+      "source_title": "ならここの湯",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/narakoko-spa-480.webp",
+          "width": 480,
+          "height": 717,
+          "bytes": 70434
+        },
+        {
+          "url": "/assets/discover-photos/narakoko-spa-960.webp",
+          "width": 703,
+          "height": 1050,
+          "bytes": 135804
+        }
+      ]
+    },
+    "housenji-onsen": {
+      "caption": "法泉寺温泉にゆかりのある法泉寺",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11570.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11570/resource/139/content.html",
+      "source_title": "法泉寺温泉",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/housenji-onsen-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 55324
+        },
+        {
+          "url": "/assets/discover-photos/housenji-onsen-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 194978
+        }
+      ]
+    },
+    "kurami-onsen": {
+      "caption": "倉真温泉の真砂館",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11571.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11571/resource/141/content.html",
+      "source_title": "倉真温泉",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年６月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kurami-onsen-480.webp",
+          "width": 480,
+          "height": 321,
+          "bytes": 34440
+        },
+        {
+          "url": "/assets/discover-photos/kurami-onsen-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 126260
+        }
+      ]
+    },
+    "kakegawa-tea": {
+      "caption": "湯のみに淹れた深蒸し掛川茶",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11603.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11603/resource/326/content.html",
+      "source_title": "深蒸し掛川茶",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年３月中旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kakegawa-tea-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 5520
+        },
+        {
+          "url": "/assets/discover-photos/kakegawa-tea-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 14246
+        }
+      ]
+    },
+    "yokosuka-kite": {
+      "caption": "掛川・横須賀に伝わる横須賀凧",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11608.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11608/resource/336/content.html",
+      "source_title": "横須賀凧",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2004年２月上旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/yokosuka-kite-480.webp",
+          "width": 480,
+          "height": 322,
+          "bytes": 23158
+        },
+        {
+          "url": "/assets/discover-photos/yokosuka-kite-960.webp",
+          "width": 960,
+          "height": 644,
+          "bytes": 62108
+        }
+      ]
+    },
+    "rose": {
+      "caption": "掛川市の特産品資料に掲載されたバラ",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11608.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11608/resource/339/content.html",
+      "source_title": "バラ",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2011年12月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/rose-480.webp",
+          "width": 480,
+          "height": 318,
+          "bytes": 27080
+        },
+        {
+          "url": "/assets/discover-photos/rose-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 63804
+        }
+      ]
+    },
+    "matsugaoka": {
+      "caption": "松ヶ岡の旧山﨑家住宅と庭",
+      "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11552.html",
+      "resource": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11552/resource/85/content.html",
+      "source_title": "松ヶ岡（旧山崎家）",
+      "author": "掛川市",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2018年11月下旬",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/matsugaoka-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 97478
+        },
+        {
+          "url": "/assets/discover-photos/matsugaoka-960.webp",
+          "width": 700,
+          "height": 1050,
+          "bytes": 194408
+        }
+      ]
+    },
+    "mikumano-shrine": {
+      "caption": "横須賀の三熊野神社の鳥居と拝殿",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%EF%BC%88%E9%B3%A5%E5%B1%85%E3%83%BB%E6%8B%9D%E6%AE%BF%EF%BC%89.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%EF%BC%88%E9%B3%A5%E5%B1%85%E3%83%BB%E6%8B%9D%E6%AE%BF%EF%BC%89.jpg",
+      "source_title": "三熊野神社（鳥居・拝殿）.jpg",
+      "author": "Daihouzi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-07-30",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/mikumano-shrine-480.webp",
+          "width": 480,
+          "height": 270,
+          "bytes": 31036
+        },
+        {
+          "url": "/assets/discover-photos/mikumano-shrine-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 120012
+        }
+      ]
+    },
+    "fumonji": {
+      "caption": "掛川市西大渕の普門寺",
+      "source": "https://commons.wikimedia.org/wiki/File:Fumon-ji_(Kakegawa)_01.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Fumon-ji_(Kakegawa)_01.jpg",
+      "source_title": "Fumon-ji (Kakegawa) 01.jpg",
+      "author": "Halowand",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2025-12-31",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/fumonji-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 56824
+        },
+        {
+          "url": "/assets/discover-photos/fumonji-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 207008
+        }
+      ]
+    },
+    "sousenji": {
+      "caption": "保存修理工事中の窓泉寺の楼門（撮影時の記録）",
+      "source": "https://commons.wikimedia.org/wiki/File:S%C5%8Dsen-ji_(Kakegawa)_01.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:S%C5%8Dsen-ji_(Kakegawa)_01.jpg",
+      "source_title": "Sōsen-ji (Kakegawa) 01.jpg",
+      "author": "Halowand",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2025-12-31",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/sousenji-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 51168
+        },
+        {
+          "url": "/assets/discover-photos/sousenji-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 198392
+        }
+      ]
+    },
+    "seimei": {
+      "caption": "掛川市大渕の晴明塚",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%99%B4%E6%98%8E%E5%A1%9A.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:%E6%99%B4%E6%98%8E%E5%A1%9A.jpg",
+      "source_title": "晴明塚.jpg",
+      "author": "Dfdg23*-sdf12",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2019-06-23",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/seimei-480.webp",
+          "width": 480,
+          "height": 270,
+          "bytes": 42902
+        },
+        {
+          "url": "/assets/discover-photos/seimei-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 158384
+        }
+      ]
+    },
+    "toutoumi": {
+      "caption": "掛川の遠江塚",
+      "source": "https://commons.wikimedia.org/wiki/File:T%C5%8Dtoumi-zuka.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:T%C5%8Dtoumi-zuka.jpg",
+      "source_title": "Tōtoumi-zuka.jpg",
+      "author": "立花左近",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-11-23",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/toutoumi-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 63308
+        },
+        {
+          "url": "/assets/discover-photos/toutoumi-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 215868
+        }
+      ]
+    },
+    "wadaoka": {
+      "caption": "和田岡古墳群の吉岡大塚古墳（整備前）",
+      "source": "https://commons.wikimedia.org/wiki/File:Yoshioka-Otsuka_Kofun_before_renovation.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Yoshioka-Otsuka_Kofun_before_renovation.jpg",
+      "source_title": "Yoshioka-Otsuka Kofun before renovation.jpg",
+      "author": "MChew",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-11-12",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/wadaoka-480.webp",
+          "width": 480,
+          "height": 313,
+          "bytes": 30804
+        },
+        {
+          "url": "/assets/discover-photos/wadaoka-960.webp",
+          "width": 960,
+          "height": 626,
+          "bytes": 124706
+        }
+      ]
+    },
+    "road-station": {
+      "caption": "国道1号沿いの道の駅掛川",
+      "source": "https://commons.wikimedia.org/wiki/File:Michinoeki-kakegawa.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Michinoeki-kakegawa.jpg",
+      "source_title": "Michinoeki-kakegawa.jpg",
+      "author": "しんかわな",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2005-08-02",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/road-station-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 20758
+        },
+        {
+          "url": "/assets/discover-photos/road-station-960.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 41242
+        }
+      ]
+    },
+    "toumon": {
+      "caption": "とうもんの里の風景",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%81%A8%E3%81%86%E3%82%82%E3%82%93%E3%81%AE%E9%87%8C_-_panoramio.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:%E3%81%A8%E3%81%86%E3%82%82%E3%82%93%E3%81%AE%E9%87%8C_-_panoramio.jpg",
+      "source_title": "とうもんの里 - panoramio.jpg",
+      "author": "Sato S",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/toumon-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 20454
+        },
+        {
+          "url": "/assets/discover-photos/toumon-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 63124
+        }
+      ]
+    },
+    "station-south": {
+      "caption": "関連写真：各施設へ向かう目印となるJR掛川駅南口の外観",
+      "source": "https://commons.wikimedia.org/wiki/File:JRC_Kakegawa-STA_South-entrance.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:JRC_Kakegawa-STA_South-entrance.jpg",
+      "source_title": "JRC Kakegawa-STA South-entrance.jpg",
+      "author": "MaedaAkihiko",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-04-09",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/station-south-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 26580
+        },
+        {
+          "url": "/assets/discover-photos/station-south-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 86484
+        }
+      ]
+    },
+    "melon-example": {
+      "caption": "参考写真：メロンの果実（掛川産としての撮影資料ではありません）",
+      "source": "https://commons.wikimedia.org/wiki/File:Cucumis_melo_on_white_background.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Cucumis_melo_on_white_background.jpg",
+      "source_title": "Cucumis melo on white background.jpg",
+      "author": "Filo gèn'",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-04-07",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/melon-example-480.webp",
+          "width": 480,
+          "height": 502,
+          "bytes": 19540
+        },
+        {
+          "url": "/assets/discover-photos/melon-example-960.webp",
+          "width": 960,
+          "height": 1004,
+          "bytes": 63724
+        }
+      ]
+    },
+    "tomato-example": {
+      "caption": "参考写真：トマトの果実と断面（産地指定なし）",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomatoes_plain_and_sliced.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Tomatoes_plain_and_sliced.jpg",
+      "source_title": "Tomatoes plain and sliced.jpg",
+      "author": "© 2005 User:FoeNyx",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/tomato-example-480.webp",
+          "width": 256,
+          "height": 640,
+          "bytes": 21622
+        },
+        {
+          "url": "/assets/discover-photos/tomato-example-960.webp",
+          "width": 420,
+          "height": 1050,
+          "bytes": 44288
+        }
+      ]
+    },
+    "satouimo-example": {
+      "caption": "参考写真：サトイモのイモ（品種・産地指定なし）",
+      "source": "https://commons.wikimedia.org/wiki/File:Cocoyam.jpeg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Cocoyam.jpeg",
+      "source_title": "Cocoyam.jpeg",
+      "author": "User:SandisterTei",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/satouimo-example-480.webp",
+          "width": 480,
+          "height": 327,
+          "bytes": 42864
+        },
+        {
+          "url": "/assets/discover-photos/satouimo-example-960.webp",
+          "width": 960,
+          "height": 654,
+          "bytes": 116214
+        }
+      ]
+    },
+    "brussels-example": {
+      "caption": "参考写真：メキャベツ（産地指定なし）",
+      "source": "https://commons.wikimedia.org/wiki/File:Brussels_sprout_closeup.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Brussels_sprout_closeup.jpg",
+      "source_title": "Brussels sprout closeup.jpg",
+      "author": "Eric Hunt",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-10-24",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/brussels-example-480.webp",
+          "width": 480,
+          "height": 719,
+          "bytes": 102106
+        },
+        {
+          "url": "/assets/discover-photos/brussels-example-960.webp",
+          "width": 701,
+          "height": 1050,
+          "bytes": 197016
+        }
+      ]
+    },
+    "lettuce-example": {
+      "caption": "参考写真：結球レタス（英国での撮影）",
+      "source": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_in_Poplar_Farmhouse.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_in_Poplar_Farmhouse.jpg",
+      "source_title": "Iceberg lettuce in Poplar Farmhouse.jpg",
+      "author": "Zolfeqar Fatihzadeh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/lettuce-example-480.webp",
+          "width": 480,
+          "height": 216,
+          "bytes": 34130
+        },
+        {
+          "url": "/assets/discover-photos/lettuce-example-960.webp",
+          "width": 960,
+          "height": 432,
+          "bytes": 115628
+        }
+      ]
+    },
+    "hoshiimo-example": {
+      "caption": "参考写真：干しいも。掛川のいも切り干しの製品写真ではありません。",
+      "source": "https://commons.wikimedia.org/wiki/File:Hoshi-imo2.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Hoshi-imo2.jpg",
+      "source_title": "Hoshi-imo2.jpg",
+      "author": "TNewfields",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2022-03-03",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/hoshiimo-example-480.webp",
+          "width": 480,
+          "height": 535,
+          "bytes": 40104
+        },
+        {
+          "url": "/assets/discover-photos/hoshiimo-example-960.webp",
+          "width": 941,
+          "height": 1050,
+          "bytes": 123000
+        }
+      ]
+    },
+    "peanut-example": {
+      "caption": "参考写真：殻付きと殻を除いた落花生（掛川産としての撮影資料ではありません）",
+      "source": "https://commons.wikimedia.org/wiki/File:Peanuts_(Arachis_hypogaea)_-_in_shell,_shell_cracked_open,_shelled,_peeled.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Peanuts_(Arachis_hypogaea)_-_in_shell,_shell_cracked_open,_shelled,_peeled.jpg",
+      "source_title": "Peanuts (Arachis hypogaea) - in shell, shell cracked open, shelled, peeled.jpg",
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-02-26",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/peanut-example-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 12704
+        },
+        {
+          "url": "/assets/discover-photos/peanut-example-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 37854
+        }
+      ]
+    },
+    "castle-bansho": {
+      "caption": "掛川城に現存する大手門番所。復元された大手門とは別の建物。",
+      "source": "https://commons.wikimedia.org/wiki/File:Kakegawa_Castle_Otemon_Bansho.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Kakegawa_Castle_Otemon_Bansho.jpg",
+      "source_title": "Kakegawa Castle Otemon Bansho.jpg",
+      "author": "Suikotei",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/castle-bansho-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 31768
+        },
+        {
+          "url": "/assets/discover-photos/castle-bansho-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 111596
+        }
+      ]
+    },
+    "osuka-branch": {
+      "caption": "関連写真：町番所を訪ねる際の目印となる掛川市役所大須賀支所",
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%8Csuka_Branch,_Kakegawa_City_Hall.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:%C5%8Csuka_Branch,_Kakegawa_City_Hall.jpg",
+      "source_title": "Ōsuka Branch, Kakegawa City Hall.jpg",
+      "author": "Halowand",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2025-12-31",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/osuka-branch-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 23282
+        },
+        {
+          "url": "/assets/discover-photos/osuka-branch-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 78396
+        }
+      ]
+    },
+    "akiha-hongu": {
+      "caption": "関連写真：掛川から遥拝する秋葉山本宮秋葉神社上社の本殿前からの景観（浜松市天竜区）",
+      "source": "https://commons.wikimedia.org/wiki/File:Akihasanhongu_Akiha_Jinja_Shrine_Kamisha_-_View_from_Honden_01,_Tenryu_Ward_Hamamatsu_2012.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Akihasanhongu_Akiha_Jinja_Shrine_Kamisha_-_View_from_Honden_01,_Tenryu_Ward_Hamamatsu_2012.jpg",
+      "source_title": "Akihasanhongu Akiha Jinja Shrine Kamisha - View from Honden 01, Tenryu Ward Hamamatsu 2012.jpg",
+      "author": "Tomio344456",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2012-05-12",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/akiha-hongu-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 28440
+        },
+        {
+          "url": "/assets/discover-photos/akiha-hongu-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 114980
+        }
+      ]
+    },
+    "kuzufu-fusuma": {
+      "caption": "掛川城の木造復元天守の最上階で、襖に使われている葛布",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuzuhu_kakegawacastle.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Kuzuhu_kakegawacastle.jpg",
+      "source_title": "Kuzuhu kakegawacastle.jpg",
+      "author": "Aboshi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2010-11-23",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/kuzufu-fusuma-480.webp",
+          "width": 480,
+          "height": 341,
+          "bytes": 18294
+        },
+        {
+          "url": "/assets/discover-photos/kuzufu-fusuma-960.webp",
+          "width": 960,
+          "height": 682,
+          "bytes": 57696
+        }
+      ]
+    },
+    "shiseido-art-house": {
+      "caption": "閉館前の資生堂アートハウスの外観",
+      "source": "https://commons.wikimedia.org/wiki/File:Shiseido_Art_House_Museum.jpg",
+      "resource": "https://commons.wikimedia.org/wiki/File:Shiseido_Art_House_Museum.jpg",
+      "source_title": "Shiseido Art House Museum.jpg",
+      "author": "Halowand",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-03-22",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/shiseido-art-house-480.webp",
+          "width": 480,
+          "height": 360,
+          "bytes": 18112
+        },
+        {
+          "url": "/assets/discover-photos/shiseido-art-house-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 66936
+        }
+      ]
+    }
+  },
+  "articles": {
+    "kakegawajyo": [
+      {
+        "key": "castle"
+      }
+    ],
+    "kakegawa-three-castles": [
+      {
+        "key": "castle"
+      },
+      {
+        "key": "takatenjin"
+      },
+      {
+        "key": "yokosuka"
+      }
+    ],
+    "kakegawajyogoten": [
+      {
+        "key": "goten"
+      }
+    ],
+    "otakekasinhaka": [
+      {
+        "key": "goten",
+        "caption": "関連写真：太田家の時代に再建された掛川城御殿",
+        "context": true
+      }
+    ],
+    "ninomaruchasitu": [
+      {
+        "key": "tea-room"
+      }
+    ],
+    "otemon": [
+      {
+        "key": "otemon"
+      },
+      {
+        "key": "castle-bansho"
+      }
+    ],
+    "takenomaru": [
+      {
+        "key": "takenomaru"
+      }
+    ],
+    "houtokusha": [
+      {
+        "key": "hotoku"
+      }
+    ],
+    "kawazakaya": [
+      {
+        "key": "kawazakaya"
+      }
+    ],
+    "yorozuya": [
+      {
+        "key": "yorozuya"
+      }
+    ],
+    "fujibun": [
+      {
+        "key": "fujibun"
+      }
+    ],
+    "kyuenji": [
+      {
+        "key": "kyuenji"
+      }
+    ],
+    "sayononakayama": [
+      {
+        "key": "sayo-pass"
+      }
+    ],
+    "12454": [
+      {
+        "key": "yonakiishi"
+      }
+    ],
+    "takatenjinjyoato": [
+      {
+        "key": "takatenjin"
+      }
+    ],
+    "yokosukajyoato": [
+      {
+        "key": "yokosuka"
+      }
+    ],
+    "nanbukankoannai": [
+      {
+        "key": "yokosuka",
+        "caption": "関連写真：掛川南部観光案内処で地図や御城印の情報を確認できる横須賀城跡",
+        "context": true
+      }
+    ],
+    "shimizuteiteien": [
+      {
+        "key": "shimizu-garden"
+      }
+    ],
+    "ryugeintaiyuin": [
+      {
+        "key": "ryugein"
+      }
+    ],
+    "kotonomama": [
+      {
+        "key": "kotonomama"
+      }
+    ],
+    "tatsuojinjya": [
+      {
+        "key": "tatsuo-ume"
+      }
+    ],
+    "yasakajinjya": [
+      {
+        "key": "yasaka-festival"
+      }
+    ],
+    "awagatake": [
+      {
+        "key": "awagatake"
+      }
+    ],
+    "kakegawacha": [
+      {
+        "key": "kakegawa-tea"
+      },
+      {
+        "key": "awagatake"
+      }
+    ],
+    "chagusaba": [
+      {
+        "key": "chagusaba"
+      }
+    ],
+    "kapposhi-terrace": [
+      {
+        "key": "kapposhi-terrace"
+      }
+    ],
+    "ogasayama": [
+      {
+        "key": "ogasayama"
+      }
+    ],
+    "obisan": [
+      {
+        "key": "obisan"
+      }
+    ],
+    "matsubanotaki": [
+      {
+        "key": "matsuba-falls"
+      }
+    ],
+    "kuramionsen": [
+      {
+        "key": "matsuba-falls"
+      },
+      {
+        "key": "kurami-onsen"
+      }
+    ],
+    "ohamakouen": [
+      {
+        "key": "ohama-park"
+      }
+    ],
+    "nishiohyadamu": [
+      {
+        "key": "nishioya-dam"
+      }
+    ],
+    "shiosaibashi": [
+      {
+        "key": "shiosai-bridge"
+      }
+    ],
+    "stainedglass": [
+      {
+        "key": "stained-glass-museum"
+      }
+    ],
+    "ninomaru": [
+      {
+        "key": "ninomaru-museum"
+      }
+    ],
+    "yoshiokakinenkan": [
+      {
+        "key": "yayoi-museum"
+      }
+    ],
+    "hashiratokei_and_audio_museum": [
+      {
+        "key": "clock-museum"
+      }
+    ],
+    "nemunoki": [
+      {
+        "key": "nemunoki"
+      }
+    ],
+    "yoshiyukibungaku": [
+      {
+        "key": "yoshiyuki"
+      }
+    ],
+    "shiseido": [
+      {
+        "key": "shiseido-museum"
+      },
+      {
+        "key": "shiseido-art-house"
+      }
+    ],
+    "yumeakari": [
+      {
+        "key": "yumeakari"
+      }
+    ],
+    "narakokonosato": [
+      {
+        "key": "narakoko-camp"
+      }
+    ],
+    "kachoen": [
+      {
+        "key": "kachoen"
+      }
+    ],
+    "kamoso-katyoen": [
+      {
+        "key": "kamo-garden"
+      }
+    ],
+    "shinrinkajyu": [
+      {
+        "key": "fruit-park"
+      }
+    ],
+    "ichigo": [
+      {
+        "key": "strawberry"
+      }
+    ],
+    "akazukin-farm": [
+      {
+        "key": "strawberry"
+      }
+    ],
+    "countryfarmsatouen": [
+      {
+        "key": "sato-grapes"
+      }
+    ],
+    "todukabudouen": [
+      {
+        "key": "totsuka-grapes"
+      }
+    ],
+    "kiwifruitcountry": [
+      {
+        "key": "kiwi"
+      }
+    ],
+    "tsumagoiresortsainosato": [
+      {
+        "key": "tsumagoi"
+      }
+    ],
+    "shinrinnoyu": [
+      {
+        "key": "tsumagoi",
+        "caption": "関連写真：森林乃湯がある、つま恋リゾート彩の郷の園内風景",
+        "context": true
+      }
+    ],
+    "seatopia": [
+      {
+        "key": "daito-onsen"
+      }
+    ],
+    "narakokonoyu": [
+      {
+        "key": "narakoko-spa"
+      }
+    ],
+    "housenjionsen": [
+      {
+        "key": "housenji-onsen"
+      }
+    ],
+    "yokosukatako": [
+      {
+        "key": "yokosuka-kite"
+      }
+    ],
+    "bara": [
+      {
+        "key": "rose"
+      }
+    ],
+    "matsugaoka": [
+      {
+        "key": "matsugaoka"
+      }
+    ],
+    "mikumanojinjya": [
+      {
+        "key": "mikumano-shrine"
+      }
+    ],
+    "fumonji": [
+      {
+        "key": "fumonji"
+      }
+    ],
+    "sousenji": [
+      {
+        "key": "sousenji"
+      }
+    ],
+    "seimeizuka": [
+      {
+        "key": "seimei"
+      }
+    ],
+    "totoumizuka": [
+      {
+        "key": "toutoumi"
+      }
+    ],
+    "wadaokakofun": [
+      {
+        "key": "wadaoka"
+      }
+    ],
+    "12127": [
+      {
+        "key": "wadaoka",
+        "caption": "関連写真：掛川市内の遺跡の一例、和田岡古墳群の吉岡大塚古墳（整備前）",
+        "context": true
+      }
+    ],
+    "michinoeki": [
+      {
+        "key": "road-station"
+      }
+    ],
+    "toumon-no-sato": [
+      {
+        "key": "toumon"
+      }
+    ],
+    "bijitasenta": [
+      {
+        "key": "station-south",
+        "context": true
+      }
+    ],
+    "tabista": [
+      {
+        "key": "station-south",
+        "context": true
+      }
+    ],
+    "koressikadokoro": [
+      {
+        "key": "station-south",
+        "context": true
+      }
+    ],
+    "melon": [
+      {
+        "key": "melon-example",
+        "context": true
+      }
+    ],
+    "tomato": [
+      {
+        "key": "tomato-example",
+        "context": true
+      }
+    ],
+    "koimo": [
+      {
+        "key": "satouimo-example",
+        "context": true
+      }
+    ],
+    "mekyabetu": [
+      {
+        "key": "brussels-example",
+        "context": true
+      }
+    ],
+    "retasu": [
+      {
+        "key": "lettuce-example",
+        "context": true
+      }
+    ],
+    "imokiri": [
+      {
+        "key": "hoshiimo-example",
+        "context": true
+      }
+    ],
+    "rakkasei": [
+      {
+        "key": "peanut-example",
+        "context": true
+      }
+    ],
+    "machibansho": [
+      {
+        "key": "osuka-branch",
+        "context": true
+      }
+    ],
+    "akihajinjya": [
+      {
+        "key": "akiha-hongu",
+        "context": true
+      }
+    ],
+    "kuzufu": [
+      {
+        "key": "kuzufu-fusuma"
+      }
+    ]
+  }
+}
