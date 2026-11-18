@@ -13,7 +13,7 @@ def link(u,t):return '<a href="'+esc(u,quote=True)+'">'+esc(t)+'</a>'
 def card(g):return '<a class="guide-card" href="'+g['href']+'"><span class="guide-icon" aria-hidden="true">'+g['icon']+'</span><h3>'+esc(g['title'].split('｜')[0])+'</h3><p>'+esc(g['lead'])+'</p><span class="card-arrow" aria-hidden="true">→</span></a>'
 nav='<nav class="guide-nav" aria-label="主なガイド"><div class="wrap">'+link('/#category-links','手続き')+link('/guide/updates/','最新情報')+link('/guide/visit/','お出かけ')+link('/guide/food/','お茶・特産品')+link('/guide/urgent/','急病のとき')+'</div></nav>'
 (ROOT/'parts/header.html').write_text('<header class="site"><div class="wrap"><a class="logo" href="/">掛川ライフハック</a><span class="tag">暮らす・訪ねる・困りごとを解決する</span></div></header>'+nav,encoding='utf8')
-(ROOT/'parts/head-css.html').write_text('<link rel="stylesheet" href="/assets/site.css?v=20261119b"><link rel="stylesheet" href="/assets/refresh.css?v=20261119b">',encoding='utf8')
+(ROOT/'parts/head-css.html').write_text('<link rel="stylesheet" href="/assets/site.css?v=20261119b"><link rel="stylesheet" href="/assets/refresh.css?v=20261119c">',encoding='utf8')
 for g in guides:
  related=[x for x in guides if x['href']!=g['href'] and x['href'] in ['/guide/moving/','/guide/parenting/','/guide/visit/','/guide/updates/']]
  page='''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
