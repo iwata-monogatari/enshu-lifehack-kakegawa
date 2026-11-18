@@ -1,0 +1,806 @@
+[
+  {
+    "href": "/discover/kakegawajyo/",
+    "title": "掛川城｜木造復元天守と城下町を歩く",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "掛川城",
+      "掛川城天守閣",
+      "山内一豊",
+      "雲霧城"
+    ]
+  },
+  {
+    "href": "/discover/kakegawajyogoten/",
+    "title": "掛川城御殿｜藩の政務と暮らしを伝える建物",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "掛川城御殿"
+    ]
+  },
+  {
+    "href": "/discover/ninomaruchasitu/",
+    "title": "二の丸茶室｜掛川城公園で楽しむ煎茶と抹茶",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "二の丸茶室"
+    ]
+  },
+  {
+    "href": "/discover/otemon/",
+    "title": "掛川城大手門・番所｜復元された門と残った詰め所",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "大手門・大手門番所"
+    ]
+  },
+  {
+    "href": "/discover/takenomaru/",
+    "title": "竹の丸｜武家地に建った葛布問屋の邸宅",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "竹の丸"
+    ]
+  },
+  {
+    "href": "/discover/houtokusha/",
+    "title": "大日本報徳社｜明治の公会堂と報徳運動",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "大日本報徳社"
+    ]
+  },
+  {
+    "href": "/discover/kawazakaya/",
+    "title": "川坂屋｜日坂宿に残る格子と旅籠の茶室",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "川坂屋"
+    ]
+  },
+  {
+    "href": "/discover/yorozuya/",
+    "title": "萬屋｜日坂宿で庶民が泊まった旅籠",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "萬屋"
+    ]
+  },
+  {
+    "href": "/discover/kyuenji/",
+    "title": "久延寺｜小夜の中山の茶亭跡と夜泣き石",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "久延寺"
+    ]
+  },
+  {
+    "href": "/discover/sayononakayama/",
+    "title": "小夜の中山｜旧東海道の峠と西行の歌碑",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "小夜の中山"
+    ]
+  },
+  {
+    "href": "/discover/takatenjinjyoato/",
+    "title": "高天神城跡｜徳川・武田が争った土方の山城",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "高天神城跡"
+    ]
+  },
+  {
+    "href": "/discover/yokosukajyoato/",
+    "title": "横須賀城跡｜玉石垣と遠州南部の城下町",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "横須賀城跡"
+    ]
+  },
+  {
+    "href": "/discover/machibansho/",
+    "title": "横須賀町番所｜出入りを見張った建物と櫛松の鬼瓦",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "横須賀町番所"
+    ]
+  },
+  {
+    "href": "/discover/shimizuteiteien/",
+    "title": "清水邸庭園｜横須賀の回船問屋と湧水の庭",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "清水邸庭園"
+    ]
+  },
+  {
+    "href": "/discover/ryugeintaiyuin/",
+    "title": "龍華院大猷院霊屋｜城主が家光を祀った霊廟",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "龍華院大猷院霊屋"
+    ]
+  },
+  {
+    "href": "/discover/kotonomama/",
+    "title": "事任八幡宮｜日坂の入口にある古社と境内の樹木",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "事任八幡宮"
+    ]
+  },
+  {
+    "href": "/discover/tatsuojinjya/",
+    "title": "龍尾神社｜掛川城の北東を守る信仰と花庭園",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "龍尾神社"
+    ]
+  },
+  {
+    "href": "/discover/yasakajinjya/",
+    "title": "八坂神社｜掛川に伝わる祇園祭と地域の信仰",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "八坂神社"
+    ]
+  },
+  {
+    "href": "/discover/mikumanojinjya/",
+    "title": "三熊野神社｜横須賀の信仰と大祭の囃子・舞",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "三熊野神社"
+    ]
+  },
+  {
+    "href": "/discover/akihajinjya/",
+    "title": "秋葉神社掛川遥拝所｜街道に残る火防の信仰",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "秋葉神社（掛川遥拝所）"
+    ]
+  },
+  {
+    "href": "/discover/otakekasinhaka/",
+    "title": "太田家家臣の墓｜正願寺に残る掛川藩の記憶",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "太田家家臣の墓（正願寺）"
+    ]
+  },
+  {
+    "href": "/discover/fumonji/",
+    "title": "普門寺｜弁天堂の彫刻と藤・蓮",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "普門寺"
+    ]
+  },
+  {
+    "href": "/discover/sousenji/",
+    "title": "窓泉寺｜朱塗りの楼門を見上げる",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "窓泉寺"
+    ]
+  },
+  {
+    "href": "/discover/jyukushuzuka/",
+    "title": "平将門十九首塚｜伝承と塚の配置を読む",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "平将門十九首塚"
+    ]
+  },
+  {
+    "href": "/discover/seimeizuka/",
+    "title": "晴明塚｜安倍晴明の伝説と遠州七不思議",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "晴明塚"
+    ]
+  },
+  {
+    "href": "/discover/totoumizuka/",
+    "title": "遠江塚｜松平定吉の供養と五輪塔",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "遠江塚"
+    ]
+  },
+  {
+    "href": "/discover/wadaokakofun/",
+    "title": "和田岡古墳群｜河岸段丘に並ぶ五世紀前後の墓",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "和田岡古墳群"
+    ]
+  },
+  {
+    "href": "/discover/12454/",
+    "title": "掛川の伝説と逸話｜雲霧城や夜泣き石を調べる",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "掛川のおもしろい伝説・逸話",
+      "夜泣き石",
+      "遠州七不思議"
+    ]
+  },
+  {
+    "href": "/discover/awagatake/",
+    "title": "粟ヶ岳｜茶文字・茶園・山頂への行き方",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "粟ヶ岳"
+    ]
+  },
+  {
+    "href": "/discover/ogasayama/",
+    "title": "小笠山｜登山口・小笠神社・通行情報の確認",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "小笠山"
+    ]
+  },
+  {
+    "href": "/discover/obisan/",
+    "title": "大尾山｜顕光寺の花と登山道の通行止め",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "大尾山"
+    ]
+  },
+  {
+    "href": "/discover/matsubanotaki/",
+    "title": "松葉の滝｜倉真川上流で二つの滝を訪ねる",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "松葉の滝"
+    ]
+  },
+  {
+    "href": "/discover/ohamakouen/",
+    "title": "大浜公園｜桜の坂道と遠州灘を望む丘",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "大浜公園"
+    ]
+  },
+  {
+    "href": "/discover/nishiohyadamu/",
+    "title": "西大谷ダム公園｜貯水池と山里の遊歩道",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "西大谷ダム公園"
+    ]
+  },
+  {
+    "href": "/discover/shiosaibashi/",
+    "title": "潮騒橋｜菊川河口に架かる歩行者・自転車の橋",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "潮騒橋"
+    ]
+  },
+  {
+    "href": "/discover/stainedglass/",
+    "title": "掛川市ステンドグラス美術館｜光を通して見るガラスの絵",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "掛川市ステンドグラス美術館"
+    ]
+  },
+  {
+    "href": "/discover/ninomaru/",
+    "title": "二の丸美術館｜細密工芸と近代日本画を見る",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "二の丸美術館"
+    ]
+  },
+  {
+    "href": "/discover/yoshiokakinenkan/",
+    "title": "吉岡彌生記念館｜女性の医学教育を開いた人を知る",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "吉岡彌生記念館",
+      "吉岡弥生"
+    ]
+  },
+  {
+    "href": "/discover/osukarekisiminzoku/",
+    "title": "大須賀歴史民俗資料館｜寄贈された暮らしの道具を見る",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "大須賀歴史民俗資料館"
+    ]
+  },
+  {
+    "href": "/discover/hashiratokei_and_audio_museum/",
+    "title": "柱時計＆オーディオミュージアム｜閉館した展示の記録",
+    "category": "閉館・過去資料",
+    "icon": "📚",
+    "synonyms": [
+      "柱時計＆オーディオミュージアム"
+    ]
+  },
+  {
+    "href": "/discover/12127/",
+    "title": "掛川埋蔵文化財センター｜市内の出土品から古代を知る",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "掛川埋蔵文化財センター",
+      "土器",
+      "出土品"
+    ]
+  },
+  {
+    "href": "/discover/nemunoki/",
+    "title": "ねむの木こども美術館｜子どもたちの絵と森の中の建物",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "ねむの木こども美術館"
+    ]
+  },
+  {
+    "href": "/discover/yoshiyukibungaku/",
+    "title": "吉行淳之介文学館｜『驟雨』の原稿と作家の仕事",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "吉行淳之介文学館"
+    ]
+  },
+  {
+    "href": "/discover/shiseido/",
+    "title": "資生堂企業資料館・アートハウス｜掛川での閉館と展示の記録",
+    "category": "閉館・過去資料",
+    "icon": "📚",
+    "synonyms": [
+      "資生堂企業資料館・資生堂アートハウス"
+    ]
+  },
+  {
+    "href": "/discover/yumeakari/",
+    "title": "浮世絵美術館 夢灯｜浮世絵でたどる東海道の宿",
+    "category": "文化・美術",
+    "icon": "🎨",
+    "synonyms": [
+      "浮世絵美術館　夢灯"
+    ]
+  },
+  {
+    "href": "/discover/narakokonosato/",
+    "title": "ならここの里キャンプ場｜居尻の森と川で泊まる",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "ならここの里キャンプ場"
+    ]
+  },
+  {
+    "href": "/discover/myogajimacamp/",
+    "title": "炭焼の杜 明ヶ島キャンプ場｜山間のサイトと推奨ルート",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "明ヶ島キャンプ場"
+    ]
+  },
+  {
+    "href": "/discover/kachoen/",
+    "title": "掛川花鳥園｜温室・鳥とのふれあい・ショーの回り方",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "掛川花鳥園"
+    ]
+  },
+  {
+    "href": "/discover/kamoso-katyoen/",
+    "title": "加茂荘花鳥園｜庄屋屋敷と花菖蒲を訪ねる",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "加茂荘花鳥園",
+      "加茂花菖蒲園",
+      "桑源亭"
+    ]
+  },
+  {
+    "href": "/discover/shinrinkajyu/",
+    "title": "森林果樹公園｜季節ごとに花や実が変わる散策路",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "森林果樹公園"
+    ]
+  },
+  {
+    "href": "/discover/kiwifruitcountry/",
+    "title": "キウイフルーツカントリーJapan｜品種を食べ比べる農園体験",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "キウイフルーツカントリーJAPAN"
+    ]
+  },
+  {
+    "href": "/discover/todukabudouen/",
+    "title": "戸塚ぶどう園｜上西郷で品種と収穫時期を調べる",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "戸塚ぶどう園"
+    ]
+  },
+  {
+    "href": "/discover/countryfarmsatouen/",
+    "title": "カントリーファーム佐藤園｜居尻でブドウと季節の農産物を探す",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "カントリーファーム佐藤園"
+    ]
+  },
+  {
+    "href": "/discover/tsumagoiresortsainosato/",
+    "title": "つま恋リゾート彩の郷｜日帰り・宿泊・スポーツを選ぶ",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "つま恋リゾート彩の郷"
+    ]
+  },
+  {
+    "href": "/discover/seatopia/",
+    "title": "リバティーリゾート大東温泉｜国安で温泉と滞在を組み立てる",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "リバティーリゾート大東温泉"
+    ]
+  },
+  {
+    "href": "/discover/narakokonoyu/",
+    "title": "ならここの湯｜居尻の森にある日帰り温泉",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "森の都温泉　ならここの湯"
+    ]
+  },
+  {
+    "href": "/discover/shinrinnoyu/",
+    "title": "掛川つま恋温泉 森林乃湯｜日帰りの受付と館内利用",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "掛川つま恋温泉　森林乃湯"
+    ]
+  },
+  {
+    "href": "/discover/housenjionsen/",
+    "title": "法泉寺温泉｜上西郷の温泉の伝承と寺の石塔",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "法泉寺温泉"
+    ]
+  },
+  {
+    "href": "/discover/kuramionsen/",
+    "title": "倉真温泉｜山峡の宿と松葉の滝の散策",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "倉真温泉"
+    ]
+  },
+  {
+    "href": "/discover/kuramiakaisi/",
+    "title": "倉真赤石温泉｜倉真の山奥へ向かう前に確認すること",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "倉真赤石温泉"
+    ]
+  },
+  {
+    "href": "/discover/kakegawacha/",
+    "title": "掛川茶｜深蒸し煎茶の特徴・選び方・産地",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "掛川茶",
+      "深蒸し茶",
+      "深蒸し煎茶",
+      "新茶",
+      "お茶"
+    ]
+  },
+  {
+    "href": "/discover/ichigo/",
+    "title": "掛川のイチゴ｜品種といちご狩りの予約を確認",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "イチゴ",
+      "いちご",
+      "苺",
+      "紅ほっぺ",
+      "きらぴ香",
+      "章姫"
+    ]
+  },
+  {
+    "href": "/discover/melon/",
+    "title": "掛川のメロン｜食べ頃と持ち帰り方から選ぶ",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "メロン"
+    ]
+  },
+  {
+    "href": "/discover/tomato/",
+    "title": "掛川のトマト｜大東の産地と使い道で選ぶ",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "トマト"
+    ]
+  },
+  {
+    "href": "/discover/koimo/",
+    "title": "石川小芋｜掛川の海岸沿いで育つ里芋",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "石川小芋"
+    ]
+  },
+  {
+    "href": "/discover/mekyabetu/",
+    "title": "メキャベツ｜小さな芽をどう食卓に取り入れるか",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "メキャベツ",
+      "芽キャベツ"
+    ]
+  },
+  {
+    "href": "/discover/retasu/",
+    "title": "掛川のレタス｜冬の産地と加熱料理の使い方",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "レタス"
+    ]
+  },
+  {
+    "href": "/discover/imokiri/",
+    "title": "掛川のいも切り干し｜遠州の季節風を生かす干しいも",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "いも切り干し",
+      "干し芋",
+      "干しいも"
+    ]
+  },
+  {
+    "href": "/discover/rakkasei/",
+    "title": "掛川の落花生｜海に近い砂地の栽培と加工品",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "落花生"
+    ]
+  },
+  {
+    "href": "/discover/kuzufu/",
+    "title": "掛川の葛布｜葛のつるを織る技と竹の丸",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "葛布",
+      "くず布",
+      "葛湯"
+    ]
+  },
+  {
+    "href": "/discover/yokosukatako/",
+    "title": "横須賀凧｜巴・べっかこう・奴の形を読み解く",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "横須賀凧"
+    ]
+  },
+  {
+    "href": "/discover/bara/",
+    "title": "掛川のバラ｜切り花を色・咲き方・用途で選ぶ",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "バラ"
+    ]
+  },
+  {
+    "href": "/discover/bijitasenta/",
+    "title": "旅のスイッチ｜掛川駅南口で旅程を相談する",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "ビジターセンター「旅のスイッチ」"
+    ]
+  },
+  {
+    "href": "/discover/tabista/",
+    "title": "たびスタ｜掛川駅の改札近くで地図を手に入れる",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "掛川総合観光案内所 たびスタ"
+    ]
+  },
+  {
+    "href": "/discover/koressikadokoro/",
+    "title": "これっしか処｜掛川駅で茶・葛布・静岡土産を選ぶ",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "これっしか処",
+      "土産",
+      "お土産"
+    ]
+  },
+  {
+    "href": "/discover/michinoeki/",
+    "title": "道の駅掛川｜直売所と日坂・事任八幡宮を組み合わせる",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "道の駅掛川",
+      "直売所"
+    ]
+  },
+  {
+    "href": "/discover/nanbukankoannai/",
+    "title": "掛川南部観光案内処｜横須賀・高天神の散策や御城印を確認",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "掛川南部観光案内処"
+    ]
+  },
+  {
+    "href": "/discover/chagusaba/",
+    "title": "静岡の茶草場農法｜茶園と草地が支え合う東山の景観",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "静岡の茶草場農法",
+      "茶草場",
+      "世界農業遺産",
+      "東山"
+    ]
+  },
+  {
+    "href": "/discover/kakegawa-three-castles/",
+    "title": "掛川三城の違い｜掛川城・高天神城跡・横須賀城跡の巡り方",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "掛川三城の違い",
+      "掛川三城",
+      "城巡り"
+    ]
+  },
+  {
+    "href": "/discover/kapposhi-terrace/",
+    "title": "かっぽしテラス｜粟ヶ岳山頂で茶草場農法と景色を知る",
+    "category": "自然・公園",
+    "icon": "🌿",
+    "synonyms": [
+      "かっぽしテラス",
+      "粟ヶ岳世界農業遺産茶草場テラス"
+    ]
+  },
+  {
+    "href": "/discover/matsugaoka/",
+    "title": "松ヶ岡・旧山﨑家住宅｜掛川藩の御用商人の屋敷",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "松ヶ岡・旧山﨑家住宅",
+      "松が岡",
+      "山崎家住宅"
+    ]
+  },
+  {
+    "href": "/discover/fujibun/",
+    "title": "藤文蔵｜日坂宿の問屋役と明治の郵便",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "藤文蔵"
+    ]
+  },
+  {
+    "href": "/discover/toumon-no-sato/",
+    "title": "とうもんの里｜南遠州の水田と農産物の朝採り市",
+    "category": "食・特産品",
+    "icon": "🍵",
+    "synonyms": [
+      "とうもんの里"
+    ]
+  },
+  {
+    "href": "/discover/akazukin-farm/",
+    "title": "赤ずきんちゃんのおもしろ農園｜いちご狩りと直売を選ぶ",
+    "category": "体験・温泉",
+    "icon": "♨️",
+    "synonyms": [
+      "赤ずきんちゃんのおもしろ農園"
+    ]
+  },
+  {
+    "href": "/guide/history/",
+    "title": "掛川の歴史・文化の記事一覧｜三城・東海道・寺社・美術館",
+    "category": "歴史・まち歩き",
+    "icon": "🏯",
+    "synonyms": [
+      "史跡",
+      "歴史",
+      "文化",
+      "東海道",
+      "掛川三城"
+    ]
+  }
+]

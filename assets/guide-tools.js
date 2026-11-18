@@ -26,6 +26,7 @@ document.querySelectorAll('[data-checklist]').forEach((box) => {
 const query = document.querySelector('#place-query');
 const group = document.querySelector('#place-group');
 if (query && group) {
+  query.closest('.directory-controls').hidden = false;
   const cards = [...document.querySelectorAll('.place-card[data-name]')];
   function filter() {
     const term = query.value.normalize('NFKC').trim().toLocaleLowerCase('ja');

@@ -16,7 +16,8 @@ class Page(HTMLParser):
    if attr in d:self.refs.append(d[attr])
 ledger=json.loads((R/'data/topics_master.json').read_text(encoding='utf8'))
 guides=json.loads((R/'data/refresh-guides.json').read_text(encoding='utf8'))
-paths=['/','/terms/']+[x['href'] for x in ledger+guides]
+articles=json.loads((R/'data/local-search-topics.json').read_text(encoding='utf8'))
+paths=['/','/terms/']+[x['href'] for x in ledger+guides+articles]
 errors=[];pages={}
 for path in paths:
  f=R/path.strip('/')/'index.html'
@@ -37,7 +38,7 @@ for path,page in pages.items():
   if not f.exists():errors.append(f'broken {path} -> {ref}')
   if u.fragment and target in pages and unquote(u.fragment) not in pages[target].ids:errors.append(f'fragment {path} -> {ref}')
 idx=json.loads((R/'search-index.json').read_text(encoding='utf8'))
-if {x['href'] for x in idx}!={x['href'] for x in ledger+guides}:errors.append('search coverage')
+if {x['href'] for x in idx}!={x['href'] for x in ledger+guides+articles}:errors.append('search coverage')
 home=(R/'index.html').read_text(encoding='utf8')
 if home.count('<details class="category"')!=13:errors.append('13 categories')
 for slug in ['water-start-stop-fees','water-sewer']:

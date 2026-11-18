@@ -4,10 +4,13 @@ Run before inject_parts, build-search-index and build_sitemap. No network needed
 """
 import json,re,html
 from pathlib import Path
+from local_articles import build_local_articles, load_articles, update_guide_body
 ROOT=Path(__file__).resolve().parent.parent
 SITE='https://kakegawa.enshu-lifehack.com'
 guides=json.loads((ROOT/'data/refresh-guides.json').read_text(encoding='utf8'))
 news=json.loads((ROOT/'data/refresh-news.json').read_text(encoding='utf8'))
+articles=load_articles()
+build_local_articles(articles)
 esc=html.escape
 def link(u,t):return '<a href="'+esc(u,quote=True)+'">'+esc(t)+'</a>'
 def card(g):return '<a class="guide-card" href="'+g['href']+'"><span class="guide-icon" aria-hidden="true">'+g['icon']+'</span><h3>'+esc(g['title'].split('｜')[0])+'</h3><p>'+esc(g['lead'])+'</p><span class="card-arrow" aria-hidden="true">→</span></a>'
@@ -24,11 +27,18 @@ for g in guides:
 <main class="wrap"><p class="breadcrumb">'''+link('/','ホーム')+''' / 実用ガイド</p>
 <header class="guide-hero"><p class="eyebrow"><span aria-hidden="true">'''+g['icon']+'''</span> 掛川の実用ガイド</p><h1>'''+esc(g['title'])+'''</h1><p class="lead">'''+esc(g['lead'])+'''</p><p class="date-line">公式情報確認：<time datetime="2026-11-19">2026年11月19日</time></p></header>
 <p class="editorial-note">掛川市の公式サイトではありません。個別の申請条件・営業日・受付状況は、各項目の公式リンクで確認してください。</p>'''
- headings=re.findall(r'<h2>(.*?)</h2>',g['body'])
- body=g['body']
+ body=update_guide_body(g, articles)
+ local_guide=g['href'] in ('/guide/visit/', '/guide/food/')
+ if local_guide:
+  page=page.replace('</head>', '<link rel="stylesheet" href="/assets/local-articles.css?v=1"></head>', 1)
+ headings=re.findall(r'<h2>(.*?)</h2>',body)
  for i,h in enumerate(headings):body=body.replace('<h2>'+h+'</h2>','<h2 id="section-'+str(i+1)+'">'+h+'</h2>',1)
  page+='<nav class="guide-toc" aria-label="このページの目次"><b>このページでわかること</b><ol>'+''.join('<li>'+link('#section-'+str(i+1),h)+'</li>' for i,h in enumerate(headings))+'</ol></nav>'+body
- page+='<section class="guide-section"><h2>ほかのガイドへ</h2><div class="guide-grid">'+''.join(card(x) for x in related)+'</div></section><p class="check-storage">チェック機能はこの端末のブラウザーにのみ保存されます。個人情報の送信や手続きの申請は行いません。共有端末では使い終わったらチェックを解除してください。</p></main><script src="/assets/guide-tools.js" defer></script><!-- PART:footer:START --><!-- PART:footer:END --></body></html>'
+ page+='<section class="guide-section"><h2>ほかのガイドへ</h2><div class="guide-grid">'+''.join(card(x) for x in related)+'</div></section>'
+ if g['href'] != '/guide/visit/':
+  page+='<p class="check-storage">チェック機能はこの端末のブラウザーにのみ保存されます。個人情報の送信や手続きの申請は行いません。共有端末では使い終わったらチェックを解除してください。</p>'
+ script_version='?v=2' if local_guide else ''
+ page+=f'</main><script src="/assets/guide-tools.js{script_version}" defer></script><!-- PART:footer:START --><!-- PART:footer:END --></body></html>'
  f=ROOT/g['href'].strip('/')/'index.html';f.parent.mkdir(parents=True,exist_ok=True);f.write_text(page,encoding='utf8')
 
 home=ROOT/'index.html';s=home.read_text(encoding='utf8')
@@ -38,7 +48,8 @@ s=re.sub(r'<title>.*?</title>','<title>掛川ライフハック｜暮らし・�
 s=re.sub(r'<meta name="description" content="[^"]*">','<meta name="description" content="掛川市の暮らし・子育て・介護・引っ越しと、お茶・城下町・大東・大須賀のお出かけを案内。公式情報の変更、受付状況、チェックリスト、地区別の相談先を整理する非公式ガイドです。">',s,count=1)
 quick='<section id="quick-start" class="refresh-section"><p class="eyebrow">START HERE</p><h2>今、知りたいことから</h2><div class="quick-grid">'+''.join('<a href="'+guides[i]['href']+'"><span aria-hidden="true">'+guides[i]['icon']+'</span><strong>'+label+'</strong><small>'+desc+'</small></a>' for i,label,desc in [(0,'引っ越し・移住','水道・住所変更・地区選び'),(1,'子育て・入園','手当・医療費・園の申請'),(4,'親の介護','地区別の相談先・認定'),(3,'ごみ・片付け','区域別カレンダー・リユース'),(7,'市役所・証明書','窓口時間・コンビニ交付'),(5,'住まい・空き家','住宅募集・耐震・解体'),(8,'防災・避難','住所のリスクと家族の準備'),(6,'おくやみ','予約・持ち物・相続'),(2,'急な病気・けが','救急相談と診療時間')])+'</div></section>'
 updates='<section class="refresh-section"><div class="section-heading"><div><p class="eyebrow">CHECKED 2026.11.19</p><h2>いま確認したい変更・お知らせ</h2></div>'+link('/guide/updates/','すべてのお知らせ →')+'</div><div class="news-grid">'+''.join('<article><span class="badge">'+n[1]+'</span><p class="date-line">'+n[0]+'</p><h3>'+link(n[4],n[2])+'</h3><p>'+n[3]+'</p></article>' for n in [news[0],news[1],news[2],news[5]])+'</div><p class="mini">確認日現在の情報です。申込み・来訪前はリンク先の最新発表をご確認ください。</p></section>'
-explore='<section class="refresh-section explore"><p class="eyebrow">DISCOVER KAKEGAWA</p><h2>暮らすまちを、もっと楽しむ</h2><div class="guide-grid">'+''.join(card(guides[i]) for i in [9,10])+'</div><p>城下町・高天神城跡・横須賀、粟ヶ岳や山里、花と鳥の体験。77の施設・史跡・特産品等の公式案内を分野から探せます。閉館情報も分けて掲載しています。</p></section>'
+history_card={'href':'/guide/history/','icon':'🏯','title':'掛川の歴史・文化','lead':'掛川三城、日坂宿と旧東海道、横須賀の町並み、寺社や美術館の背景を読む。'}
+explore='<section class="refresh-section explore"><h2>掛川の観光・歴史・お茶を知る</h2><div class="guide-grid">'+''.join(card(g) for g in [guides[9],history_card,guides[10]])+'</div><p>'+link('/guide/visit/#local-articles',f'観光・歴史・特産品の全{len(articles)}記事を探す')+'</p></section>'
 allguides='<section class="refresh-section"><p class="eyebrow">PRACTICAL GUIDES</p><h2>手順と準備を、ひとつのページで</h2><p>持ち物や順序に迷ったら、ガイド内のチェックリストを使えます。</p><div class="guide-grid">'+''.join(card(g) for g in guides if g['href'] not in ['/guide/visit/','/guide/food/'])+'</div></section>'
 faq='<section class="refresh-section home-faq"><h2>よくある質問</h2>'+''.join('<details><summary>'+q+'</summary><p>'+answer+' '+link(url,'詳しく確認する')+'</p></details>' for q,answer,url in [
 ('市役所は何時までですか？','通常窓口は2026年11月2日から9:00〜16:30。電話は8:30〜17:15で、対象外施設・木曜夜間の扱いは個別に確認が必要です。','/guide/counter/'),

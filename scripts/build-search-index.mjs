@@ -43,7 +43,8 @@ function extractLead(href) {
 function main() {
   const topicsMaster = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/topics_master.json'), 'utf8'));
   const guides = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/refresh-guides.json'), 'utf8'));
-  const searchIndex = [...topicsMaster, ...guides].map((topic) => ({
+  const articles = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/local-search-topics.json'), 'utf8'));
+  const searchIndex = [...topicsMaster, ...guides, ...articles].map((topic) => ({
     href: topic.href,
     icon: topic.icon,
     title: topic.title,

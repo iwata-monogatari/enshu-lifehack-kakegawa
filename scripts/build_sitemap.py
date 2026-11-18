@@ -12,7 +12,8 @@ SITE = 'https://kakegawa.enshu-lifehack.com'
 def main():
     ledger = json.loads((ROOT / 'data/topics_master.json').read_text(encoding='utf-8'))
     guides = json.loads((ROOT / 'data/refresh-guides.json').read_text(encoding='utf-8'))
-    urls = ['/', '/terms/'] + sorted({t['href'] for t in ledger + guides})
+    articles = json.loads((ROOT / 'data/local-search-topics.json').read_text(encoding='utf-8'))
+    urls = ['/', '/terms/'] + sorted({t['href'] for t in ledger + guides + articles})
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
