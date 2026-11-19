@@ -130,21 +130,28 @@ def photo_figure(photo, caption, priority=False):
     """Render one verified photograph with its reuse attribution."""
     variants = {size['width']: size for size in photo['variants']}
     image = variants[max(variants)]
-    srcset = ', '.join(f'{size["url"]} {width}w' for width, size in sorted(variants.items()))
     escape = html.escape
+    responsive = ''
+    if len(variants) > 1:
+        srcset = ', '.join(f'{size["url"]} {width}w' for width, size in sorted(variants.items()))
+        responsive = f' srcset="{escape(srcset, quote=True)}"\n       sizes="(max-width: 960px) calc(100vw - 32px), 900px"'
     source = link(photo['source'], photo['author'])
     if photo.get('resource') and photo['resource'] != photo['source']:
         source += f'（{link(photo["resource"], "元写真")}）'
-    license_link = link(photo['license_url'], photo['license'])
-    date = f' ／ 撮影 {escape(photo["date"])}' if photo.get('date') else ''
+    credit = f'{escape(photo.get("credit_label", "写真出典"))} {source}'
+    if photo.get('license_url'):
+        credit += f' ／ {link(photo["license_url"], photo["license"])}'
+    if photo.get('date'):
+        credit += f' ／ 撮影 {escape(photo["date"])}'
+    if image['url'].startswith('/'):
+        credit += ' ／ サイズ変更・WebP変換'
     loading = 'fetchpriority="high"' if priority else 'loading="lazy"'
     alt = re.sub(r'^(?:参考|関連)写真：', '', caption).split('（産地指定なし）')[0]
     return f'''<figure class="local-photo">
-  <img src="{escape(image['url'], quote=True)}" srcset="{escape(srcset, quote=True)}"
-       sizes="(max-width: 960px) calc(100vw - 32px), 900px"
+  <img src="{escape(image['url'], quote=True)}"{responsive}
        width="{image['width']}" height="{image['height']}" alt="{escape(alt, quote=True)}" {loading} decoding="async">
   <figcaption><span class="local-photo-description">{escape(caption)}</span>
-    <span class="local-photo-credit">写真出典 {source} ／ {license_link}{date} ／ サイズ変更・WebP変換</span>
+    <span class="local-photo-credit">{credit}</span>
   </figcaption>
 </figure>'''
 

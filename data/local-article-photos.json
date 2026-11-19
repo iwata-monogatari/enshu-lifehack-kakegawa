@@ -1,5 +1,18 @@
 {
   "images": {
+    "jyukushuzuka-marker": {
+      "caption": "十九首塚の現地に立つ石標",
+      "source": "https://www.kakegawa-kankou.com/kanko/guide/facility_detail.php?_mfi=247",
+      "author": "掛川観光協会",
+      "credit_label": "撮影・提供",
+      "variants": [
+        {
+          "url": "https://www.kakegawa-kankou.com/kanko/guide/export.php?_e=now&_n=3d4828a6aaaa420cc94a90aeb4cae0fc.jpg",
+          "width": 400,
+          "height": 532
+        }
+      ]
+    },
     "castle": {
       "caption": "掛川城の木造復元天守",
       "source": "https://www.city.kakegawa.shizuoka.jp/opendata/dataset/11540.html",
@@ -1778,6 +1791,11 @@
     }
   },
   "articles": {
+    "jyukushuzuka": [
+      {
+        "key": "jyukushuzuka-marker"
+      }
+    ],
     "kakegawajyo": [
       {
         "key": "castle"
