@@ -1,189 +1,756 @@
 {
   "history": [
-    ["/features/kakegawa-station/", "旧木造駅舎と天浜線が写る昔の掛川駅"],
-    ["/features/kakegawa-matsuri/", "昭和・平成の掛川祭と商店街"],
-    ["/features/kakegawa-aerial/", "上空から見る昔の掛川・大東・大須賀"],
-    ["/features/early-kakegawa/", "明治・大正・昭和初期の掛川と旧東海道"],
-    ["/features/kakegawa-railways/", "天浜線と軽便鉄道・駿遠線の跡"],
-    ["/features/higashiyama-tea/", "東山の茶畑と茶草場農法の仕事風景"],
-    ["/features/kakegawa-coast/", "旧大東と旧大須賀の海辺の写真"],
-    ["/", "掛川懐かし写真館ですべての写真を探す"]
+    [
+      "/features/kakegawa-station/",
+      "旧木造駅舎と天浜線が写る昔の掛川駅"
+    ],
+    [
+      "/features/kakegawa-matsuri/",
+      "昭和・平成の掛川祭と商店街"
+    ],
+    [
+      "/features/kakegawa-aerial/",
+      "上空から見る昔の掛川・大東・大須賀"
+    ],
+    [
+      "/features/early-kakegawa/",
+      "明治・大正・昭和初期の掛川と旧東海道"
+    ],
+    [
+      "/features/kakegawa-railways/",
+      "天浜線と軽便鉄道・駿遠線の跡"
+    ],
+    [
+      "/features/higashiyama-tea/",
+      "東山の茶畑と茶草場農法の仕事風景"
+    ],
+    [
+      "/features/kakegawa-coast/",
+      "旧大東と旧大須賀の海辺の写真"
+    ],
+    [
+      "/",
+      "掛川懐かし写真館ですべての写真を探す"
+    ],
+    [
+      "/features/kakegawa-castle/",
+      "掛川城の天守・御殿・大手門を写真で見る"
+    ],
+    [
+      "/features/nissaka-sayo/",
+      "日坂宿の旅籠と旧東海道の写真"
+    ],
+    [
+      "/features/enshu-yokosuka/",
+      "遠州横須賀の町並みと三熊野神社大祭"
+    ],
+    [
+      "/features/daito/",
+      "高天神城跡・大坂・千浜の風景"
+    ]
   ],
   "articles": {
     "12454": [
-      ["/photos/mlit-image37/", "昭和初期以前、夜泣き石のそばに立つ人々"],
-      ["/features/early-kakegawa/", "明治・大正・昭和初期の掛川を古写真で見る"]
+      [
+        "/photos/mlit-image37/",
+        "昭和初期以前、夜泣き石のそばに立つ人々"
+      ],
+      [
+        "/features/early-kakegawa/",
+        "明治・大正・昭和初期の掛川を古写真で見る"
+      ]
     ],
     "awagatake": [
-      ["/photos/kakegawa-city-148/", "2007年の粟ヶ岳と東山の茶畑"],
-      ["/features/higashiyama-tea/", "粟ヶ岳と東山の茶畑を年代別に見る"]
+      [
+        "/photos/kakegawa-city-148/",
+        "2007年の粟ヶ岳と東山の茶畑"
+      ],
+      [
+        "/features/higashiyama-tea/",
+        "粟ヶ岳と東山の茶畑を年代別に見る"
+      ]
     ],
     "bijitasenta": [
-      ["/features/kakegawa-station/", "昔の掛川駅の駅舎・南口・駅前広場を見る"],
-      ["/features/kakegawa-railways/", "掛川駅から続く昔の天浜線の風景"]
+      [
+        "/features/kakegawa-station/",
+        "昔の掛川駅の駅舎・南口・駅前広場を見る"
+      ],
+      [
+        "/features/kakegawa-railways/",
+        "掛川駅から続く昔の天浜線の風景"
+      ],
+      [
+        "/photos/flickr-14800112994/",
+        "2012年の掛川駅南口とASTY掛川"
+      ]
     ],
     "chagusaba": [
-      ["/photos/kakegawa-city-146/", "2018年、茶草場の草を束ねた東山の斜面"],
-      ["/features/higashiyama-tea/", "東山の茶草場とかっぽしの写真をもっと見る"]
+      [
+        "/photos/kakegawa-city-146/",
+        "2018年、茶草場の草を束ねた東山の斜面"
+      ],
+      [
+        "/features/higashiyama-tea/",
+        "東山の茶草場とかっぽしの写真をもっと見る"
+      ],
+      [
+        "/photos/kakegawa-city-147/",
+        "東山の茶草場に立つ「かっぽし」"
+      ]
+    ],
+    "fujibun": [
+      [
+        "/photos/kakegawa-city-38/",
+        "2018年の日坂宿・藤文蔵のなまこ壁"
+      ],
+      [
+        "/photos/uraken-kakegawa-20090124-11/",
+        "2009年の藤文と旧東海道"
+      ],
+      [
+        "/features/nissaka-sayo/",
+        "日坂宿と小夜の中山の古写真を続けて見る"
+      ]
     ],
     "hashiratokei_and_audio_museum": [
-      ["/photos/kakegawa-city-92/", "柱時計とオーディオ機器が並んでいた館内"]
-    ],
-    "houtokusha": [
-      ["/photos/kakegawa-city-34/", "大日本報徳社の大講堂"]
+      [
+        "/photos/kakegawa-city-92/",
+        "柱時計とオーディオ機器が並んでいた館内"
+      ],
+      [
+        "/photos/kakegawa-city-93/",
+        "2017年、展示室の壁に沿って並んだ柱時計"
+      ]
     ],
     "housenjionsen": [
-      ["/photos/kakegawa-city-139/", "法泉寺温泉の門と庭を写した写真"]
+      [
+        "/photos/kakegawa-city-139/",
+        "法泉寺温泉の門と庭を写した写真"
+      ]
+    ],
+    "houtokusha": [
+      [
+        "/photos/kakegawa-city-34/",
+        "大日本報徳社の大講堂"
+      ],
+      [
+        "/photos/kakegawa-city-32/",
+        "蓮池越しに見た報徳図書館"
+      ]
+    ],
+    "jyukushuzuka": [
+      [
+        "/photos/gsi-photo-861785/",
+        "1988年の十九首付近を航空写真で見る"
+      ]
     ],
     "kachoen": [
-      ["/photos/commons-44735aa2cd/", "2010年、水鳥が集まる掛川花鳥園の池"]
+      [
+        "/photos/commons-44735aa2cd/",
+        "2010年、水鳥が集まる掛川花鳥園の池"
+      ]
     ],
     "kakegawa-three-castles": [
-      ["/features/kakegawa-castle/", "掛川城の天守・御殿・大手門"],
-      ["/features/daito/", "高天神城跡と旧大東町の風景"],
-      ["/features/enshu-yokosuka/", "横須賀城跡と遠州横須賀の町並み"]
+      [
+        "/features/kakegawa-castle/",
+        "掛川城の天守・御殿・大手門"
+      ],
+      [
+        "/features/daito/",
+        "高天神城跡と旧大東町の風景"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "横須賀城跡と遠州横須賀の町並み"
+      ]
     ],
     "kakegawacha": [
-      ["/photos/kakegawa-city-148/", "2007年、粟ヶ岳のふもとに広がる東山の茶畑"],
-      ["/features/higashiyama-tea/", "平成の東山の茶畑と茶草場"]
+      [
+        "/photos/kakegawa-city-148/",
+        "2007年、粟ヶ岳のふもとに広がる東山の茶畑"
+      ],
+      [
+        "/features/higashiyama-tea/",
+        "平成の東山の茶畑と茶草場"
+      ],
+      [
+        "/photos/kakegawa-city-149/",
+        "新芽の向こうに粟ヶ岳の「茶」文字が見える茶畑"
+      ]
     ],
     "kakegawajyo": [
-      ["/features/kakegawa-castle/", "掛川城の天守・御殿・城下町の写真"],
-      ["/photos/kakegawa-city-310/", "2015年、掛川城を背に進む掛川大祭の屋台"],
-      ["/features/kakegawa-matsuri/", "掛川祭・掛川大祭と商店街を年代別に見る"]
+      [
+        "/features/kakegawa-castle/",
+        "掛川城の天守・御殿・城下町の写真"
+      ],
+      [
+        "/photos/kakegawa-city-310/",
+        "2015年、掛川城を背に進む掛川大祭の屋台"
+      ],
+      [
+        "/features/kakegawa-matsuri/",
+        "掛川祭・掛川大祭と商店街を年代別に見る"
+      ],
+      [
+        "/photos/kakegawa-city-12/",
+        "木柵越しに見上げた掛川城天守"
+      ]
     ],
     "kakegawajyogoten": [
-      ["/photos/commons-303f5efe87/", "2007年の掛川城御殿の縁側"],
-      ["/features/kakegawa-castle/", "天守・御殿と城下町の写真"]
+      [
+        "/photos/commons-303f5efe87/",
+        "2007年の掛川城御殿の縁側"
+      ],
+      [
+        "/features/kakegawa-castle/",
+        "天守・御殿と城下町の写真"
+      ],
+      [
+        "/photos/kakegawa-city-20/",
+        "天守から見下ろした掛川城御殿"
+      ]
+    ],
+    "kapposhi-terrace": [
+      [
+        "/photos/commons-1804b3db5d/",
+        "テラス開館前の2001年に粟ヶ岳山頂から見た風景"
+      ],
+      [
+        "/photos/kakegawa-city-143/",
+        "2018年、桜の咲く粟ヶ岳山頂から見た東山"
+      ],
+      [
+        "/features/higashiyama-tea/",
+        "東山の茶畑と粟ヶ岳山頂から見た風景"
+      ]
     ],
     "kawazakaya": [
-      ["/photos/kakegawa-city-35/", "日坂宿・川坂屋の土間と帳場"],
-      ["/features/nissaka-sayo/", "昔の日坂宿と小夜の中山を写真で歩く"]
+      [
+        "/photos/kakegawa-city-35/",
+        "日坂宿・川坂屋の土間と帳場"
+      ],
+      [
+        "/features/nissaka-sayo/",
+        "昔の日坂宿と小夜の中山を写真で歩く"
+      ],
+      [
+        "/photos/kakegawa-city-41/",
+        "街道から見た川坂屋の正面"
+      ]
+    ],
+    "koressikadokoro": [
+      [
+        "/photos/flickr-14800112994/",
+        "2012年、これっしか処が入る掛川駅南口の駅ビル"
+      ],
+      [
+        "/features/kakegawa-station/",
+        "駅の土産店を訪ねる前に、昔の掛川駅と南口の写真を見る"
+      ]
     ],
     "kotonomama": [
-      ["/photos/uraken-kakegawa-20090124-10/", "2009年の事任八幡宮の拝殿"]
+      [
+        "/photos/uraken-kakegawa-20090124-10/",
+        "2009年の事任八幡宮の拝殿"
+      ],
+      [
+        "/photos/commons-afb4e59f48/",
+        "事任八幡宮の境内に立つ大きなクスノキ"
+      ],
+      [
+        "/features/nissaka-sayo/",
+        "事任八幡宮の先に続く日坂宿と小夜の中山の写真"
+      ]
     ],
     "kuramionsen": [
-      ["/photos/kakegawa-city-141/", "倉真温泉・真砂館の浴場を写した写真"]
-    ],
-    "kyuenji": [
-      ["/photos/kakegawa-city-45/", "久延寺に伝わる夜泣き石の写真"]
+      [
+        "/photos/kakegawa-city-141/",
+        "倉真温泉・真砂館の浴場を写した写真"
+      ],
+      [
+        "/photos/gsi-photo-815681/",
+        "1976年の倉真付近を航空写真で見る"
+      ]
     ],
     "kuzufu": [
-      ["/photos/commons-714cea1bf6/", "掛川城天守に使われた葛布の襖"]
+      [
+        "/photos/commons-714cea1bf6/",
+        "掛川城天守に使われた葛布の襖"
+      ]
+    ],
+    "kyuenji": [
+      [
+        "/photos/kakegawa-city-45/",
+        "久延寺に伝わる夜泣き石の写真"
+      ],
+      [
+        "/photos/kakegawa-city-44/",
+        "小夜の中山に建つ久延寺の本堂"
+      ],
+      [
+        "/features/early-kakegawa/",
+        "昭和初期以前の夜泣き石と旧東海道"
+      ]
     ],
     "machibansho": [
-      ["/features/enshu-yokosuka/", "横須賀城跡と遠州横須賀街道の町並み"]
+      [
+        "/features/enshu-yokosuka/",
+        "横須賀城跡と遠州横須賀街道の町並み"
+      ]
     ],
     "matsubanotaki": [
-      ["/photos/kakegawa-city-175/", "倉真の松葉の滝を写した写真"]
+      [
+        "/photos/kakegawa-city-175/",
+        "倉真の松葉の滝を写した写真"
+      ],
+      [
+        "/photos/mizube-075/",
+        "水辺の写真集に残る倉真の松葉の滝"
+      ]
+    ],
+    "matsugaoka": [
+      [
+        "/photos/kakegawa-city-85/",
+        "2018年、松ヶ岡の座敷から見た庭"
+      ],
+      [
+        "/features/kakegawa-castle/",
+        "城下町を見比べる｜掛川城と大手門の写真"
+      ]
     ],
     "michinoeki": [
-      ["/photos/commons-0d4aa3181d/", "2005年の道の駅掛川"]
+      [
+        "/photos/commons-0d4aa3181d/",
+        "2005年の道の駅掛川"
+      ]
     ],
     "mikumanojinjya": [
-      ["/photos/kakegawa-city-289/", "2014年、八百甚の前を通る三熊野神社大祭の祢里"],
-      ["/features/enshu-yokosuka/", "三熊野神社大祭と遠州横須賀の町並み"]
+      [
+        "/photos/kakegawa-city-289/",
+        "2014年、八百甚の前を通る三熊野神社大祭の祢里"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "三熊野神社大祭と遠州横須賀の町並み"
+      ],
+      [
+        "/photos/kakegawa-city-287/",
+        "祢里が境内を囲む三熊野神社大祭"
+      ],
+      [
+        "/photos/commons-c85b30b549/",
+        "2011年に写された三熊野神社の境内"
+      ]
+    ],
+    "myogajimacamp": [
+      [
+        "/photos/gsi-photo-830082/",
+        "1976年の炭焼付近を航空写真で見る"
+      ]
     ],
     "nanbukankoannai": [
-      ["/features/enshu-yokosuka/", "遠州横須賀の街道と城跡"],
-      ["/features/daito/", "高天神城跡・大坂・千浜の写真"],
-      ["/features/kakegawa-railways/", "旧大東に残る軽便鉄道・駿遠線の駅跡"]
+      [
+        "/features/enshu-yokosuka/",
+        "遠州横須賀の街道と城跡"
+      ],
+      [
+        "/features/daito/",
+        "高天神城跡・大坂・千浜の写真"
+      ],
+      [
+        "/features/kakegawa-railways/",
+        "旧大東に残る軽便鉄道・駿遠線の駅跡"
+      ]
     ],
     "narakokonosato": [
-      ["/photos/kakegawa-city-106/", "2018年、ならここの里の木陰に並ぶテント"]
+      [
+        "/photos/kakegawa-city-106/",
+        "2018年、ならここの里の木陰に並ぶテント"
+      ],
+      [
+        "/photos/kakegawa-city-105/",
+        "ならここの里のつり橋"
+      ]
+    ],
+    "narakokonoyu": [
+      [
+        "/photos/kakegawa-city-133/",
+        "2018年、山を望むならここの湯の露天風呂"
+      ],
+      [
+        "/photos/kakegawa-city-135/",
+        "2018年に写された屋根付き露天風呂"
+      ]
     ],
     "nemunoki": [
-      ["/photos/kakegawa-city-94/", "2012年のねむの木村・こども美術館どんぐり"]
+      [
+        "/photos/kakegawa-city-94/",
+        "2012年のねむの木村・こども美術館どんぐり"
+      ]
     ],
     "ninomaru": [
-      ["/photos/kakegawa-city-89/", "2005年の掛川市二の丸美術館"],
-      ["/photos/commons-e39e59ad12/", "2017年の掛川市二の丸美術館"]
+      [
+        "/photos/kakegawa-city-89/",
+        "2005年の掛川市二の丸美術館"
+      ],
+      [
+        "/photos/commons-e39e59ad12/",
+        "2017年の掛川市二の丸美術館"
+      ]
     ],
     "ninomaruchasitu": [
-      ["/photos/kakegawa-city-22/", "庭から見た掛川城二の丸茶室"]
+      [
+        "/photos/kakegawa-city-22/",
+        "庭から見た掛川城二の丸茶室"
+      ]
     ],
     "nishiohyadamu": [
-      ["/photos/commons-af98877381/", "2011年、秋の西大谷ダム"]
+      [
+        "/photos/commons-af98877381/",
+        "2011年、秋の西大谷ダム"
+      ],
+      [
+        "/photos/kakegawa-city-178/",
+        "2018年、西大谷ダム公園から見た湖面"
+      ]
     ],
     "obisan": [
-      ["/photos/kakegawa-city-173/", "大尾山の顕光寺と赤い屋根を写した写真"]
+      [
+        "/photos/kakegawa-city-173/",
+        "大尾山の顕光寺と赤い屋根を写した写真"
+      ]
     ],
     "ogasayama": [
-      ["/photos/kakegawa-city-170/", "小笠山から見た富士山と遠州の丘陵"]
+      [
+        "/photos/kakegawa-city-170/",
+        "小笠山から見た富士山と遠州の丘陵"
+      ]
     ],
     "ohamakouen": [
-      ["/photos/kakegawa-city-177/", "桜の時期の大浜公園"],
-      ["/features/kakegawa-coast/", "大浜公園から旧大東の海辺へ、写真でたどる"]
+      [
+        "/photos/kakegawa-city-177/",
+        "桜の時期の大浜公園"
+      ],
+      [
+        "/features/kakegawa-coast/",
+        "大浜公園から旧大東の海辺へ、写真でたどる"
+      ]
+    ],
+    "osukarekisiminzoku": [
+      [
+        "/photos/commons-5ec73ca2e2/",
+        "関連写真｜2011年の遠州横須賀の町並み"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "資料館のある遠州横須賀の町並みと祭り"
+      ]
     ],
     "otemon": [
-      ["/photos/flickr-2173388091/", "2007年、青空の下の掛川城大手門"]
+      [
+        "/photos/flickr-2173388091/",
+        "2007年、青空の下の掛川城大手門"
+      ],
+      [
+        "/photos/kakegawa-city-26/",
+        "明かりのともる掛川城大手門"
+      ],
+      [
+        "/features/kakegawa-castle/",
+        "大手門から掛川城の天守・御殿まで写真でたどる"
+      ]
     ],
     "ryugeintaiyuin": [
-      ["/photos/uraken-kakegawa-20090124-09/", "2009年の龍華院大猷院霊屋"]
+      [
+        "/photos/uraken-kakegawa-20090124-09/",
+        "2009年の龍華院大猷院霊屋"
+      ],
+      [
+        "/photos/kakegawa-city-84/",
+        "緑に囲まれた龍華院大猷院霊屋"
+      ]
     ],
     "sayononakayama": [
-      ["/features/nissaka-sayo/", "日坂宿と小夜の中山の昔の写真"],
-      ["/features/early-kakegawa/", "明治・大正・昭和初期の旧東海道と掛川"]
+      [
+        "/features/nissaka-sayo/",
+        "日坂宿と小夜の中山の昔の写真"
+      ],
+      [
+        "/features/early-kakegawa/",
+        "明治・大正・昭和初期の旧東海道と掛川"
+      ],
+      [
+        "/photos/kakegawa-city-42/",
+        "小夜の中山峠に残る佐夜鹿一里塚"
+      ],
+      [
+        "/photos/mlit-image16-17/",
+        "昭和10年ごろの日坂の町並み"
+      ]
     ],
     "seatopia": [
-      ["/photos/commons-6b83ecaed0/", "2011年、風車が見える大東温泉シートピア"],
-      ["/features/kakegawa-coast/", "シートピアの凧揚げと旧大東の海岸"]
+      [
+        "/photos/commons-6b83ecaed0/",
+        "2011年、風車が見える大東温泉シートピア"
+      ],
+      [
+        "/features/kakegawa-coast/",
+        "シートピアの凧揚げと旧大東の海岸"
+      ],
+      [
+        "/photos/kakegawa-city-136/",
+        "大東温泉シートピアの外観"
+      ]
     ],
     "seimeizuka": [
-      ["/photos/commons-e86c86130f/", "2011年、旧大須賀町・大渕の晴明塚"]
+      [
+        "/photos/commons-e86c86130f/",
+        "2011年、旧大須賀町・大渕の晴明塚"
+      ]
     ],
     "shimizuteiteien": [
-      ["/photos/commons-e88a4220bd/", "2011年の清水邸庭園の池"]
+      [
+        "/photos/commons-e88a4220bd/",
+        "2011年の清水邸庭園の池"
+      ],
+      [
+        "/photos/kakegawa-city-73/",
+        "清水邸庭園の門構え"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "清水邸庭園のある遠州横須賀の町並み"
+      ]
     ],
     "shinrinkajyu": [
-      ["/photos/kakegawa-city-127/", "掛川森林果樹公園の園路を写した写真"]
+      [
+        "/photos/kakegawa-city-127/",
+        "掛川森林果樹公園の園路を写した写真"
+      ]
+    ],
+    "shinrinnoyu": [
+      [
+        "/photos/kakegawa-city-103/",
+        "周辺の風景｜つま恋の池に映る春の木立"
+      ]
     ],
     "shiosaibashi": [
-      ["/photos/commons-704f91d13c/", "2011年、旧大東町の潮騒橋にある自転車歩行者道"],
-      ["/features/kakegawa-coast/", "潮騒橋と国安・千浜の海辺の写真"]
+      [
+        "/photos/commons-704f91d13c/",
+        "2011年、旧大東町の潮騒橋にある自転車歩行者道"
+      ],
+      [
+        "/features/kakegawa-coast/",
+        "潮騒橋と国安・千浜の海辺の写真"
+      ],
+      [
+        "/photos/kakegawa-city-188/",
+        "夕日が沈む潮騒橋を北側から見る"
+      ]
     ],
     "shiseido": [
-      ["/photos/kakegawa-city-98/", "2018年の資生堂企業資料館の外観"]
+      [
+        "/photos/kakegawa-city-98/",
+        "2018年の資生堂企業資料館の外観"
+      ]
     ],
     "stainedglass": [
-      ["/photos/kakegawa-city-87/", "開館年の掛川市ステンドグラス美術館"]
+      [
+        "/photos/kakegawa-city-87/",
+        "開館年の掛川市ステンドグラス美術館"
+      ]
     ],
     "tabista": [
-      ["/photos/flickr-2174254768/", "2007年の掛川駅南口広場"],
-      ["/features/kakegawa-railways/", "平成の天浜線の駅舎と列車"],
-      ["/features/kakegawa-station/", "昔の掛川駅の駅舎と駅前広場"]
+      [
+        "/photos/flickr-2174254768/",
+        "2007年の掛川駅南口広場"
+      ],
+      [
+        "/features/kakegawa-railways/",
+        "平成の天浜線の駅舎と列車"
+      ],
+      [
+        "/features/kakegawa-station/",
+        "昔の掛川駅の駅舎と駅前広場"
+      ],
+      [
+        "/photos/flickr-2174151948/",
+        "2007年、駅前広場から見た旧木造駅舎"
+      ],
+      [
+        "/photos/commons-a22c584585/",
+        "1988年の掛川駅周辺の航空写真"
+      ]
     ],
     "takatenjinjyoato": [
-      ["/features/daito/", "高天神城跡と高天神社例大祭の写真"]
+      [
+        "/features/daito/",
+        "高天神城跡と高天神社例大祭の写真"
+      ],
+      [
+        "/photos/kakegawa-city-57/",
+        "搦手門から続く石段"
+      ],
+      [
+        "/photos/kakegawa-city-63/",
+        "高天神城跡の本丸"
+      ],
+      [
+        "/photos/commons-b3fd5d8630/",
+        "1988年の高天神山の航空写真"
+      ]
     ],
     "takenomaru": [
-      ["/photos/commons-30e27c0f84/", "2017年の掛川城竹の丸と離れ"]
+      [
+        "/photos/commons-30e27c0f84/",
+        "2017年の掛川城竹の丸と離れ"
+      ],
+      [
+        "/photos/kakegawa-city-31/",
+        "竹の丸の縁側から見た庭"
+      ]
     ],
     "totoumizuka": [
-      ["/photos/commons-5c4ce1967c/", "2013年の遠江塚"]
+      [
+        "/photos/commons-5c4ce1967c/",
+        "2013年の遠江塚"
+      ]
     ],
     "tsumagoiresortsainosato": [
-      ["/photos/kakegawa-city-101/", "2018年、つま恋の道を覆う桜"]
+      [
+        "/photos/kakegawa-city-101/",
+        "2018年、つま恋の道を覆う桜"
+      ]
+    ],
+    "wadaokakofun": [
+      [
+        "/photos/commons-9dc305a26b/",
+        "2016年、整備前の吉岡大塚古墳"
+      ],
+      [
+        "/photos/gsi-photo-818166/",
+        "1976年の吉岡付近を航空写真で見る"
+      ]
     ],
     "yasakajinjya": [
-      ["/photos/kakegawa-city-299/", "2016年、中八坂神社祇園祭の祢里"]
+      [
+        "/photos/kakegawa-city-299/",
+        "2016年、中八坂神社祇園祭の祢里"
+      ],
+      [
+        "/photos/kakegawa-city-302/",
+        "中八坂神社祇園祭で花飾りを連ねた祢里"
+      ]
     ],
     "yokosukajyoato": [
-      ["/photos/uraken-kakegawa-20090124-04/", "2009年の横須賀城跡の玉石垣"],
-      ["/features/enshu-yokosuka/", "横須賀城跡と遠州横須賀の写真特集"]
+      [
+        "/photos/uraken-kakegawa-20090124-04/",
+        "2009年の横須賀城跡の玉石垣"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "横須賀城跡と遠州横須賀の写真特集"
+      ],
+      [
+        "/photos/kakegawa-city-70/",
+        "横須賀城跡に残る天守台跡"
+      ]
     ],
     "yokosukatako": [
-      ["/photos/kakegawa-city-274/", "2018年、遠州横須賀の冬空に揚がる凧"]
+      [
+        "/photos/kakegawa-city-274/",
+        "2018年、遠州横須賀の冬空に揚がる凧"
+      ],
+      [
+        "/photos/kakegawa-city-276/",
+        "田んぼから大凧を揚げる遠州横須賀"
+      ],
+      [
+        "/features/enshu-yokosuka/",
+        "遠州横須賀の凧揚げと三熊野神社大祭"
+      ]
     ],
     "yorozuya": [
-      ["/photos/kakegawa-city-39/", "街道に面した日坂宿・萬屋"]
+      [
+        "/photos/kakegawa-city-39/",
+        "街道に面した日坂宿・萬屋"
+      ],
+      [
+        "/photos/kakegawa-city-40/",
+        "日坂宿の旅籠・萬屋の室内"
+      ],
+      [
+        "/features/nissaka-sayo/",
+        "萬屋がある日坂宿と小夜の中山の昔の写真"
+      ]
     ],
     "yoshiokakinenkan": [
-      ["/photos/kakegawa-city-91/", "吉岡彌生の生家を写した写真"]
+      [
+        "/photos/kakegawa-city-91/",
+        "吉岡彌生の生家を写した写真"
+      ],
+      [
+        "/photos/kakegawa-city-90/",
+        "吉岡彌生記念館の外観"
+      ]
     ],
     "yoshiyukibungaku": [
-      ["/photos/commons-1cbf50d36b/", "2007年の吉行淳之介文学館"]
+      [
+        "/photos/commons-1cbf50d36b/",
+        "2007年の吉行淳之介文学館"
+      ],
+      [
+        "/photos/kakegawa-city-96/",
+        "木立に囲まれた吉行淳之介文学館の看板"
+      ]
     ]
-  }
+  },
+  "visit": [
+    [
+      "/",
+      "掛川懐かし写真館で古写真・航空写真を探す"
+    ],
+    [
+      "/features/kakegawa-castle/",
+      "掛川城の天守・御殿・大手門"
+    ],
+    [
+      "/features/nissaka-sayo/",
+      "旧東海道の日坂宿と小夜の中山"
+    ],
+    [
+      "/features/enshu-yokosuka/",
+      "遠州横須賀の町並み・祭り・城跡"
+    ],
+    [
+      "/features/daito/",
+      "高天神城跡と旧大東の風景"
+    ],
+    [
+      "/features/kakegawa-coast/",
+      "国安・千浜と潮騒橋の海辺"
+    ]
+  ],
+  "food": [
+    [
+      "/features/higashiyama-tea/",
+      "東山・粟ヶ岳の茶畑と茶草場農法の写真"
+    ],
+    [
+      "/",
+      "写真館のほかの特集を見る"
+    ],
+    [
+      "/photos/kakegawa-city-149/",
+      "新芽の向こうに粟ヶ岳の茶文字が見える茶園"
+    ],
+    [
+      "/photos/kakegawa-city-147/",
+      "茶草を束ねた「かっぽし」の写真"
+    ],
+    [
+      "/photos/commons-714cea1bf6/",
+      "掛川城天守に使われた葛布の襖"
+    ]
+  ]
 }
