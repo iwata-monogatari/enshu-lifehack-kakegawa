@@ -14,14 +14,14 @@
     "date": "2026-11-19"
   },
   {
-    "href": "/life/end-of-life/bereavement/",
+    "href": "/life/end-of-life/bereavement-procedures/",
     "guide": "bereavement",
     "text": "おくやみコーナーは、電話で予約した日から3開庁日を過ぎた日から利用できます。電話受付は平日9:00〜16:30（0537-21-4140）。予約枠・持ち物を確認してください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
     "date": "2026-11-19"
   },
   {
-    "href": "/life/end-of-life/bereavement-procedures/",
+    "href": "/life/end-of-life/bereavement/",
     "guide": "bereavement",
     "text": "おくやみコーナーは、電話で予約した日から3開庁日を過ぎた日から利用できます。電話受付は平日9:00〜16:30（0537-21-4140）。予約枠・持ち物を確認してください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/7058.html",
@@ -35,14 +35,14 @@
     "date": "2026-11-19"
   },
   {
-    "href": "/life/family-grow/child-allowance/",
+    "href": "/life/family-grow/child-allowance-medical/",
     "guide": "parenting",
     "text": "児童手当・こども医療費助成の担当は、こども政策課 こども家庭給付係（0537-21-1144）です。出生・転入後の手続きと必要書類を確認してください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303801.html",
     "date": "2026-11-19"
   },
   {
-    "href": "/life/family-grow/child-allowance-medical/",
+    "href": "/life/family-grow/child-allowance/",
     "guide": "parenting",
     "text": "児童手当・こども医療費助成の担当は、こども政策課 こども家庭給付係（0537-21-1144）です。出生・転入後の手続きと必要書類を確認してください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/303801.html",
@@ -58,16 +58,16 @@
   {
     "href": "/life/family-grow/nursery-childcare/",
     "guide": "parenting",
-    "text": "2027年4月入園の当初受付は2026年10月30日に終了しました。未申請の場合はこども保育支援課（0537-21-1205）へ相談してください。2027年5月以降の入園申請は2027年1月4日開始予定です。",
+    "text": "4月入園の当初受付は終了。未申請の方はこども保育支援課へ。2027年5月入園の申込期限は3月15日で、以降は希望月ごとに締切が異なります。",
     "source": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/458842.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/family-grow/nursery-school/",
     "guide": "parenting",
-    "text": "2027年4月入園の当初受付は2026年10月30日に終了しました。未申請の場合はこども保育支援課（0537-21-1205）へ相談してください。2027年5月以降の入園申請は2027年1月4日開始予定です。",
+    "text": "4月入園の当初受付は終了。未申請の方はこども保育支援課へ。2027年5月入園の申込期限は3月15日で、以降は希望月ごとに締切が異なります。",
     "source": "https://www.city.kakegawa.shizuoka.jp/kakekko/docs/458842.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/health-medical/dental-care/",
@@ -100,30 +100,44 @@
   {
     "href": "/life/housing/earthquake-demolition/",
     "guide": "housing",
-    "text": "市営住宅の2026年11月募集は11月18日で受付終了です。次の募集は公式ページを確認してください。耐震・空き家除却の補助は契約前に条件と受付状況の確認が必要です。",
+    "text": "11月の郵送受付は終了しました。定員に達しなかった住戸は11月25日〜30日に先着順で受付（郵送不可）。空き状況は静岡県住宅供給公社 西部支所（053-455-0025）へ。入居可能日は2027年2月1日です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/61559.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/housing/municipal-housing/",
     "guide": "housing",
-    "text": "市営住宅の2026年11月募集は11月18日で受付終了です。次の募集は公式ページを確認してください。耐震・空き家除却の補助は契約前に条件と受付状況の確認が必要です。",
+    "text": "11月の郵送受付は終了しました。定員に達しなかった住戸は11月25日〜30日に先着順で受付（郵送不可）。空き状況は静岡県住宅供給公社 西部支所（053-455-0025）へ。入居可能日は2027年2月1日です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/61559.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/housing/public-housing-consultation/",
     "guide": "housing",
-    "text": "市営住宅の2026年11月募集は11月18日で受付終了です。次の募集は公式ページを確認してください。耐震・空き家除却の補助は契約前に条件と受付状況の確認が必要です。",
+    "text": "11月の郵送受付は終了しました。定員に達しなかった住戸は11月25日〜30日に先着順で受付（郵送不可）。空き状況は静岡県住宅供給公社 西部支所（053-455-0025）へ。入居可能日は2027年2月1日です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/61559.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/housing/vacant-house/",
     "guide": "housing",
-    "text": "市営住宅の2026年11月募集は11月18日で受付終了です。次の募集は公式ページを確認してください。耐震・空き家除却の補助は契約前に条件と受付状況の確認が必要です。",
+    "text": "11月の郵送受付は終了しました。定員に達しなかった住戸は11月25日〜30日に先着順で受付（郵送不可）。空き状況は静岡県住宅供給公社 西部支所（053-455-0025）へ。入居可能日は2027年2月1日です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/61559.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
+  },
+  {
+    "href": "/life/living-soon/bus-license-return/",
+    "guide": "moving",
+    "text": "市の自主運行バスは、Google マップの公共交通検索で鉄道などと組み合わせて経路を調べられます。利用する日の運行日と帰りの便は、市の時刻表で確認してください。",
+    "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/379385.html",
+    "date": "2026-11-24"
+  },
+  {
+    "href": "/life/living-soon/transportation/",
+    "guide": "moving",
+    "text": "市の自主運行バスは、Google マップの公共交通検索で鉄道などと組み合わせて経路を調べられます。利用する日の運行日と帰りの便は、市の時刻表で確認してください。",
+    "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/379385.html",
+    "date": "2026-11-24"
   },
   {
     "href": "/life/moving-out/bulk-garbage-cleaning/",
@@ -142,16 +156,16 @@
   {
     "href": "/life/moving-out/moving-away/",
     "guide": "moving",
-    "text": "水道開始・中止のネット申請は2026年10月21日から当面停止中です。平日の電話（0537-21-1715、8:30〜17:15）または窓口（9:00〜16:30）で申し込んでください。住民票の異動とは連動しません。",
+    "text": "市の11月20日発表では、水道の開始・中止・変更のオンライン手続きは停止中です。平日8:30〜17:15に水道料金お客さまセンター（0537-21-1715）へ電話するか、9:00〜16:30に窓口で手続きしてください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9134.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/moving-out/stop-water/",
     "guide": "moving",
-    "text": "水道開始・中止のネット申請は2026年10月21日から当面停止中です。平日の電話（0537-21-1715、8:30〜17:15）または窓口（9:00〜16:30）で申し込んでください。住民票の異動とは連動しません。",
+    "text": "市の11月20日発表では、水道の開始・中止・変更のオンライン手続きは停止中です。平日8:30〜17:15に水道料金お客さまセンター（0537-21-1715）へ電話するか、9:00〜16:30に窓口で手続きしてください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9134.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/parents-care/care-certification-support-center/",
@@ -173,6 +187,27 @@
     "text": "地域包括支援センターの来所窓口は平日9:00〜16:30、電話は8:30〜17:15です。住所の担当センターを確認し、来所前に連絡してください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9844.html",
     "date": "2026-11-19"
+  },
+  {
+    "href": "/life/play-out/rent-public-facilities/",
+    "guide": "updates",
+    "text": "市立小・中学校の体育館・運動場は公共施設予約サービスで予約・支払い・鍵の手続きができます。10人以上の団体登録と、市役所での代表者の本人確認が必要です。",
+    "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
+    "date": "2026-11-24"
+  },
+  {
+    "href": "/life/play-out/sports-facilities/",
+    "guide": "updates",
+    "text": "市立小・中学校の体育館・運動場は公共施設予約サービスで予約・支払い・鍵の手続きができます。10人以上の団体登録と、市役所での代表者の本人確認が必要です。",
+    "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/554709.html",
+    "date": "2026-11-24"
+  },
+  {
+    "href": "/life/play-out/visit-library/",
+    "guide": "updates",
+    "text": "12月5日（土）7:30〜19:00ごろ、掛川市立図書館のサイトと電子図書館がメンテナンスに伴い利用できなくなります。",
+    "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/946824.html",
+    "date": "2026-11-24"
   },
   {
     "href": "/life/start-living/bulky-garbage-dropoff/",
@@ -212,9 +247,9 @@
   {
     "href": "/life/start-living/moved-in/",
     "guide": "moving",
-    "text": "水道開始・中止のネット申請は2026年10月21日から当面停止中です。平日の電話（0537-21-1715、8:30〜17:15）または窓口（9:00〜16:30）で申し込んでください。住民票の異動とは連動しません。",
+    "text": "市の11月20日発表では、水道の開始・中止・変更のオンライン手続きは停止中です。平日8:30〜17:15に水道料金お客さまセンター（0537-21-1715）へ電話するか、9:00〜16:30に窓口で手続きしてください。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9134.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24"
   },
   {
     "href": "/life/start-living/resident-registration/",
@@ -226,16 +261,18 @@
   {
     "href": "/life/start-living/water-sewer/",
     "guide": "moving",
-    "text": "水道開始・中止のネット申請は2026年10月21日から当面停止中です。平日の電話（0537-21-1715、8:30〜17:15）または窓口（9:00〜16:30）で申し込んでください。住民票の異動とは連動しません。",
+    "text": "市の11月20日発表では、水道の開始・中止・変更のオンライン手続きは停止中です。平日8:30〜17:15に水道料金お客さまセンター（0537-21-1715）へ電話するか、9:00〜16:30に窓口で手続きしてください。 市と給水契約がある水道・簡易水道の使用者（官公庁を除く）は、2027年1月・2月請求分の基本料金が自動で減免されます。申込みは不要です。従量料金・下水道使用料は対象外です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9134.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24",
+    "extra_source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1215418.html"
   },
   {
     "href": "/life/start-living/water-start-stop-fees/",
     "guide": "moving",
-    "text": "水道開始・中止のネット申請は2026年10月21日から当面停止中です。平日の電話（0537-21-1715、8:30〜17:15）または窓口（9:00〜16:30）で申し込んでください。住民票の異動とは連動しません。",
+    "text": "市の11月20日発表では、水道の開始・中止・変更のオンライン手続きは停止中です。平日8:30〜17:15に水道料金お客さまセンター（0537-21-1715）へ電話するか、9:00〜16:30に窓口で手続きしてください。 市と給水契約がある水道・簡易水道の使用者（官公庁を除く）は、2027年1月・2月請求分の基本料金が自動で減免されます。申込みは不要です。従量料金・下水道使用料は対象外です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/9134.html",
-    "date": "2026-11-19"
+    "date": "2026-11-24",
+    "extra_source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1215418.html"
   },
   {
     "href": "/life/troubles-consult/cannot-pay-tax/",
@@ -280,14 +317,14 @@
     "date": "2026-11-19"
   },
   {
-    "href": "/life/work-life/tax/",
+    "href": "/life/work-life/tax-guide/",
     "guide": "counter",
     "text": "市役所等の通常窓口は2026年11月2日から9:00〜16:30へ試行変更されています。電話受付は8:30〜17:15。対象外施設や木曜夜間の取扱業務は公式案内を確認してください。 納税相談は0537-21-1206、軽自動車税・税証明は0537-21-1138です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1113715.html",
     "date": "2026-11-19"
   },
   {
-    "href": "/life/work-life/tax-guide/",
+    "href": "/life/work-life/tax/",
     "guide": "counter",
     "text": "市役所等の通常窓口は2026年11月2日から9:00〜16:30へ試行変更されています。電話受付は8:30〜17:15。対象外施設や木曜夜間の取扱業務は公式案内を確認してください。 納税相談は0537-21-1206、軽自動車税・税証明は0537-21-1138です。",
     "source": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/1113715.html",
