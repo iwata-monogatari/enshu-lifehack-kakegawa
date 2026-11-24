@@ -19,5 +19,7 @@
   {"query": "ごみ収集カレンダー", "expectedHrefIncludesAny": ["/life/start-living/garbage-sorting-calendar/"]},
   {"query": "コンビニ交付", "expectedHrefIncludesAny": ["/life/start-living/certificates/"]},
   {"query": "自主運行バス", "expectedHrefIncludesAny": ["/life/living-soon/transportation/"]},
-  {"query": "市営住宅募集", "expectedHrefIncludesAny": ["/life/housing/municipal-housing/"]}
+  {"query": "市営住宅募集", "expectedHrefIncludesAny": ["/life/housing/municipal-housing/"]},
+  {"query": "掛川市 家計 相談", "expectedHrefIncludesAny": ["/life/troubles-consult/living-costs-trouble/"]},
+  {"query": "通学区", "expectedHrefIncludesAny": ["/life/education/school-zones/"]}
 ]

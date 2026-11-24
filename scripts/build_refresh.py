@@ -4,6 +4,7 @@ Run before inject_parts, build-search-index and build_sitemap. No network needed
 """
 import json,re,html
 from datetime import date
+from generate_pages import load_content_map, quick_answer_html
 from pathlib import Path
 from local_articles import build_local_articles, load_articles, update_guide_body
 ROOT=Path(__file__).resolve().parent.parent
@@ -11,6 +12,8 @@ SITE='https://kakegawa.enshu-lifehack.com'
 guides=json.loads((ROOT/'data/refresh-guides.json').read_text(encoding='utf8'))
 news=json.loads((ROOT/'data/refresh-news.json').read_text(encoding='utf8'))
 priority_life_pages={
+ '/life/troubles-consult/living-costs-trouble/',
+ '/life/education/school-zones/',
  '/life/education/after-school-club/',
  '/life/start-living/water-start-stop-fees/',
  '/life/start-living/garbage-sorting-calendar/',
@@ -114,6 +117,8 @@ frequent_links=[
  ('/life/start-living/garbage-sorting-calendar/','地区別ごみ収集カレンダー'),
  ('/life/start-living/certificates/','住民票などのコンビニ交付'),
  ('/life/education/after-school-club/','学童保育の申込み'),
+ ('/life/education/school-zones/','住所から小・中学校の通学区を調べる'),
+ ('/life/troubles-consult/living-costs-trouble/','生活費・家計の相談先'),
  ('/life/living-soon/transportation/','掛川のバス・電車'),
  ('/discover/kakegawajyo/','掛川城の開館時間・アクセス'),
  ('/discover/kakegawa-three-castles/','掛川三城の巡り方'),
@@ -163,6 +168,7 @@ for note in json.loads((ROOT/'data/current-notes.json').read_text(encoding='utf8
   s=s[:pos]+block+s[pos:]
  f.write_text(s,encoding='utf8')
 # Update static life-page excerpts from the corresponding on-page introduction.
+content_by_path=load_content_map()
 for topic in json.loads((ROOT/'data/topics_master.json').read_text(encoding='utf8')):
  f=ROOT/topic['href'].strip('/')/'index.html'
  s=f.read_text(encoding='utf8')
@@ -177,5 +183,13 @@ for topic in json.loads((ROOT/'data/topics_master.json').read_text(encoding='utf
  if topic['href'] in priority_life_pages:
   s=re.sub(r'<title>[^<]+</title>',lambda _:f'<title>{title_html} | 掛川ライフハック</title>',s,count=1)
   s=re.sub(r'(<h1[^>]*>)[^<]+(</h1>)',lambda m:m[1]+title_html+m[2],s,count=1)
+ answer=content_by_path.get(topic['href'],{}).get('quick_answer')
+ if answer:
+  answer_block=quick_answer_html(answer)
+  if '<!-- SEARCH-INTENT:START -->' in s:
+   s=re.sub(r'<!-- SEARCH-INTENT:START -->.*?<!-- SEARCH-INTENT:END -->',lambda _:answer_block,s,count=1,flags=re.S)
+  else:
+   hero_end=s.index('</section>',s.index('<section class="hero"'))+len('</section>')
+   s=s[:hero_end]+answer_block+s[hero_end:]
  f.write_text(s,encoding='utf8')
 print('Built',len(guides),'guides and home marked sections')

@@ -201,6 +201,17 @@ def cv_block_html(city):
     )
 
 
+def quick_answer_html(answer):
+    if not answer:
+        return ''
+    return (
+        '<!-- SEARCH-INTENT:START --><aside class="verified-update">'
+        f'<h2>{esc(answer["heading"])}</h2><p>{answer["details"]}</p>'
+        f'<p><a href="{esc(answer["url"])}">{esc(answer["label"])}</a></p>'
+        '</aside><!-- SEARCH-INTENT:END -->'
+    )
+
+
 def render_page(item, city, category_items, content_map):
     title = item.get("title") or item.get("title_iwata") or item["href"]
     city_name = city["city_name"]
@@ -234,6 +245,7 @@ def render_page(item, city, category_items, content_map):
             lead = f"{esc(city_name)}の{esc(category)}に関する「{esc(title)}」について、公式ページの情報を整理しています。"
 
     note_html = f'<div class="note">{esc(content["note"])}</div>' if content and content.get("note") else ""
+    quick_answer = quick_answer_html(content.get("quick_answer")) if content else ""
     rich_html = ""
     if content:
         rich_html = "".join([
@@ -254,7 +266,7 @@ def render_page(item, city, category_items, content_map):
 <!-- PART:disclaimer:START --><div class="disclaimer"><div class="wrap">{esc(site_name)}は{esc(city_name)}公式サイトではありません。最新・正確な情報は必ず公式ページで確認してください。</div></div><!-- PART:disclaimer:END -->
 <main><div class="wrap">
 {breadcrumb}
-<section class="hero"><div class="hero-visual"><h1>{esc(title)}</h1></div><div class="hero-body"><p class="lead">{lead}</p></div></section>
+<section class="hero"><div class="hero-visual"><h1>{esc(title)}</h1></div><div class="hero-body"><p class="lead">{lead}</p></div></section>{quick_answer}
 {note_html}
 {rich_html}
 <h2 class="sec">公式窓口・確認先</h2><div class="official">{facts_html(item.get('facts'))}{sources_html(item.get('sources_kakegawa'), city_name)}</div>

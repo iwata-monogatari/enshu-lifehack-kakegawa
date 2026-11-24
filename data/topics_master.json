@@ -380,7 +380,10 @@
     "synonyms": [
       "通学区",
       "校区",
-      "学区"
+      "学区",
+      "小学校 学区",
+      "中学校 学区",
+      "指定学校"
     ],
     "tier": "common",
     "source_iwata": [
@@ -416,7 +419,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "通学区は、住所と学校情報をセットで確認する"
+    "title": "掛川市の小学校・中学校の通学区｜住所から学区を確認"
   },
   {
     "href": "/life/education/study-facilities/",
@@ -6914,7 +6917,10 @@
     "category": "困った・相談したい",
     "synonyms": [
       "生活費相談",
-      "生活困窮"
+      "生活困窮",
+      "家計相談",
+      "掛川市 家計 相談",
+      "家計改善支援"
     ],
     "tier": "common",
     "source_iwata": [
@@ -6961,7 +6967,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "生活費が足りないときは、ひとりで抱えず福祉課に相談する"
+    "title": "掛川市の生活費・家計相談｜社協の無料相談と福祉課の窓口"
   },
   {
     "href": "/life/troubles-consult/road-repair-mirror/",
