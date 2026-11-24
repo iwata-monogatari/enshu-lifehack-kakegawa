@@ -1,91 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://kakegawa.enshu-lifehack.com/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url><loc>https://kakegawa.enshu-lifehack.com/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/castle-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/terms/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/12127/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/12454/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/akazukin-farm/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/akihajinjya/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/awagatake/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/bara/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/bijitasenta/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/chagusaba/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/countryfarmsatouen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/fujibun/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/fumonji/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/hashiratokei_and_audio_museum/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/housenjionsen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/houtokusha/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ichigo/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/imokiri/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/12127/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/wadaoka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/12454/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yonakiishi-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/akazukin-farm/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/strawberry-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/akihajinjya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/akiha-hongu-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/awagatake/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/awagatake-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/bara/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/rose-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/bijitasenta/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/station-south-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/chagusaba/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/chagusaba-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/countryfarmsatouen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/sato-grapes-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/fujibun/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/fujibun-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/fumonji/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/fumonji-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/hashiratokei_and_audio_museum/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/clock-museum-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/housenjionsen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/housenji-onsen-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/houtokusha/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/hotoku-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ichigo/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/strawberry-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/imokiri/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/hoshiimo-example-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/discover/jyukushuzuka/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kachoen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawa-three-castles/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawacha/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawajyo/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawajyogoten/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kamoso-katyoen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kapposhi-terrace/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kawazakaya/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kiwifruitcountry/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/koimo/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/koressikadokoro/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kotonomama/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kachoen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kachoen-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawa-three-castles/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/castle-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/takatenjin-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yokosuka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawacha/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kakegawa-tea-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/awagatake-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawajyo/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/castle-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kakegawajyogoten/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/goten-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kamoso-katyoen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kamo-garden-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kapposhi-terrace/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kapposhi-terrace-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kawazakaya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kawazakaya-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kiwifruitcountry/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kiwi-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/koimo/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/satouimo-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/koressikadokoro/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/station-south-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kotonomama/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kotonomama-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/discover/kuramiakaisi/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kuramionsen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kuzufu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/kyuenji/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/machibansho/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/matsubanotaki/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/matsugaoka/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/mekyabetu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/melon/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/michinoeki/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/mikumanojinjya/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kuramionsen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/matsuba-falls-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kurami-onsen-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kuzufu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kuzufu-fusuma-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/kyuenji/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/kyuenji-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/machibansho/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/osuka-branch-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/matsubanotaki/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/matsuba-falls-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/matsugaoka/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/matsugaoka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/mekyabetu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/brussels-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/melon/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/melon-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/michinoeki/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/road-station-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/mikumanojinjya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/mikumano-shrine-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/discover/myogajimacamp/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/nanbukankoannai/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/narakokonosato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/narakokonoyu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/nemunoki/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ninomaru/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ninomaruchasitu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/nishiohyadamu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/obisan/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ogasayama/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ohamakouen/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/nanbukankoannai/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yokosuka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/narakokonosato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/narakoko-camp-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/narakokonoyu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/narakoko-spa-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/nemunoki/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/nemunoki-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ninomaru/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/ninomaru-museum-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ninomaruchasitu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/tea-room-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/nishiohyadamu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/nishioya-dam-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/obisan/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/obisan-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ogasayama/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/ogasayama-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ohamakouen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/ohama-park-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/discover/osukarekisiminzoku/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/otakekasinhaka/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/otemon/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/rakkasei/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/retasu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/ryugeintaiyuin/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/sayononakayama/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/seatopia/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/seimeizuka/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/shimizuteiteien/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/shinrinkajyu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/shinrinnoyu/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/shiosaibashi/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/shiseido/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/sousenji/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/stainedglass/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/tabista/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/takatenjinjyoato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/takenomaru/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/tatsuojinjya/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/todukabudouen/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/tomato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/totoumizuka/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/toumon-no-sato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/tsumagoiresortsainosato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/wadaokakofun/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yasakajinjya/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yokosukajyoato/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yokosukatako/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yorozuya/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yoshiokakinenkan/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yoshiyukibungaku/</loc></url>
-<url><loc>https://kakegawa.enshu-lifehack.com/discover/yumeakari/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/otakekasinhaka/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/goten-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/otemon/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/otemon-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/castle-bansho-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/rakkasei/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/peanut-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/retasu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/lettuce-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/ryugeintaiyuin/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/ryugein-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/sayononakayama/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/sayo-pass-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/seatopia/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/daito-onsen-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/seimeizuka/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/seimei-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/shimizuteiteien/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/shimizu-garden-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/shinrinkajyu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/fruit-park-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/shinrinnoyu/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/tsumagoi-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/shiosaibashi/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/shiosai-bridge-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/shiseido/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/shiseido-museum-960.webp</image:loc></image:image>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/shiseido-art-house-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/sousenji/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/sousenji-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/stainedglass/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/stained-glass-museum-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/tabista/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/station-south-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/takatenjinjyoato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/takatenjin-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/takenomaru/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/takenomaru-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/tatsuojinjya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/tatsuo-ume-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/todukabudouen/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/totsuka-grapes-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/tomato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/tomato-example-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/totoumizuka/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/toutoumi-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/toumon-no-sato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/toumon-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/tsumagoiresortsainosato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/tsumagoi-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/wadaokakofun/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/wadaoka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yasakajinjya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yasaka-festival-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yokosukajyoato/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yokosuka-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yokosukatako/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yokosuka-kite-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yorozuya/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yorozuya-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yoshiokakinenkan/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yayoi-museum-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yoshiyukibungaku/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yoshiyuki-960.webp</image:loc></image:image>
+</url>
+<url><loc>https://kakegawa.enshu-lifehack.com/discover/yumeakari/</loc>
+  <image:image><image:loc>https://kakegawa.enshu-lifehack.com/assets/discover-photos/yumeakari-960.webp</image:loc></image:image>
+</url>
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/bereavement/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/care/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/counter/</loc></url>
@@ -99,6 +267,7 @@
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/updates/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/urgent/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/guide/visit/</loc></url>
+<url><loc>https://kakegawa.enshu-lifehack.com/guide/water-bill-relief/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/life/education/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/life/education/after-school-club/</loc></url>
 <url><loc>https://kakegawa.enshu-lifehack.com/life/education/educational-consulting/</loc></url>

@@ -53,7 +53,7 @@ def load_articles():
         if note:
             note = (note[0], *config['source_sets'][note[1]])
         article.update(theme=theme, title=title, lead=lead, background=background, practical=practical,
-                       href=f'/discover/{slug}/', sources=sources, note=note, checked=config['checked'],
+                       href=f'/discover/{slug}/', sources=sources, note=note, checked=config.get('checked_overrides', {}).get(slug, config['checked']),
                        status='閉館済み' if article.get('closed') else config['status'].get(slug),
                        aliases=config['aliases'].get(slug, []))
         articles[slug] = article

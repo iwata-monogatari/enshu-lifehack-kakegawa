@@ -12,5 +12,12 @@
   {"query":"観光", "expectedHrefIncludesAny":["/guide/visit/"]},
   {"query":"お茶", "expectedHrefIncludesAny":["/guide/food/"]},
   {"query":"最新", "expectedHrefIncludesAny":["/guide/updates/"]},
-  {"query":"キエーロ", "expectedHrefIncludesAny":["/guide/garbage/"]}
+  {"query":"キエーロ", "expectedHrefIncludesAny":["/guide/garbage/"]},
+  {"query": "水道料金減免", "expectedHrefIncludesAny": ["/guide/water-bill-relief/"]},
+  {"query": "学童保育", "expectedHrefIncludesAny": ["/life/education/after-school-club/"]},
+  {"query": "掛川城入館料", "expectedHrefIncludesAny": ["/discover/kakegawajyo/"]},
+  {"query": "ごみ収集カレンダー", "expectedHrefIncludesAny": ["/life/start-living/garbage-sorting-calendar/"]},
+  {"query": "コンビニ交付", "expectedHrefIncludesAny": ["/life/start-living/certificates/"]},
+  {"query": "自主運行バス", "expectedHrefIncludesAny": ["/life/living-soon/transportation/"]},
+  {"query": "市営住宅募集", "expectedHrefIncludesAny": ["/life/housing/municipal-housing/"]}
 ]

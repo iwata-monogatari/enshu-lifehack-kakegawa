@@ -8,7 +8,11 @@
       "放課後児童クラブ",
       "学童",
       "学童保育",
-      "放課後クラブ"
+      "放課後クラブ",
+      "令和9年度学童",
+      "小学校入学",
+      "学童申込書",
+      "学童締切"
     ],
     "tier": "common",
     "source_iwata": [
@@ -42,7 +46,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "放課後の預け先は、放課後児童クラブの対象と申請時期を先に確認する"
+    "title": "掛川市の学童保育（放課後児童クラブ）｜2027年度の申込書・確認先"
   },
   {
     "href": "/life/education/educational-consulting/",
@@ -3152,7 +3156,10 @@
     "category": "家・住まい",
     "synonyms": [
       "市営住宅",
-      "公営住宅"
+      "公営住宅",
+      "市営住宅募集",
+      "市営住宅空き",
+      "県住宅供給公社"
     ],
     "tier": "common",
     "source_iwata": [
@@ -3201,7 +3208,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "市営住宅は、募集条件・収入・必要書類を先に確認する"
+    "title": "掛川市営住宅の募集｜申込資格・空き住戸・問い合わせ先"
   },
   {
     "href": "/life/housing/property-tax/",
@@ -3761,7 +3768,10 @@
     "category": "これから暮らす",
     "synonyms": [
       "移動手段",
-      "公共交通"
+      "公共交通",
+      "自主運行バス",
+      "バス時刻表",
+      "市街地循環線"
     ],
     "tier": "common",
     "source_iwata": [
@@ -3808,7 +3818,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "住む地区を決める前に、掛川市の移動手段を先に確かめる"
+    "title": "掛川市のバス・電車｜自主運行バスの時刻表と経路検索"
   },
   {
     "href": "/life/living-soon/want-to-live/",
@@ -5103,7 +5113,9 @@
     "title_iwata": "図書館へ行く前に、開館日・利用カード・場所を確認する",
     "category": "遊ぶ・使う・出かける",
     "synonyms": [
-      "図書館"
+      "図書館",
+      "電子図書館",
+      "掛川図書館"
     ],
     "tier": "common",
     "source_iwata": [
@@ -5144,7 +5156,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "図書館へ行く前に、開館日・利用カード・最寄り館を確認する"
+    "title": "掛川市立図書館の利用案内｜中央・大東・大須賀の開館と利用カード"
   },
   {
     "href": "/life/start-living/bulky-garbage-dropoff/",
@@ -5207,7 +5219,9 @@
       "住民票",
       "戸籍",
       "印鑑証明",
-      "証明書"
+      "証明書",
+      "コンビニ交付",
+      "コンビニで住民票"
     ],
     "tier": "common",
     "source_iwata": [
@@ -5257,7 +5271,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "提出先に出す証明書は、コンビニ交付か窓口かを間違えず最短で受け取る"
+    "title": "掛川市の証明書コンビニ交付｜住民票・戸籍・印鑑登録証明書"
   },
   {
     "href": "/life/start-living/city-hall-branches/",
@@ -5416,7 +5430,11 @@
     "synonyms": [
       "ごみの日",
       "ごみカレンダー",
-      "分別"
+      "分別",
+      "収集日",
+      "ごみカレンダー2026",
+      "大東ごみ",
+      "大須賀ごみ"
     ],
     "tier": "common",
     "source_iwata": [
@@ -5465,7 +5483,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "引っ越し先で、ごみを間違えずに出せるようごみカレンダーを確認する"
+    "title": "掛川市のごみ収集カレンダー｜掛川・大東・大須賀の地区別収集日"
   },
   {
     "href": "/life/start-living/how-to-garbage/",
@@ -5972,7 +5990,10 @@
     "category": "暮らし始めた",
     "synonyms": [
       "水道開始",
-      "水道停止"
+      "水道停止",
+      "水道開栓",
+      "水道閉栓",
+      "水道引っ越し"
     ],
     "tier": "common",
     "source_iwata": [
@@ -6035,7 +6056,7 @@
     "ai_checked_date": "2026-07-03",
     "ai_notes": "WebSearch/WebFetchで個別に再調査・出典を精選済み（自動マッチングの誤りを修正）。大石による最終確認(human-verified)待ち。",
     "verified_by": "machine",
-    "title": "引っ越し日に水が出ない事態を防ぐ。水道の開始・中止届を早めに"
+    "title": "掛川市の水道の開始・中止｜引っ越し時の電話と受付時間"
   },
   {
     "href": "/life/troubles-consult/animal-pet-consultation/",

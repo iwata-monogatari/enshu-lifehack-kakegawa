@@ -47,8 +47,9 @@
     "narakokonosato": ["narakoko"], "narakokonoyu": ["narakoko_spa"], "myogajimacamp": ["myoga"], "seatopia": ["daito"], "shinrinnoyu": ["hmi", "tourism"], "tsumagoiresortsainosato": ["hmi", "tourism"],
     "bijitasenta": ["stations"], "tabista": ["stations"], "nanbukankoannai": ["stations"], "koressikadokoro": ["kore"], "kakegawacha": ["tea", "teafarm"], "chagusaba": ["teafarm", "road"], "matsugaoka": ["tourism"], "toumon-no-sato": ["tourism"]
   },
+  "checked_overrides": {"kakegawajyo": "2026-11-24"},
   "visit_notes": {
-    "kakegawajyo": ["2026年11月1日〜12月31日は天守閣・御殿の最終受付16:00、閉館16:30。期間後の時間は運営案内を確認。", "tourism"],
+    "kakegawajyo": ["2026年11月1日〜12月31日の天守閣・御殿は9:00〜16:30、最終受付16:00です。期間後は運営案内をご確認ください。", "castle_news"],
     "kakegawajyogoten": ["2026年11月1日〜12月31日は最終受付16:00、閉館16:30。", "tourism"],
     "takenomaru": ["2026年11月1日〜12月31日は最終受付16:00、閉館16:30。", "tourism"],
     "ninomaruchasitu": ["2026年9月1日から営業時間は通年9:30〜16:30。イベント時は個別案内を確認。", "tourism"],
@@ -67,7 +68,7 @@
   },
   "status": {"kamoso-katyoen": "長期休園中", "obisan": "登山道の一部通行止め"},
   "aliases": {
-    "kakegawajyo": ["掛川城天守閣", "山内一豊", "雲霧城"], "12454": ["夜泣き石", "遠州七不思議"],
+    "kakegawajyo": ["掛川城天守閣", "山内一豊", "雲霧城", "掛川城入館料", "掛川城開館時間", "掛川駅から掛川城", "掛川城駐車場"], "12454": ["夜泣き石", "遠州七不思議"],
     "12127": ["土器", "出土品"], "kakegawacha": ["深蒸し茶", "深蒸し煎茶", "新茶", "お茶"],
     "chagusaba": ["茶草場", "世界農業遺産", "東山"], "ichigo": ["いちご", "苺", "紅ほっぺ", "きらぴ香", "章姫"],
     "mekyabetu": ["芽キャベツ"], "imokiri": ["干し芋", "干しいも"], "kuzufu": ["くず布", "葛湯"],

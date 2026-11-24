@@ -247,7 +247,7 @@ def render_page(item, city, category_items, content_map):
     html = f"""<!doctype html><html lang="ja"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)} | {esc(site_name)}</title>
-<meta name="description" content="{esc(city_name)}の{esc(category)}に関する情報を整理する非公式ナビです。最新・正確な情報は必ず{esc(city_name)}公式ページで確認してください。">
+<meta name="description" content="{lead if city_name.replace('市', '') in lead else esc(city_name) + 'の案内。' + lead}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <!-- PART:head-css:START --><link rel="stylesheet" href="/assets/site.css?v=20260702"><!-- PART:head-css:END --></head><body>
 <!-- PART:header:START --><header class="site"><div class="wrap"><a class="logo" href="/">{esc(site_name)}</a></div></header><!-- PART:header:END -->
