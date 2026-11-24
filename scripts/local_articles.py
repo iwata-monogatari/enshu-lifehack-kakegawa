@@ -110,7 +110,7 @@ def album_section(entries):
         return ''
     items = []
     for path, label in entries:
-        if not re.fullmatch(r'/(?:features|photos)/[a-z0-9-]+/', path):
+        if path != '/' and not re.fullmatch(r'/(?:features|photos)/[a-z0-9-]+/', path):
             raise ValueError(f'Invalid photo archive path: {path}')
         items.append(f'<li><a href="{ALBUM}{path}" data-track-click="local_gallery_related">{html.escape(label)}</a></li>')
     return sections('掛川懐かし写真館で見る', f'<ul>{"".join(items)}</ul>', 'album-photos')
@@ -251,6 +251,7 @@ def update_guide_body(guide, articles):
     body = guide['body']
     destination_links = {a['url']: a for a in articles.values() if not a.get('closed')}
     if section == 'visit':
+        related_album = [('/', '掛川懐かし写真館で古写真・航空写真を探す')]
         introduction = ('<p>掛川城や旧東海道、自然・温泉、特産品の背景や見どころを、項目ごとの記事で読めます。'
                         '各記事から市や運営者の公式情報を確認できます。</p>')
         introduction += f'<p>{link("/guide/history/", "歴史・文化の記事一覧")}</p>'
@@ -259,6 +260,10 @@ def update_guide_body(guide, articles):
         body = body.replace('掛川花鳥園、加茂荘花鳥園、キウイフルーツカントリーJAPAN、森林果樹公園などは、体験の内容と季節を確認して選びます。',
                             '掛川花鳥園、キウイフルーツカントリーJapan、森林果樹公園などは、体験の内容と季節を確認して選びます。加茂荘花鳥園は観光協会の11月16日更新情報では長期休園中です。')
     else:
+        related_album = [
+            ('/features/higashiyama-tea/', '東山・粟ヶ岳の茶畑と茶草場農法の写真'),
+            ('/', '写真館のほかの特集を見る'),
+        ]
         introduction = f'<p>{link(articles["kakegawacha"]["href"], "掛川茶と深蒸し煎茶を知る")} ／ {link(articles["chagusaba"]["href"], "世界農業遺産・茶草場農法を知る")}</p>'
         listing = sections('お茶・特産品の記事一覧', introduction + article_list(articles, 'food'), 'local-articles')
         body, count = re.subn(r'<div class="place-grid">.*?</div>', lambda _: '</section>' + listing + '<section class="guide-section local-empty" hidden>', body, flags=re.S)
@@ -273,4 +278,4 @@ def update_guide_body(guide, articles):
         return match[0]
 
     body = re.sub(r'<a href="(https?://[^\"]+)">([^<]+)</a>', use_article, body)
-    return f'<p class="local-jump">{link("#local-articles", "詳しい記事を一覧から探す ↓")}</p>' + body
+    return f'<p class="local-jump">{link("#local-articles", "詳しい記事を一覧から探す ↓")}</p>' + album_section(related_album) + body

@@ -6,11 +6,13 @@
     ["/features/early-kakegawa/", "明治・大正・昭和初期の掛川と旧東海道"],
     ["/features/kakegawa-railways/", "天浜線と軽便鉄道・駿遠線の跡"],
     ["/features/higashiyama-tea/", "東山の茶畑と茶草場農法の仕事風景"],
-    ["/features/kakegawa-coast/", "旧大東と旧大須賀の海辺の写真"]
+    ["/features/kakegawa-coast/", "旧大東と旧大須賀の海辺の写真"],
+    ["/", "掛川懐かし写真館ですべての写真を探す"]
   ],
   "articles": {
     "12454": [
-      ["/photos/mlit-image37/", "昭和初期以前、夜泣き石のそばに立つ人々"]
+      ["/photos/mlit-image37/", "昭和初期以前、夜泣き石のそばに立つ人々"],
+      ["/features/early-kakegawa/", "明治・大正・昭和初期の掛川を古写真で見る"]
     ],
     "awagatake": [
       ["/photos/kakegawa-city-148/", "2007年の粟ヶ岳と東山の茶畑"],
@@ -47,13 +49,16 @@
     ],
     "kakegawajyo": [
       ["/features/kakegawa-castle/", "掛川城の天守・御殿・城下町の写真"],
-      ["/photos/kakegawa-city-310/", "2015年、掛川城を背に進む掛川大祭の屋台"]
+      ["/photos/kakegawa-city-310/", "2015年、掛川城を背に進む掛川大祭の屋台"],
+      ["/features/kakegawa-matsuri/", "掛川祭・掛川大祭と商店街を年代別に見る"]
     ],
     "kakegawajyogoten": [
-      ["/photos/commons-303f5efe87/", "2007年の掛川城御殿の縁側"]
+      ["/photos/commons-303f5efe87/", "2007年の掛川城御殿の縁側"],
+      ["/features/kakegawa-castle/", "天守・御殿と城下町の写真"]
     ],
     "kawazakaya": [
-      ["/photos/kakegawa-city-35/", "日坂宿・川坂屋の土間と帳場"]
+      ["/photos/kakegawa-city-35/", "日坂宿・川坂屋の土間と帳場"],
+      ["/features/nissaka-sayo/", "昔の日坂宿と小夜の中山を写真で歩く"]
     ],
     "kotonomama": [
       ["/photos/uraken-kakegawa-20090124-10/", "2009年の事任八幡宮の拝殿"]
@@ -77,7 +82,8 @@
       ["/photos/commons-0d4aa3181d/", "2005年の道の駅掛川"]
     ],
     "mikumanojinjya": [
-      ["/photos/kakegawa-city-289/", "2014年、八百甚の前を通る三熊野神社大祭の祢里"]
+      ["/photos/kakegawa-city-289/", "2014年、八百甚の前を通る三熊野神社大祭の祢里"],
+      ["/features/enshu-yokosuka/", "三熊野神社大祭と遠州横須賀の町並み"]
     ],
     "nanbukankoannai": [
       ["/features/enshu-yokosuka/", "遠州横須賀の街道と城跡"],
@@ -145,7 +151,8 @@
     ],
     "tabista": [
       ["/photos/flickr-2174254768/", "2007年の掛川駅南口広場"],
-      ["/features/kakegawa-railways/", "平成の天浜線の駅舎と列車"]
+      ["/features/kakegawa-railways/", "平成の天浜線の駅舎と列車"],
+      ["/features/kakegawa-station/", "昔の掛川駅の駅舎と駅前広場"]
     ],
     "takatenjinjyoato": [
       ["/features/daito/", "高天神城跡と高天神社例大祭の写真"]
@@ -163,7 +170,8 @@
       ["/photos/kakegawa-city-299/", "2016年、中八坂神社祇園祭の祢里"]
     ],
     "yokosukajyoato": [
-      ["/photos/uraken-kakegawa-20090124-04/", "2009年の横須賀城跡の玉石垣"]
+      ["/photos/uraken-kakegawa-20090124-04/", "2009年の横須賀城跡の玉石垣"],
+      ["/features/enshu-yokosuka/", "横須賀城跡と遠州横須賀の写真特集"]
     ],
     "yokosukatako": [
       ["/photos/kakegawa-city-274/", "2018年、遠州横須賀の冬空に揚がる凧"]
