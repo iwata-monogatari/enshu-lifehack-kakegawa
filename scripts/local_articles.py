@@ -8,6 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = 'https://kakegawa.enshu-lifehack.com'
+ALBUM = 'https://kakegawaalb.atawi.link'
 GROUP_ICONS = {
     '歴史・まち歩き': '🏯', '自然・公園': '🌿', '文化・美術': '🎨',
     '体験・温泉': '♨️', '食・特産品': '🍵', '閉館・過去資料': '📚',
@@ -104,6 +105,17 @@ def paragraph(text):
     return f'<p>{html.escape(text)}</p>'
 
 
+def album_section(entries):
+    if not entries:
+        return ''
+    items = []
+    for path, label in entries:
+        if not re.fullmatch(r'/(?:features|photos)/[a-z0-9-]+/', path):
+            raise ValueError(f'Invalid photo archive path: {path}')
+        items.append(f'<li><a href="{ALBUM}{path}" data-track-click="local_gallery_related">{html.escape(label)}</a></li>')
+    return sections('掛川懐かし写真館で見る', f'<ul>{"".join(items)}</ul>', 'album-photos')
+
+
 def wrap_page(title, lead, href, breadcrumb, content, scripts=''):
     return f'''<!doctype html>
 <html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -160,6 +172,9 @@ def build_local_articles(articles):
     photography = read_data('local-article-photos.json')
     if set(photography['articles']) - set(articles):
         raise ValueError('Photo list refers to an unknown article')
+    archive_links = read_data('local-article-album.json')
+    if set(archive_links['articles']) - set(articles):
+        raise ValueError('Photo archive links refer to an unknown article')
     by_theme = defaultdict(list)
     for article in articles.values():
         by_theme[article['theme']].append(article)
@@ -197,6 +212,7 @@ def build_local_articles(articles):
         body = sections('背景と見どころ', paragraph(article['background']) + ''.join(supporting))
         practical_title = '閉館後に確認できる資料' if article.get('closed') else '選び方と確認先' if food else '訪ねる前の確認'
         body += sections(practical_title, paragraph(article['practical']) + location)
+        body += album_section(archive_links['articles'].get(article['slug'], []))
         sources = ''.join(f'<li>{link(url, label)}</li>' for label, url in article['sources'])
         body += sections('公式情報・出典', f'<ul>{sources}</ul>')
 
@@ -220,6 +236,7 @@ def build_local_articles(articles):
     highlights = ''.join(f'<li>{link(articles[slug]["href"], label)}<span>{html.escape(articles[slug]["lead"])}</span></li>' for label, slug in history_cards)
     body = f'<header class="guide-hero local-hero"><h1>{history_title}</h1><p class="lead">{history_lead}</p></header>'
     body += sections('テーマから読む', f'<ul class="local-highlights">{highlights}</ul>')
+    body += album_section(archive_links['history'])
     body += sections('歴史・文化の記事一覧', article_list(articles, 'history'), 'local-articles')
     body += f'<p>{link("/guide/visit/#local-articles", "すべてのお出かけ記事")} ／ {link("/guide/food/#local-articles", "お茶・特産品の記事")}</p>'
     write_page(history_url, wrap_page(history_title, history_lead, history_url, link('/', 'ホーム'), body, '<script src="/assets/guide-tools.js?v=2" defer></script>'))
