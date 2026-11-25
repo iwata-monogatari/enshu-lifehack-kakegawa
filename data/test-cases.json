@@ -21,5 +21,8 @@
   {"query": "自主運行バス", "expectedHrefIncludesAny": ["/life/living-soon/transportation/"]},
   {"query": "市営住宅募集", "expectedHrefIncludesAny": ["/life/housing/municipal-housing/"]},
   {"query": "掛川市 家計 相談", "expectedHrefIncludesAny": ["/life/troubles-consult/living-costs-trouble/"]},
-  {"query": "通学区", "expectedHrefIncludesAny": ["/life/education/school-zones/"]}
+  {"query": "通学区", "expectedHrefIncludesAny": ["/life/education/school-zones/"]},
+  {"query": "年末年始 ごみ 収集日", "expectedHrefIncludesAny": ["/guide/garbage/"]},
+  {"query": "正月 ごみ 収集日", "expectedHrefIncludesAny": ["/guide/garbage/"]},
+  {"query": "年末 環境資源ギャラリー 持ち込み 予約", "expectedHrefIncludesAny": ["/guide/garbage/"]}
 ]
