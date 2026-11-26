@@ -155,7 +155,7 @@ def photo_figure(photo, caption, priority=False):
         credit += f' ／ {link(photo["license_url"], photo["license"])}'
     if photo.get('date'):
         credit += f' ／ 撮影 {escape(photo["date"])}'
-    if image['url'].startswith('/'):
+    if image['url'].startswith('/') and not image.get('original'):
         credit += ' ／ サイズ変更・WebP変換'
     loading = 'fetchpriority="high"' if priority else 'loading="lazy"'
     alt = re.sub(r'^(?:参考|関連)写真：', '', caption).split('（産地指定なし）')[0]

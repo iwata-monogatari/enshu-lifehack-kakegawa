@@ -1,5 +1,20 @@
 {
   "images": {
+    "osuka-folk-museum-exterior": {
+      "caption": "大須賀歴史民俗資料館の外観",
+      "source": "https://www.city.kakegawa.shizuoka.jp/kanko/spot-list/osukarekisiminzoku.html",
+      "author": "掛川市観光サイトから転載",
+      "credit_label": "写真出典：",
+      "variants": [
+        {
+          "url": "/assets/discover-photos/osuka-folk-museum-exterior.jpg",
+          "width": 240,
+          "height": 180,
+          "bytes": 21945,
+          "original": true
+        }
+      ]
+    },
     "jyukushuzuka-marker": {
       "caption": "十九首塚の現地に立つ石標",
       "source": "https://www.kakegawa-kankou.com/kanko/guide/facility_detail.php?_mfi=247",
@@ -1791,6 +1806,11 @@
     }
   },
   "articles": {
+    "osukarekisiminzoku": [
+      {
+        "key": "osuka-folk-museum-exterior"
+      }
+    ],
     "jyukushuzuka": [
       {
         "key": "jyukushuzuka-marker"
